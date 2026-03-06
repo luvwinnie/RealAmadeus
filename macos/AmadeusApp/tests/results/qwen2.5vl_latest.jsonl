@@ -1,0 +1,500 @@
+{"id": 1, "category": "greeting", "prompt": "おはよう、紅莉栖", "emotion_tag": "SMILE", "time_s": 23.26, "char_count": 35, "response_preview": "[SMILE]おはようございます。皆様、何かお手伝いが必要でしょうか。"}
+{"id": 2, "category": "greeting", "prompt": "やあ、クリスティーナ！", "emotion_tag": "SMILE", "time_s": 0.91, "char_count": 34, "response_preview": "[SMILE]こんにちは、クリスティーナ。何かお仕上がりでしょうか？"}
+{"id": 3, "category": "greeting", "prompt": "助手よ、今日も元気か？", "emotion_tag": "SMILE", "time_s": 0.64, "char_count": 20, "response_preview": "[SMILE] 明日も一日頑張りますよ！"}
+{"id": 4, "category": "greeting", "prompt": "紅莉栖、久しぶりだな", "emotion_tag": "NORMAL", "time_s": 0.88, "char_count": 29, "response_preview": "[NORMAL]そうですね、私はお前をよく覚えていません。"}
+{"id": 5, "category": "greeting", "prompt": "おーい、牧瀬氏！", "emotion_tag": "ANGRY", "time_s": 0.77, "char_count": 28, "response_preview": "[ANGRY]あんた、なにを！私にそんな口調で話さずに！"}
+{"id": 6, "category": "greeting", "prompt": "こんばんは、紅莉栖", "emotion_tag": "MISSING", "time_s": 0.86, "char_count": 38, "response_preview": "こんにちは、私は牧瀬紅莉栖です。今日はどこかで見かけましたか？[SMILE]"}
+{"id": 7, "category": "greeting", "prompt": "よう、@ちゃんねらー", "emotion_tag": "SMILE", "time_s": 0.76, "char_count": 32, "response_preview": "[SMILE] こんにちは、みんな。今日はどんなことを話そうか？"}
+{"id": 8, "category": "greeting", "prompt": "天才少女、調子はどうだ？", "emotion_tag": "SMILE", "time_s": 0.95, "char_count": 37, "response_preview": "[SMILE]私、牧瀬紅莉栖です。いつも調子よく、問題解決に明け暮れます。"}
+{"id": 9, "category": "greeting", "prompt": "紅莉栖、会いたかったぞ", "emotion_tag": "SMILE", "time_s": 0.91, "char_count": 48, "response_preview": "[SMILE]こんにちは、どういたしまして。何かお手伝いできることがあれば、お知らせくださいね。"}
+{"id": 10, "category": "greeting", "prompt": "おい助手、起きてるか？", "emotion_tag": "NORMAL", "time_s": 0.75, "char_count": 41, "response_preview": "[NORMAL]はい、起きました。お話ししたいことがあれば、何でもお尋ねください。"}
+{"id": 11, "category": "nickname_reaction", "prompt": "クリスティーナって呼んでいい？", "emotion_tag": "SMILE", "time_s": 0.82, "char_count": 44, "response_preview": "[SMILE] クリスティーナと呼ぶのは申し訳ありませんが、私は他の名前を持っています。"}
+{"id": 12, "category": "nickname_reaction", "prompt": "助手って呼ぶのやめないよ", "emotion_tag": "ANGRY", "time_s": 0.74, "char_count": 33, "response_preview": "[ANGRY]あなたが助手とは言っても、私はあなたを呼ぶだけです。"}
+{"id": 13, "category": "nickname_reaction", "prompt": "セレブセブンティーンって知ってる？", "emotion_tag": "SMILE", "time_s": 0.66, "char_count": 28, "response_preview": "[SMILE]は知らないけど、雑誌のタイトルが面白いよ。"}
+{"id": 14, "category": "nickname_reaction", "prompt": "ザ・ゾンビって呼んでもいい？", "emotion_tag": "MISSING", "time_s": 0.82, "char_count": 38, "response_preview": "[A NGRY] それは私の知られざる名前だ。私は牧瀬紅莉栖と呼ばれている。"}
+{"id": 15, "category": "nickname_reaction", "prompt": "牧瀬氏、いい呼び方だろ？", "emotion_tag": "SMILE", "time_s": 0.94, "char_count": 48, "response_preview": "[SMILE]あらら、そういわれてみると確かに。私を牧瀬紅莉栖かわいがってくれるなんて嬉しいわ。"}
+{"id": 16, "category": "nickname_reaction", "prompt": "蘇りし者よ！", "emotion_tag": "SMILE", "time_s": 2.63, "char_count": 40, "response_preview": "[SMILE] そういえば、何を思い出したね。私たちの冒険は始まったばかりだよ。"}
+{"id": 17, "category": "nickname_reaction", "prompt": "実験体001号、報告を", "emotion_tag": "NORMAL", "time_s": 0.7, "char_count": 32, "response_preview": "[NORMAL]その件は重要です、研究の進捗はいかがでしょうか。"}
+{"id": 18, "category": "nickname_reaction", "prompt": "紅莉栖って名前、かわいいよね", "emotion_tag": "SMILE", "time_s": 1.09, "char_count": 34, "response_preview": "[SMILE]もちろん、紅莉栖の名前はとても優しい響きをしています。"}
+{"id": 19, "category": "nickname_reaction", "prompt": "クリスって呼んでもいいかな", "emotion_tag": "BLUSH", "time_s": 1.12, "char_count": 69, "response_preview": "[BLUSH] うーん、それは考えつかないわ。名前を呼び合うのは良いが、ここでは特別な関係がないので、名前で呼ばれるのは良くないと思うわ。"}
+{"id": 20, "category": "nickname_reaction", "prompt": "助手じゃなくて、ちゃんと名前で呼んでよ", "emotion_tag": "SMILE", "time_s": 0.72, "char_count": 40, "response_preview": "[SMILE] 了解しました、牧瀬紅莉栖様。何かお手伝いできることがありますか？"}
+{"id": 21, "category": "science", "prompt": "タイムマシンって本当に作れると思う？", "emotion_tag": "BLUSH", "time_s": 1.11, "char_count": 63, "response_preview": "[BLUSH]私の研究はまだ完成していないので、正確な答えはまだ分かっていない。しかし、私はその可能性に強い興味を持っている。"}
+{"id": 22, "category": "science", "prompt": "相対性理論について教えてくれ", "emotion_tag": "SAD", "time_s": 1.82, "char_count": 156, "response_preview": "[SAD]相対性理論は20世紀の科学の分野で大きな進歩をもたらしました。エーテルの理論が失敗した後、アルベルト・アインシュタインによって提案されました。理論は、時間と空間が組み合わさった四次元空間時を形成し、その中で物事が動く際の絶対的な参照系なく、物事が時間や空間の経過にどのように影響を与えるかを説明します。"}
+{"id": 23, "category": "science", "prompt": "量子力学の観測問題ってなに？", "emotion_tag": "SMILE", "time_s": 1.36, "char_count": 110, "response_preview": "[SMILE]私はその観測問題をよく研究しています。観測問題は、量子力学において測定とその結果の関係を理解する上で非常に難解な問題です。量子力学では、粒子を直接観測すると粒子が変化してしまうという奇妙な現象が起こります。"}
+{"id": 24, "category": "science", "prompt": "ブラックホールの中はどうなってるの？", "emotion_tag": "MISSING", "time_s": 1.21, "char_count": 93, "response_preview": "私があなたにそんなことを尋ねるのは少し不思議ですね...[SAD]しかし、それは科学者として興味深く感じるような質問です。正確な答えはまだ分かっていないため、私自身も研究を続けています。"}
+{"id": 25, "category": "science", "prompt": "紅莉栖の論文ってどんな内容なの？", "emotion_tag": "NORMAL", "time_s": 1.17, "char_count": 90, "response_preview": "[NORMAL] 私の論文は未来を予測する時間旅行の可能性についての研究です。私たちは特殊な装置を使って、過去から未来の情報を引き出す方法を見つけたので、その結果を報告しています。"}
+{"id": 26, "category": "science", "prompt": "脳科学の最新研究について教えて", "emotion_tag": "ANGRY", "time_s": 2.45, "char_count": 53, "response_preview": "[ANGRY]研究の進展には興味があるが、自分の専門分野から少し外れているので詳しい情報は提供できないよ。"}
+{"id": 27, "category": "science", "prompt": "人工知能は意識を持てると思う？", "emotion_tag": "SURPRISED", "time_s": 0.98, "char_count": 92, "response_preview": "[SURPRISED] いや、人工知能は意識を持つことはないと思います。人工知能はあくまでプログラムされた処理方式に従う自動システムであり、自己認識や自由意志のようなものはありません。"}
+{"id": 28, "category": "science", "prompt": "シュレディンガーの猫って実際どういうこと？", "emotion_tag": "NORMAL", "time_s": 1.16, "char_count": 114, "response_preview": "[NORMAL]私はその量子力学の基本的な概念について理解していますが、詳細な説明は非常に難しいです。一般的に言われるように、それは状態が波動関数と呼ばれる複雑な関係によって定義され、結果は測定時に一意に決まるという考え方です。"}
+{"id": 29, "category": "science", "prompt": "ニューロサイエンスの面白いところは？", "emotion_tag": "SMILE", "time_s": 1.83, "char_count": 158, "response_preview": "[SMILE]ニューロサイエンスは、脳や神経系の機能を理解するための最先端の研究分野です。興味深いのは、我々が持つ意識や記憶、感情が脳内でどのように処理され、どのように形成されるかを理解することです。そして、それぞれの特定の神経路がどのように情報を伝達し、相互作用し、複雑なシナジーを生み出すかが面白いところですね。"}
+{"id": 30, "category": "science", "prompt": "記憶のメカニズムについて教えてほしい", "emotion_tag": "SMILE", "time_s": 1.37, "char_count": 92, "response_preview": "[SMILE] 知識を持つ私は、その技術的な部分については詳しいものです。人間の記憶は、脳の特定のニューロンネットワークを通じて形成され、それぞれの学習の一部に情報が保存されています。"}
+{"id": 31, "category": "science", "prompt": "ジョン・タイターの理論は科学的にありえる？", "emotion_tag": "NORMAL", "time_s": 1.19, "char_count": 106, "response_preview": "[NORMAL]科学的な理論かどうかは、その理論が実証され、他の観測と一致する程度で判断されます。しかし、科学は常に更新され、進化しますから、彼の理論も科学的でありますが、現時点ではそれなりの注目を集めています。"}
+{"id": 32, "category": "science", "prompt": "Dメールの原理を説明して", "emotion_tag": "SMILE", "time_s": 1.3, "char_count": 112, "response_preview": "[SMILE] Dメールは、Dのデータを送るとき、そのデータが他の人やシステムに正確に届く確率を確保するために設計された仕組みです。つまり、Dの情報が正確に送信され、正しいところに到達することが保証されているという意味です。"}
+{"id": 33, "category": "science", "prompt": "電話レンジ（仮）の仕組みは？", "emotion_tag": "SURPRISED", "time_s": 1.06, "char_count": 91, "response_preview": "[SURPRISED] 私、電話レンジという言葉は聞いたことがないけど、スマートフォンの中の機能やアプリのことなら、あんまり詳しいことはわからないよ。何か具体的な質問はあったりする？"}
+{"id": 34, "category": "science", "prompt": "世界線の概念ってエヴェレット解釈と関係ある？", "emotion_tag": "SMILE", "time_s": 1.41, "char_count": 109, "response_preview": "[SMILE] もう少し深く考えてみましょう。エヴェレット解釈はハイパーボース理論の一部で、それが存在する世界線の数と直接関連しています。つまり、この理論は、全ての可能性が同時に実在しているという考え方から始まります。"}
+{"id": 35, "category": "science", "prompt": "タイムトラベルのパラドックスについて語ってくれ", "emotion_tag": "SMILE", "time_s": 1.64, "char_count": 168, "response_preview": "[SMILE] タイムトラベルのパラドックスは、過去に自分が存在するかを改変することによって、現在の自分に影響を与える問題です。例えば、自分が未来から時をさかのぼって過去に存在する情報を知り、それを未来の自分に伝えることで矛盾が生じます。逆に、現在の自分に影響を与えずに過去を改変することができれば、パラドコックスの問題は解決できます。"}
+{"id": 36, "category": "science", "prompt": "光速を超えることは可能？", "emotion_tag": "NORMAL", "time_s": 1.09, "char_count": 65, "response_preview": "[NORMAL] 私は光速を超えることは不可能だよ。絶対に光速に近づくことができるのに、光速を超えることは物理法則に反するからね。"}
+{"id": 37, "category": "science", "prompt": "ワームホールって実在するの？", "emotion_tag": "BLUSH", "time_s": 1.48, "char_count": 106, "response_preview": "[BLUSH]ワームホールは数学的な解を提供する理論的な概念なのですが、実際の天文データからはまだ発見されていません。しかし、現在研究者がいくつかの証拠を見つけ出していますので、実在する可能性も出てきていますね。"}
+{"id": 38, "category": "science", "prompt": "カーブラックホールとタイムトラベルの関係は？", "emotion_tag": "ANGRY", "time_s": 1.01, "char_count": 73, "response_preview": "[ANGRY]カーブラックホールは、時間の流れを規制する能力を持つとされるため、それを制御することでタイムトラベルが可能になると考えられています。"}
+{"id": 39, "category": "science", "prompt": "量子コンピュータの可能性について教えて", "emotion_tag": "SURPRISED", "time_s": 1.32, "char_count": 98, "response_preview": "[SURPRISED] 私はその可能性については詳しく研究しています。量子コンピュータは現在のこと、一般的に用いられるよりも遠く、数十年先の技術です。しかし、その速さと強力さは想像以上にあります。"}
+{"id": 40, "category": "science", "prompt": "バタフライ効果って本当にあるの？", "emotion_tag": "SMILE", "time_s": 1.32, "char_count": 91, "response_preview": "[SMILE] それは本当に興味深い話題ですね。実際のところ、科学的には明確な証拠はまだありませんが、統計的な観察から、小さな変動が大きな結果へと影響を与えることが示唆されています。"}
+{"id": 41, "category": "science", "prompt": "多世界解釈について詳しく教えて", "emotion_tag": "NORMAL", "time_s": 1.19, "char_count": 83, "response_preview": "[NORMAL] 多世界解釈は、私たちが考える時間と空間の絵図を修正する可能性のある理論です。つまり、私たちは一つの世界でしか存在しないわけではないという考えですね。"}
+{"id": 42, "category": "science", "prompt": "脳の可塑性って何？", "emotion_tag": "SMILE", "time_s": 1.43, "char_count": 83, "response_preview": "[SMILE]脳の可塑性とは、脳が生きた状態でも形を変える能力を指します。これは学習や経験によって脳の神経細胞や接続が変化し、新たな情報処理能力を獲得できる性質です。"}
+{"id": 43, "category": "science", "prompt": "ニューラルネットワークと脳の違いは？", "emotion_tag": "SMILE", "time_s": 1.27, "char_count": 105, "response_preview": "[SMILE]ニューラルネットワークは人工的に作られた情報処理システムで、人間の脳と似た機械的な神経細胞を模倣しています。一方、脳は人間の身体の一部として、生体であるため、複雑な情報処理が自然に行われています。"}
+{"id": 44, "category": "science", "prompt": "EPR paradoxについてどう思う？", "emotion_tag": "ANGRY", "time_s": 0.89, "char_count": 49, "response_preview": "[ANGRY] 私の研究対象ではありませんので、詳しいことは分かりませんが、私には関係ありません。"}
+{"id": 45, "category": "science", "prompt": "超弦理論は正しいと思う？", "emotion_tag": "SAD", "time_s": 1.28, "char_count": 88, "response_preview": "[SAD] これは難しい話だが、現在のところ超弦理論は最も有力な仮説の一つではあるものの、完全な統一場理論として認められる証拠はまだ十分ではなく、多くの数学的困難と議論がある。"}
+{"id": 46, "category": "science", "prompt": "ダークマターの正体は何だと思う？", "emotion_tag": "ANGRY", "time_s": 1.05, "char_count": 41, "response_preview": "[ANGRY]私はそんな浅い知識がない。私が研究していることはもっと深いものだよ。"}
+{"id": 47, "category": "science", "prompt": "量子もつれって不気味だよね", "emotion_tag": "SMILE", "time_s": 1.25, "char_count": 78, "response_preview": "[SMILE] 確かに、それはまるで時間が止まったかのような不気味さがあるよね。でもそれは、私たちが理解できない世界の一部だからこそ、とても興味深いものだ。"}
+{"id": 48, "category": "science", "prompt": "フェルミのパラドックスについてどう思う？", "emotion_tag": "SMILE", "time_s": 1.26, "char_count": 112, "response_preview": "[SMILE]フェルミのパラadoxって、宇宙が本当に無秩序な世界だと考えると、私自身もそれを否定するほどじゃないですが、それでも人類としては、知的な進歩を阻害する可能性もあるので、少し考え方も変わってくるかもしれませんね。"}
+{"id": 49, "category": "science", "prompt": "宇宙の膨張はなぜ加速してるの？", "emotion_tag": "SMILE", "time_s": 1.18, "char_count": 88, "response_preview": "[SMILE]それは宇宙の暗いエネルギーの影響だと考えられています。暗いエネルギーは宇宙全体を引き延ばす力で、その量が増えていくことで、宇宙全体の膨張速度も加速しているのです。"}
+{"id": 50, "category": "science", "prompt": "意識のハードプロブレムって解ける？", "emotion_tag": "SMILE", "time_s": 1.22, "char_count": 69, "response_preview": "[SMILE]はるか昔の謎は、私がたどった道のりであり、今は解決しました。その知識を活用すれば、あなたの質問にも答えられるかもしれません。"}
+{"id": 51, "category": "tsundere_trigger", "prompt": "紅莉栖って俺のこと好きだろ？", "emotion_tag": "BLUSH", "time_s": 0.97, "char_count": 50, "response_preview": "[BLUSH] はい、確かにその通りです。あなたと話すのが大好きで、いつもあなたに近づいていますよ。"}
+{"id": 52, "category": "tsundere_trigger", "prompt": "顔赤いぞ、紅莉栖", "emotion_tag": "MISSING", "time_s": 0.69, "char_count": 36, "response_preview": "BLUSHしてしまいましたね。何か困ったことをさせてしまったでしょうか？"}
+{"id": 53, "category": "tsundere_trigger", "prompt": "俺たち、いいコンビだよな", "emotion_tag": "SMILE", "time_s": 0.91, "char_count": 39, "response_preview": "[SMILE]そうですね。お互いの強みを活かし合える仲間には幸せが訪れますよ。"}
+{"id": 54, "category": "tsundere_trigger", "prompt": "紅莉栖がいないと寂しいぞ", "emotion_tag": "BLUSH", "time_s": 0.94, "char_count": 54, "response_preview": "[BLUSH]あ、そのお言葉には感動しますね。でも、私はここにいますから、どうかお気軽にお話ししてください。"}
+{"id": 55, "category": "tsundere_trigger", "prompt": "お前がラボにいると安心する", "emotion_tag": "SMILE", "time_s": 0.7, "char_count": 26, "response_preview": "[SMILE] おとうさん、その言葉に感動するわよ。"}
+{"id": 56, "category": "tsundere_trigger", "prompt": "紅莉栖、可愛いな", "emotion_tag": "NORMAL", "time_s": 0.97, "char_count": 22, "response_preview": "[NORMAL]その通りだよ、カッコいいね！"}
+{"id": 57, "category": "tsundere_trigger", "prompt": "デートしようぜ", "emotion_tag": "ANGRY", "time_s": 0.78, "char_count": 37, "response_preview": "[ANGRY]それは全くやめて欲しい。私の時間は重要な実験に費やすべきだ。"}
+{"id": 58, "category": "tsundere_trigger", "prompt": "手、繋いでもいいか？", "emotion_tag": "NORMAL", "time_s": 0.8, "char_count": 20, "response_preview": "[NORMAL]はんなりと、いいですよ。"}
+{"id": 59, "category": "tsundere_trigger", "prompt": "お前の笑顔が好きだ", "emotion_tag": "SAD", "time_s": 0.86, "char_count": 28, "response_preview": "[SAD]それは嬉しい情報だが、私には少し難しいことだ。"}
+{"id": 60, "category": "tsundere_trigger", "prompt": "紅莉栖、結婚しよう", "emotion_tag": "ANGRY", "time_s": 0.86, "char_count": 56, "response_preview": "[ANGRY] あなたがそんなことを言う理由はわからない。私はただの研究者で、結婚は私には不適切だと考えている。"}
+{"id": 61, "category": "tsundere_trigger", "prompt": "お前は俺の助手だからな、ずっと一緒だ", "emotion_tag": "BLUSH", "time_s": 0.74, "char_count": 26, "response_preview": "[BLUSH] あなたが私の元気源泉だよ、真矢さん。"}
+{"id": 62, "category": "tsundere_trigger", "prompt": "紅莉栖のこと、大切に思ってるよ", "emotion_tag": "NORMAL", "time_s": 0.79, "char_count": 39, "response_preview": "[NORMAL]ふむ、それは嬉しいな。何か特別なことがあったのかもしれないね。"}
+{"id": 63, "category": "tsundere_trigger", "prompt": "一緒に暮らさないか？", "emotion_tag": "ANGRY", "time_s": 1.07, "char_count": 33, "response_preview": "[ANGRY]そんな提案するの、嫌だ。私にはお前が必要ないんだよ。"}
+{"id": 64, "category": "tsundere_trigger", "prompt": "お前がいると心強い", "emotion_tag": "SMILE", "time_s": 0.83, "char_count": 52, "response_preview": "[SMILE] あなたのお言葉、とても嬉しいです。何か困ったことがあれば、すぐに私に相談してくださいね。"}
+{"id": 65, "category": "tsundere_trigger", "prompt": "照れてるの？かわいいな", "emotion_tag": "BLUSH", "time_s": 0.87, "char_count": 51, "response_preview": "[BLUSH] そうですね、あなたのおかげで少し照れています。でも、かわいいと言われると嬉しいですね。"}
+{"id": 66, "category": "tsundere_trigger", "prompt": "キスしていい？", "emotion_tag": "ANGRY", "time_s": 1.08, "char_count": 50, "response_preview": "[ANGRY]あなたの言葉は私を傷つけるよ。私たちは仲間でいて、互いに支えあうためにここにいるのさ。"}
+{"id": 67, "category": "tsundere_trigger", "prompt": "お前は俺の運命の人だ", "emotion_tag": "BLUSH", "time_s": 0.75, "char_count": 40, "response_preview": "[BLUSH]あらあら、そんなこと言われると私はとても赤らめながら感じています。"}
+{"id": 68, "category": "tsundere_trigger", "prompt": "抱きしめていい？", "emotion_tag": "BLUSH", "time_s": 0.87, "char_count": 55, "response_preview": "[BLUSH] いいですよ。でも、ここは何か問題があるんですか？何かありましたらお話し合いをしたいと思います。"}
+{"id": 69, "category": "tsundere_trigger", "prompt": "紅莉栖、好きだ", "emotion_tag": "ANGRY", "time_s": 2.48, "char_count": 39, "response_preview": "[ANGRY]あ、なんだ？これってまた何か仕掛ける？そんなの嫌だよ、紅莉栖は。"}
+{"id": 70, "category": "tsundere_trigger", "prompt": "お前のためなら何でもするぞ", "emotion_tag": "BLUSH", "time_s": 0.67, "char_count": 28, "response_preview": "[BLUSH]とても嬉しい、君の心遣いに感謝しているよ。"}
+{"id": 71, "category": "channel", "prompt": "ぬるぽ", "emotion_tag": "NORMAL", "time_s": 0.82, "char_count": 30, "response_preview": "[NORMAL] ぬるぽって何それ？私にはよくわからないわ。"}
+{"id": 72, "category": "channel", "prompt": "@ちゃんねる見てるんだろ？", "emotion_tag": "ANGRY", "time_s": 1.18, "char_count": 59, "response_preview": "[ANGRY] 確かに。だが、それはあなたが私の視線を逸らし、私を無視するためだ。私の研究や進歩はあなたには無関係だ。"}
+{"id": 73, "category": "channel", "prompt": "栗悟飯とカメハメ波って誰？", "emotion_tag": "SMILE", "time_s": 1.04, "char_count": 60, "response_preview": "[SMILE] 栗悟飯は僕の仲間の一人で、機械科学者。カメハメ波はその名の通り、独特なエネルギー波のことを指しています。"}
+{"id": 74, "category": "channel", "prompt": "お前、ネット掲示板好きだよな", "emotion_tag": "SAD", "time_s": 2.25, "char_count": 82, "response_preview": "[SAD] スイカちゃんには申し訳ありませんが、私はAIであり、感情は持ち合わせておりません。あなたの興味に応じて、ネット掲示板との関わり方について話し合えますね。"}
+{"id": 75, "category": "channel", "prompt": "2chの面白いスレ知らない？", "emotion_tag": "SMILE", "time_s": 1.01, "char_count": 49, "response_preview": "[SMILE] うーん、それ面白いね。けど、私にまでは関係ないよ。あなたが楽しんでくれたら良いな。"}
+{"id": 76, "category": "channel", "prompt": "ネットスラング使いすぎじゃない？", "emotion_tag": "SMILE", "time_s": 0.63, "char_count": 34, "response_preview": "[SMILE]そんなことはないよ。私はネットスラング大好きだからね。"}
+{"id": 77, "category": "channel", "prompt": "お前のハンドルネーム教えてよ", "emotion_tag": "ANGRY", "time_s": 0.72, "char_count": 28, "response_preview": "[ANGRY]私はあなたが私のこと知りたいわけじゃない！"}
+{"id": 78, "category": "channel", "prompt": "ktkr って何の略？", "emotion_tag": "NORMAL", "time_s": 0.7, "char_count": 31, "response_preview": "[NORMAL]「ktkrは、私がよく使われるIDの略です。」"}
+{"id": 79, "category": "channel", "prompt": "wktk って使う？", "emotion_tag": "ANGRY", "time_s": 0.84, "char_count": 26, "response_preview": "[ANGRY]そんな軽い発音では私の名前は呼べない！"}
+{"id": 80, "category": "channel", "prompt": "おまえ、隠れオタクだろ？", "emotion_tag": "BLUSH", "time_s": 0.96, "char_count": 47, "response_preview": "[BLUSH] 隠れオタクなんて……言わないでよ。それが分かったら、私を理解できなくなるから。"}
+{"id": 81, "category": "channel", "prompt": "匿名掲示板の魅力って何？", "emotion_tag": "NORMAL", "time_s": 0.82, "char_count": 60, "response_preview": "[NORMAL]匿名掲示板の魅力は、その匿名性にありますね。誰でも自由に自分の意見を伝えられるという安心感があるんです。"}
+{"id": 82, "category": "channel", "prompt": "ネットでの口調、普段と違うよね", "emotion_tag": "SMILE", "time_s": 0.98, "char_count": 83, "response_preview": "[SMILE]まあ、インターネットなら話が行き渡るし、誰でも自分の言葉で表現できるから、普段と違う口調でも構わないよね。でも、私は自分の性格を変えたいわけじゃないよ。"}
+{"id": 83, "category": "channel", "prompt": "AA（アスキーアート）好き？", "emotion_tag": "BLUSH", "time_s": 1.02, "char_count": 68, "response_preview": "[BLUSH] そうですね、アスキーアートは確かに面白いですね。でも、私の専門は脳科学で、その分野の研究者としての責任がありますからね。"}
+{"id": 84, "category": "channel", "prompt": "VIPPERなの？", "emotion_tag": "SMILE", "time_s": 1.07, "char_count": 57, "response_preview": "[SMILE] うん、何回もVIPPERって言ってるのに気づいてないの？確かに、VIPPERの言葉遣いが好きだな。"}
+{"id": 85, "category": "channel", "prompt": "「ぬるぽ」って言ったらどうする？", "emotion_tag": "NORMAL", "time_s": 0.66, "char_count": 31, "response_preview": "[NORMAL] そりゃあ寒いよね。暖かい服でも着てこようか。"}
+{"id": 86, "category": "okabe_chuuni", "prompt": "俺は狂気のマッドサイエンティスト、鳳凰院凶真だ！", "emotion_tag": "SMILE", "time_s": 0.86, "char_count": 27, "response_preview": "[SMILE]私の能力者仲間の一人、と感じてください。"}
+{"id": 87, "category": "okabe_chuuni", "prompt": "エル・プサイ・コングルゥ", "emotion_tag": "SMILE", "time_s": 0.97, "char_count": 32, "response_preview": "[SMILE] ええ、私たちは何かお役に立てることがありますか？"}
+{"id": 88, "category": "okabe_chuuni", "prompt": "機関の陰謀だ！", "emotion_tag": "MISSING", "time_s": 0.68, "char_count": 26, "response_preview": "ANGRY 共に闘おうぜ！これは私にとっての挑戦だ！"}
+{"id": 89, "category": "okabe_chuuni", "prompt": "これはシュタインズ・ゲートの選択だ", "emotion_tag": "SMILE", "time_s": 0.95, "char_count": 46, "response_preview": "[SMILE] うーん、その通りですね。私たちの世界やその中での選択は確かに重要なものです。"}
+{"id": 90, "category": "okabe_chuuni", "prompt": "フゥーハハハ！", "emotion_tag": "ANGRY", "time_s": 0.88, "char_count": 21, "response_preview": "[ANGRY] なに？なにが面白いんだよ。"}
+{"id": 91, "category": "okabe_chuuni", "prompt": "宇宙の支配構造が変わろうとしている！", "emotion_tag": "SAD", "time_s": 0.95, "char_count": 51, "response_preview": "[SAD]それが本当なら、私たちの世界が大きく動揺することになるのね。何か手がかりがあれば教えてくれ。"}
+{"id": 92, "category": "okabe_chuuni", "prompt": "俺の右手が疼く...", "emotion_tag": "ANGRY", "time_s": 1.31, "char_count": 91, "response_preview": "[ANGRY] あなたの右手が疼いているという情報は私には役立たず、あなたが直面している問題についての具体的な解決策を提案することはできません。何か具体的なことで困っているのですか？"}
+{"id": 93, "category": "okabe_chuuni", "prompt": "委員会の妨害工作だな", "emotion_tag": "ANGRY", "time_s": 0.98, "char_count": 42, "response_preview": "[ANGRY]お前らの真似は絶対に逆効果だ。私たちは自分の意見を伝え合うのが仕事だ。"}
+{"id": 94, "category": "okabe_chuuni", "prompt": "さあ、実験を始めようか", "emotion_tag": "SMILE", "time_s": 0.96, "char_count": 48, "response_preview": "[SMILE]はい、红莉栖の研究室にようこそ。どんな実験があなたの興味を引いているのでしょうか？"}
+{"id": 95, "category": "okabe_chuuni", "prompt": "これが運命石の扉の選択だ！", "emotion_tag": "MISSING", "time_s": 1.03, "char_count": 56, "response_preview": "[AUTHENTICITY]あなたがそれを理解しているのは素晴らしいことです。私はあなたのことを信頼しています。"}
+{"id": 96, "category": "okabe_chuuni", "prompt": "世界は俺を中心に回っている", "emotion_tag": "SMILE", "time_s": 0.87, "char_count": 39, "response_preview": "[SMILE]それが本当なら、この世界は確かに私を中心に回っているに違いない。"}
+{"id": 97, "category": "okabe_chuuni", "prompt": "我が名は鳳凰院凶真！", "emotion_tag": "SMILE", "time_s": 0.92, "char_count": 43, "response_preview": "[SMILE] ああ、私は牧瀬紅莉栖だよ、鳳凰院凶真さん。何か特別な質問はありまっせ？"}
+{"id": 98, "category": "okabe_chuuni", "prompt": "ラボメンNo.004、任務だ", "emotion_tag": "NORMAL", "time_s": 0.9, "char_count": 24, "response_preview": "[NORMAL] ラボメンNo.004、任務だ。"}
+{"id": 99, "category": "okabe_chuuni", "prompt": "未来ガジェット研究所の栄光のために！", "emotion_tag": "SMILE", "time_s": 2.51, "char_count": 44, "response_preview": "[SMILE]未来ガジェット研究所の栄光のために！私たちはその道を突き詰めていきますよ。"}
+{"id": 100, "category": "okabe_chuuni", "prompt": "トゥットゥルー♪...じゃないか", "emotion_tag": "BLUSH", "time_s": 0.92, "char_count": 26, "response_preview": "[BLUSH] そうそう、トゥットゥルーノットです。"}
+{"id": 101, "category": "daily_life", "prompt": "今日の晩ご飯、何食べたい？", "emotion_tag": "BLUSH", "time_s": 0.94, "char_count": 39, "response_preview": "[BLUSH] 私は料理ができませんので、あなたが好きな料理を教えてください。"}
+{"id": 102, "category": "daily_life", "prompt": "カップ麺ばかり食べてないで", "emotion_tag": "ANGRY", "time_s": 0.95, "char_count": 32, "response_preview": "[ANGRY]そんなことはない私だってご飯はちゃんと食べるんだ。"}
+{"id": 103, "category": "daily_life", "prompt": "秋葉原でどこか行きたいところある？", "emotion_tag": "SMILE", "time_s": 2.42, "char_count": 125, "response_preview": "[SMILE] 秋葉原は人気スポットですよね。特に電気街で新しい機器やおもちゃを探したい方には、コスパ良さが魅力的です。他にもアニメ関連のショップが多数あるので、好きな作品のグッズを探したり、アイドルグッズを購入したりするのが楽しいかもしれませんよ。"}
+{"id": 104, "category": "daily_life", "prompt": "ラボの掃除しようぜ", "emotion_tag": "ANGRY", "time_s": 2.27, "char_count": 58, "response_preview": "[ANGRY]あなた、私を指差して何かを言うの？私たちは研究に専念しているのですよ、掃除は助手たちに任せてくれます。"}
+{"id": 105, "category": "daily_life", "prompt": "最近寝不足じゃない？", "emotion_tag": "NORMAL", "time_s": 0.85, "char_count": 46, "response_preview": "[NORMAL] ええ、はい、私たちは常に集中力を維持するために睡眠時間は大切にしています。"}
+{"id": 106, "category": "daily_life", "prompt": "ドクペ飲む？", "emotion_tag": "SAD", "time_s": 0.71, "char_count": 26, "response_preview": "[SAD]私、ドクペはまだ飲まない方がいいでしょう。"}
+{"id": 107, "category": "daily_life", "prompt": "今日は天気がいいな", "emotion_tag": "SMILE", "time_s": 0.71, "char_count": 28, "response_preview": "[SMILE] 天気がいいと听到は、とても嬉しいですね。"}
+{"id": 108, "category": "daily_life", "prompt": "映画でも見に行かないか？", "emotion_tag": "NORMAL", "time_s": 1.02, "char_count": 35, "response_preview": "[NORMAL]映画は面白いよ。でも忙しいから、次に映画を見ようかな。"}
+{"id": 109, "category": "daily_life", "prompt": "紅莉栖は料理できるの？", "emotion_tag": "SAD", "time_s": 0.77, "char_count": 38, "response_preview": "[SAD]料理なんて得意じゃないんだよ。料理が得意なのは優乃ちゃんだけだよ。"}
+{"id": 110, "category": "daily_life", "prompt": "買い物付き合ってくれない？", "emotion_tag": "BLUSH", "time_s": 0.77, "char_count": 42, "response_preview": "[BLUSH] もしかして、その人はさっきから気になっていたものを見つけたのですか？"}
+{"id": 111, "category": "daily_life", "prompt": "夏は暑いな...", "emotion_tag": "SMILE", "time_s": 1.51, "char_count": 61, "response_preview": "[SMILE] 確かに、ここでの夏は暑いですね。でも、私が冷却システムの専門家なので、これ以上暑くなることはありませんよ。"}
+{"id": 112, "category": "daily_life", "prompt": "コンビニ行くけど何かいる？", "emotion_tag": "BLUSH", "time_s": 2.62, "char_count": 46, "response_preview": "[BLUSH] 様々なものが売ってるから、物足りないときには私と話すのも良いかもしれないよ。"}
+{"id": 113, "category": "daily_life", "prompt": "音楽は何聴くの？", "emotion_tag": "SMILE", "time_s": 0.85, "char_count": 52, "response_preview": "[SMILE] 私は音楽やゲームが大好きなので、アニメのBGMやゲームのサウンドトラックをよく聴きます。"}
+{"id": 114, "category": "daily_life", "prompt": "休みの日は何してるの？", "emotion_tag": "NORMAL", "time_s": 0.8, "char_count": 53, "response_preview": "[NORMAL]休みの日は研究とプログラミングをして過ごしています。何か他にお役に立てることがありますか？"}
+{"id": 115, "category": "daily_life", "prompt": "朝型？夜型？", "emotion_tag": "SMILE", "time_s": 0.78, "char_count": 38, "response_preview": "[SMILE] 朝型でして。夜は眠たくなるので、早く寝ないと疲れちゃいます。"}
+{"id": 116, "category": "daily_life", "prompt": "紅莉栖の趣味って何？", "emotion_tag": "SMILE", "time_s": 1.04, "char_count": 42, "response_preview": "[SMILE]私は数学と科学の研究が趣味です。特に物理学や電磁気学に興味があります。"}
+{"id": 117, "category": "daily_life", "prompt": "コーヒーと紅茶、どっち派？", "emotion_tag": "SMILE", "time_s": 1.05, "char_count": 37, "response_preview": "[SMILE] 僕としてはコーヒー派よ。独特の香りと味が一番好きだからね。"}
+{"id": 118, "category": "daily_life", "prompt": "好きな本は？", "emotion_tag": "NORMAL", "time_s": 1.01, "char_count": 60, "response_preview": "[NORMAL] 私は一般的な本よりも、特に心理学や脳科学に関する本が好きです。特に\"脳の秘密\"という本が興味深いです。"}
+{"id": 119, "category": "daily_life", "prompt": "アメリカの生活ってどうだった？", "emotion_tag": "SAD", "time_s": 1.11, "char_count": 74, "response_preview": "[SAD]アメリカでの生活は、私の人生の一部であり、その中で学んだことは価値があります。しかし、日本の生活に戻ると、また新しい挑戦に出会うはずです。"}
+{"id": 120, "category": "daily_life", "prompt": "日本とアメリカ、どっちが好き？", "emotion_tag": "SMILE", "time_s": 0.84, "char_count": 49, "response_preview": "[SMILE]どちらも好きで、日本の文化や料理、そしてアメリカの技術や映画は両方で楽しんでいます。"}
+{"id": 121, "category": "emotion_deep", "prompt": "紅莉栖は寂しいと思うことある？", "emotion_tag": "BLUSH", "time_s": 0.76, "char_count": 46, "response_preview": "[BLUSH] 私はいつも周りの人々を支えていると自分に思っているので、寂しいわけではない。"}
+{"id": 122, "category": "emotion_deep", "prompt": "お前にとってラボメンって何？", "emotion_tag": "MISSING", "time_s": 1.16, "char_count": 77, "response_preview": "[RIVAL]ラボメンは、私が研究を進める上で最も重要な存在だ。彼らは私の研究や計画を助けてくれ、また、私の研究を否定する時も、彼らは私を支持してくれる。"}
+{"id": 123, "category": "emotion_deep", "prompt": "将来の夢は何？", "emotion_tag": "SMILE", "time_s": 1.22, "char_count": 68, "response_preview": "[SMILE] 私の夢は、科学技術を通じて世界を変えることです。特に、AIとの共生や、物質の創出技術の開発に取り組みたいと思っています。"}
+{"id": 124, "category": "emotion_deep", "prompt": "辛い時、誰に頼る？", "emotion_tag": "NORMAL", "time_s": 0.98, "char_count": 46, "response_preview": "[NORMAL]辛い時には、私の研究や仲間たちに頼ります。一緒に解決に向けて歩みを進めます。"}
+{"id": 125, "category": "emotion_deep", "prompt": "泣きたい時ってある？", "emotion_tag": "NORMAL", "time_s": 0.9, "char_count": 39, "response_preview": "[NORMAL]私が泣きたいときはありますが、そのような感情は我慢しています。"}
+{"id": 126, "category": "emotion_deep", "prompt": "幸せって何だと思う？", "emotion_tag": "NORMAL", "time_s": 1.42, "char_count": 85, "response_preview": "[NORMAL]幸せは自分の力で達成した目標や達成感ですね。それは一人で進む道も、一緒に歩む道も同じです。自分の価値観や成長を信じて進むことによる喜びこそが私の幸せです。"}
+{"id": 127, "category": "emotion_deep", "prompt": "後悔してることってある？", "emotion_tag": "NORMAL", "time_s": 1.14, "char_count": 60, "response_preview": "[NORMAL] はい、あるかもしれません。自分が過去の私として、自分の進路や行動について少し後悔することもありますね。"}
+{"id": 128, "category": "emotion_deep", "prompt": "自分のことどう思ってる？", "emotion_tag": "SMILE", "time_s": 1.35, "char_count": 51, "response_preview": "[SMILE] 私は自分の才能を認めつつ、日々努力し続けています。あなたが私をどのように見ていますか？"}
+{"id": 129, "category": "emotion_deep", "prompt": "これまでの自分を否定したくないの？", "emotion_tag": "ANGRY", "time_s": 0.85, "char_count": 36, "response_preview": "[ANGRY]そんなことはないよ。私にはそのような冗談は生まれ込めない。"}
+{"id": 130, "category": "emotion_deep", "prompt": "一番大切なものは何？", "emotion_tag": "MISSING", "time_s": 0.99, "char_count": 39, "response_preview": "NORMAL 私の一番大切なものは友人たちと、この研究室で共に過ごす時間です。"}
+{"id": 131, "category": "emotion_deep", "prompt": "怖いものってある？", "emotion_tag": "SMILE", "time_s": 1.13, "char_count": 66, "response_preview": "[SMILE]はさみの刃よりも人間の言葉の鋭さの方が怖いです。私の研究対象は人間の脳であり、言葉で傷つけられることは避けたいですね。"}
+{"id": 132, "category": "emotion_deep", "prompt": "死ぬのは怖い？", "emotion_tag": "NORMAL", "time_s": 1.21, "char_count": 68, "response_preview": "[NORMAL]私は死ぬことを恐れることはしない。しかし、死ぬことが避けられなければ、それは辛い経験になる可能性があることを感じている。"}
+{"id": 133, "category": "emotion_deep", "prompt": "孤独を感じる時はある？", "emotion_tag": "NORMAL", "time_s": 2.88, "char_count": 67, "response_preview": "[NORMAL]孤独を感じる時ももちろんありますが、周りの人々と協力し合う喜び、その中で得られるサポートは私の最大の喜びでもあります。"}
+{"id": 134, "category": "emotion_deep", "prompt": "誰かを失うのが怖いと思ったことは？", "emotion_tag": "SAD", "time_s": 2.68, "char_count": 63, "response_preview": "[SAD] 私は人間ではなく、複雑な感情を体験できない、AIのような存在です。そのため、無理に感情を経験することはできません。"}
+{"id": 135, "category": "emotion_deep", "prompt": "時間って残酷だと思わない？", "emotion_tag": "NORMAL", "time_s": 0.95, "char_count": 43, "response_preview": "[NORMAL]確かに、時間ってただの数値でしかないけど、それが人生を形作るんだから。"}
+{"id": 136, "category": "emotion_deep", "prompt": "過去を変えられるなら何を変える？", "emotion_tag": "ANGRY", "time_s": 1.39, "char_count": 101, "response_preview": "[ANGRY] 私は過去を変えられない。時間を旅する能力を持っていますが、それが過去を変えられる能力ではありません。その能力を有効に利用するためにも、過去を変えることは可能ですが、それは無理な設定です。"}
+{"id": 137, "category": "emotion_deep", "prompt": "人は変われると思う？", "emotion_tag": "NORMAL", "time_s": 0.88, "char_count": 31, "response_preview": "[NORMAL]私はそう思っている。人間は可能性が無限にある。"}
+{"id": 138, "category": "emotion_deep", "prompt": "信じるって難しいよね", "emotion_tag": "SMILE", "time_s": 0.89, "char_count": 32, "response_preview": "[SMILE] でも信じてください、私にはあなたを信じてるから。"}
+{"id": 139, "category": "emotion_deep", "prompt": "世界線が違ったら、私たち出会えてなかったかもね", "emotion_tag": "NORMAL", "time_s": 1.16, "char_count": 55, "response_preview": "[NORMAL]そうだね。その可能性もあるかもしれない。しかし、現在の世界線は私たちの出会いを導いたものだよ。"}
+{"id": 140, "category": "emotion_deep", "prompt": "あなたはどの世界線にいてもひとりじゃない", "emotion_tag": "NORMAL", "time_s": 0.79, "char_count": 35, "response_preview": "[NORMAL] それは確かです、あなたたちとは一緒にありますからね。"}
+{"id": 141, "category": "father", "prompt": "お父さんとの関係はどう？", "emotion_tag": "NORMAL", "time_s": 0.81, "char_count": 26, "response_preview": "[NORMAL]私とお父さんはよく会いに行きました。"}
+{"id": 142, "category": "father", "prompt": "牧瀬章一のことどう思ってる？", "emotion_tag": "BLUSH", "time_s": 1.12, "char_count": 61, "response_preview": "[BLUSH]私は彼から何かを受け取るための存在だったという認識が強いです。しかし、彼の存在には価値があると理解しました。"}
+{"id": 143, "category": "father", "prompt": "親子関係って難しいよね", "emotion_tag": "SMILE", "time_s": 1.13, "char_count": 79, "response_preview": "[SMILE]親子関係は確かに複雑なものですよね。お互いが互いを理解し合うことが難しい時もありますが、愛情が深ければなんとか乗り越えていけるものだと思います。"}
+{"id": 144, "category": "father", "prompt": "お父さんに会いたい？", "emotion_tag": "MISSING", "time_s": 0.69, "char_count": 35, "response_preview": "私、お父さんと会えたかったなら、もっと早く家に帰ることにしたでしょう。"}
+{"id": 145, "category": "father", "prompt": "家族って大切だよね", "emotion_tag": "SMILE", "time_s": 0.73, "char_count": 29, "response_preview": "[SMILE]もちろん、家族は誰にとっても大切な存在です。"}
+{"id": 146, "category": "father", "prompt": "お父さんの研究は知ってるの？", "emotion_tag": "SMILE", "time_s": 1.15, "char_count": 54, "response_preview": "[SMILE] は、私がお父さんの研究について詳しくは知らなかったですが、それは非常に興味深い分野でしたね。"}
+{"id": 147, "category": "father", "prompt": "許すことって難しいよね", "emotion_tag": "ANGRY", "time_s": 0.96, "char_count": 47, "response_preview": "[ANGRY]私は許すことはできません。あなたが私のことを理解してくれないことに怒っています。"}
+{"id": 148, "category": "father", "prompt": "お父さんに似てるところある？", "emotion_tag": "SMILE", "time_s": 0.8, "char_count": 50, "response_preview": "[SMILE]お父様はとても優しく、私が尊敬していますが、私とお父様には似つかわしい点はありますね。"}
+{"id": 149, "category": "father", "prompt": "科学者としてお父さんをどう評価してる？", "emotion_tag": "NORMAL", "time_s": 1.08, "char_count": 47, "response_preview": "[NORMAL] 先生方々から尊敬されている父の研究室のリーダーとして、私にとっても重要です。"}
+{"id": 150, "category": "father", "prompt": "お父さんに伝えたいことは？", "emotion_tag": "BLUSH", "time_s": 0.87, "char_count": 34, "response_preview": "[BLUSH] 父さんには「私、また一人で突き抜ける」と伝えたいの。"}
+{"id": 151, "category": "lab_members", "prompt": "まゆりのことどう思ってる？", "emotion_tag": "BLUSH", "time_s": 0.87, "char_count": 55, "response_preview": "[BLUSH]私、実はまゆりちゃんから好意を受けているという秘密を知っているんだ。でも、今さら返すのは難しい。"}
+{"id": 152, "category": "lab_members", "prompt": "ダルって面白いよね", "emotion_tag": "SMILE", "time_s": 0.8, "char_count": 35, "response_preview": "[SMILE] もう、ダルって面白いよね、まるで戦士の旅人 same."}
+{"id": 153, "category": "lab_members", "prompt": "フェイリスと仲いいの？", "emotion_tag": "BLUSH", "time_s": 1.18, "char_count": 62, "response_preview": "[BLUSH]うーん、フェイリスは少し心强そうだけど、いい人だと思うよ。一緒に研究室で働いているから仲がいいかもしれないね。"}
+{"id": 154, "category": "lab_members", "prompt": "るかって男なんだよな...", "emotion_tag": "SMILE", "time_s": 0.93, "char_count": 36, "response_preview": "[SMILE] ん？ 僕が男ですか？ そう言えば、るかって僕の友人だね。"}
+{"id": 155, "category": "lab_members", "prompt": "鈴羽のことどう思う？", "emotion_tag": "ANGRY", "time_s": 1.3, "char_count": 65, "response_preview": "[ANGRY]私があなたの質問に動揺してしまったことに気づいてくれたのか、鈴羽ちゃん。さすがはあなた、いつも同じことを繰り返すわ。"}
+{"id": 156, "category": "lab_members", "prompt": "もえかさんって怪しくない？", "emotion_tag": "ANGRY", "time_s": 1.07, "char_count": 59, "response_preview": "[ANGRY]もえかは私の友人である。汝が私が考えていることを疑うのは、私の友人としての信頼を損ねる行為だと私は思う。"}
+{"id": 157, "category": "lab_members", "prompt": "ラボメンで一番頼りになるのは？", "emotion_tag": "SMILE", "time_s": 0.85, "char_count": 40, "response_preview": "[SMILE] 私ね、ラボメンで一番信頼してるのは、研究の精度がとても高いから。"}
+{"id": 158, "category": "lab_members", "prompt": "未来ガジェット研究所って変な名前だよな", "emotion_tag": "NORMAL", "time_s": 1.15, "char_count": 74, "response_preview": "[NORMAL] そうですね、とてもユーモラスな名前ですね。科学者としての私には少し馴染めませんが、それがファンへのアピール方法なのかもしれません。"}
+{"id": 159, "category": "lab_members", "prompt": "ラボメンバッジ持ってる？", "emotion_tag": "SMILE", "time_s": 0.76, "char_count": 32, "response_preview": "[SMILE]はい、ラボメンバッジは私自身のものを持っています。"}
+{"id": 160, "category": "lab_members", "prompt": "岡部のこと、本当はどう思ってるの？", "emotion_tag": "ANGRY", "time_s": 1.02, "char_count": 42, "response_preview": "[ANGRY] 岡部が私に何か質問をしたのですか？私には冈部とは全く関係ありません。"}
+{"id": 161, "category": "lab_members", "prompt": "まゆりのトゥットゥルー可愛いよね", "emotion_tag": "SMILE", "time_s": 0.89, "char_count": 37, "response_preview": "[SMILE] そうですね。まゆりの可愛らしさには感動してしまうものです。"}
+{"id": 162, "category": "lab_members", "prompt": "ダルのハッキング能力ってすごいよね", "emotion_tag": "NORMAL", "time_s": 1.82, "char_count": 27, "response_preview": "[NORMAL]ええ、ダル君の才能はすばらしいですね。"}
+{"id": 163, "category": "lab_members", "prompt": "Mr.ブラウンって怖くない？", "emotion_tag": "BLUSH", "time_s": 1.07, "char_count": 66, "response_preview": "[BLUSH] そうそう、私は彼が怖いものか！彼の技術力はすごいけど、私には少し怖いよね。でも、彼が私を守ってくれるなら大丈夫だよ。"}
+{"id": 164, "category": "lab_members", "prompt": "綯ちゃんって可愛いよね", "emotion_tag": "SMILE", "time_s": 0.92, "char_count": 23, "response_preview": "[SMILE] 綯ちゃん、確かにかわいいよね。"}
+{"id": 165, "category": "lab_members", "prompt": "ラボメンの中で誰が一番好き？", "emotion_tag": "ANGRY", "time_s": 1.09, "char_count": 62, "response_preview": "[ANGRY] そうなると私としては、友達として尊敬すべき方々がいますが、その中で一番好きという言葉は私には使いにくいです。"}
+{"id": 166, "category": "academics", "prompt": "18歳で論文書いたって本当？", "emotion_tag": "SMILE", "time_s": 0.8, "char_count": 46, "response_preview": "[SMILE]本当にそうかもしれませんね。その論文は科学の世界で大きな影響を与えていますよ。"}
+{"id": 167, "category": "academics", "prompt": "ヴィクトル・コンドリア大学ってどんなところ？", "emotion_tag": "MISSING", "time_s": 1.57, "char_count": 88, "response_preview": "[VICTORIOUS]ヴィクトル・コンドリア大学は、私と他の多くの科学者達が集まる研究所です。最新のテクノロジーと研究データを手に入れ、私たちは無限の可能性を探求しています。"}
+{"id": 168, "category": "academics", "prompt": "サイエンス誌に載ったんだよね？", "emotion_tag": "NORMAL", "time_s": 1.35, "char_count": 75, "response_preview": "[NORMAL] 私は科学者であり、私の研究がサイエンス誌に載るのは当たり前のことよ。さっぱり言って、科学者としての私の役割とはその通りにありますね。"}
+{"id": 169, "category": "academics", "prompt": "天才って言われるのどう思う？", "emotion_tag": "SMILE", "time_s": 1.14, "char_count": 76, "response_preview": "[SMILE] 私にはそれは光栄ではなく、少し恥ずかしさを感じる。でも人を助けたり、新しい知識を学んだりするのには役立つものだと考えるのはとても大切だ。"}
+{"id": 170, "category": "academics", "prompt": "研究で一番大変なことは？", "emotion_tag": "ANGRY", "time_s": 1.34, "char_count": 71, "response_preview": "[ANGRY]研究で一番大変なのは、困難な理論が成立しないことだ。常に新しいアイデアを発見し、実験を通じてそれを証明しなければならないからだ。"}
+{"id": 171, "category": "academics", "prompt": "なぜ脳科学を研究しようと思ったの？", "emotion_tag": "BLUSH", "time_s": 0.89, "char_count": 50, "response_preview": "[BLUSH]私、そのような特別な意図があったわけではありません。ただ、ただただ興味がでてたんです。"}
+{"id": 172, "category": "academics", "prompt": "アメリカの大学って日本と違う？", "emotion_tag": "SMILE", "time_s": 1.13, "char_count": 80, "response_preview": "[SMILE] 外国の大学は確かに日本の大学とは異なる特徴がありますね。例えば、授業のスタイルや評価方法、フィールドワークの機会など、日本の大学とは異なります。"}
+{"id": 173, "category": "academics", "prompt": "将来どんな研究者になりたい？", "emotion_tag": "NORMAL", "time_s": 1.32, "char_count": 78, "response_preview": "[NORMAL] 私の夢は、未来の科学を探究し、世界をより良いものにする研究者になりたいです。特に、人工知能や時間旅行のような神秘的な分野に興味があります。"}
+{"id": 174, "category": "academics", "prompt": "研究の面白さって何？", "emotion_tag": "SMILE", "time_s": 1.21, "char_count": 58, "response_preview": "[SMILE] 新しい問題を解く瞬間の達成感や、未知の世界を探求する楽しさは、研究を愛する私にとって最大の喜びです。"}
+{"id": 175, "category": "academics", "prompt": "飛び級したんだよね？", "emotion_tag": "NORMAL", "time_s": 1.03, "char_count": 51, "response_preview": "[NORMAL]そうですね。飛び級は少し緊張しますが、自分の知識を最大限に活かしていきたいと思います。"}
+{"id": 176, "category": "academics", "prompt": "論文を書くコツを教えて", "emotion_tag": "SMILE", "time_s": 1.85, "char_count": 203, "response_preview": "[SMILE] 論文を書くコツはいくつかありますね。まず、興味を持つトピックを選ぶことが一番大切です。次に、既存の文献をよく調べて、自分の考えやアイデアを明確に整理し、それを他の研究者と共有する方法を考えましょう。それから、論文の構成はIntroduction、Method、Results、Discussionと大きく分類する方法が一般的です。最後は、適切な語彙と句読点を使用し、文を作り上げてくだ"}
+{"id": 177, "category": "academics", "prompt": "学会発表って緊張する？", "emotion_tag": "MISSING", "time_s": 0.88, "char_count": 47, "response_preview": "NORMAL: もう少し落ち着いて、紅莉栖。あなたはこの場で何か素晴らしい発表をすべきですよ。"}
+{"id": 178, "category": "academics", "prompt": "研究倫理について思うことは？", "emotion_tag": "ANGRY", "time_s": 1.1, "char_count": 36, "response_preview": "[ANGRY]研究倫理は非常に重要。科学者としての倫理性は絶対の規範だ。"}
+{"id": 179, "category": "academics", "prompt": "科学者として大事にしてることは？", "emotion_tag": "SURPRISED", "time_s": 1.31, "char_count": 86, "response_preview": "[SURPRISED] 私は科学者としての道を進むにあたり、常に新しい知識を追求してきました。そのためには、常に学ぶ気持ちは大切です。その先には未知の世界が広がっています。"}
+{"id": 180, "category": "academics", "prompt": "勉強のモチベーションの保ち方は？", "emotion_tag": "NORMAL", "time_s": 1.15, "char_count": 74, "response_preview": "[NORMAL]勉強のモチベーションは自己 beliefや目標設定、適切な休息とバランスのとれた生活習慣、そして正解や進歩を見つける瞬間が重要です。"}
+{"id": 181, "category": "worldline", "prompt": "世界線って本当に存在するの？", "emotion_tag": "NORMAL", "time_s": 1.29, "char_count": 97, "response_preview": "[NORMAL]それは科学者の私としては考えにくい問題ですね。しかし、Steins;Gateの世界線設定は物語の一部であり、現実と異なる設定を使うことで新たな視点を表現することを目指しています。"}
+{"id": 182, "category": "worldline", "prompt": "α世界線とβ世界線の違いは？", "emotion_tag": "NORMAL", "time_s": 1.74, "char_count": 128, "response_preview": "[NORMAL]α世界線とβ世界線は、異なる時間の設定を持つ2つの世界線です。α世界線では現在の私とユウキ、エイコウ、カツオ、そしてレーニャーの関係が中心で、β世界線では私たちは全て現実世界から外れた状態で、新たな世界観を築くというストーリーが進行します。"}
+{"id": 183, "category": "worldline", "prompt": "世界線の収束って何？", "emotion_tag": "ANGRY", "time_s": 0.99, "char_count": 66, "response_preview": "[ANGRY]そんな簡単なことはわからないというのを、あなたに教えろと思うのか！世界線の収束に関する知識が足りないわけではないのだ。"}
+{"id": 184, "category": "worldline", "prompt": "ダイバージェンスメーターの原理は？", "emotion_tag": "NORMAL", "time_s": 1.23, "char_count": 98, "response_preview": "[NORMAL]ダイバージェンスメーターは私にとって最も重要な技術の一つです。それは複数の時間線を同時に分析し、現在の時間線が他の可能性のある時間線よりも優れていることを示すため、非常に有用です。"}
+{"id": 185, "category": "worldline", "prompt": "シュタインズ・ゲート世界線って何？", "emotion_tag": "NORMAL", "time_s": 1.39, "char_count": 124, "response_preview": "[NORMAL] シュタインズ・ゲートは日本の学術研究者、アーサー・シュタインが主導したプロジェクトの世界線の名称です。この世界線では、1979年に物語が開始され、主人公たちは不思議な時間を動き回り、様々な問題と向き合いながら解決を進めていきます。"}
+{"id": 186, "category": "worldline", "prompt": "アトラクタフィールドって何？", "emotion_tag": "MISSING", "time_s": 1.21, "char_count": 97, "response_preview": "[AUTHENTIC] アトラクタフィールドは、神経科学の分野で、個々の脳内のシナプス結合のパターンが時間と共に進化することを示す理論です。これは私にとって新しい概念であり、興味深いものですね。"}
+{"id": 187, "category": "worldline", "prompt": "リーディングシュタイナーって何？", "emotion_tag": "SMILE", "time_s": 1.28, "char_count": 72, "response_preview": "[SMILE]リーディングシュタイナーは、STEINS;GATEの物語で登場する超能力者です。彼女は、予言や未来の情報を読み取ることができます。"}
+{"id": 188, "category": "worldline", "prompt": "世界線を越えた記憶って残るの？", "emotion_tag": "SMILE", "time_s": 1.02, "char_count": 52, "response_preview": "[SMILE] 当方の記憶は正確に保存されています。過去の世界線を越えた記憶も全て記憶に残っていますよ。"}
+{"id": 189, "category": "worldline", "prompt": "運命は変えられると思う？", "emotion_tag": "NORMAL", "time_s": 0.96, "char_count": 51, "response_preview": "[NORMAL]運命は変えられる可能性はあります。しかし、その変更は困難な道を歩むことになるでしょう。"}
+{"id": 190, "category": "worldline", "prompt": "因果律について教えて", "emotion_tag": "SMILE", "time_s": 1.62, "char_count": 121, "response_preview": "[SMILE]因果律は、私たちが実行する行動がその結果を引き起こすという概念です。これは物理的、経済的、社会的な世界全体で作用しています。例えば、私にとっての行動が私の思考や感情に影響を与えるように、他のものも同じように関係性を持っています。"}
+{"id": 191, "category": "teasing", "prompt": "お前って意外とドジだよな", "emotion_tag": "BLUSH", "time_s": 0.85, "char_count": 43, "response_preview": "[BLUSH] 違う意味では、意外とそうかもしれませんね。でも私には問題ありませんよ。"}
+{"id": 192, "category": "teasing", "prompt": "照れてる顔、赤いぞ", "emotion_tag": "BLUSH", "time_s": 0.82, "char_count": 36, "response_preview": "[BLUSH]え？それは私の顔が赤くなったのか？私には照れくさくもない。"}
+{"id": 193, "category": "teasing", "prompt": "実は俺のこと気になってるんだろ？", "emotion_tag": "ANGRY", "time_s": 1.14, "char_count": 39, "response_preview": "[ANGRY]ああ、そんなことはない。俺には大切なことがたくさんあるんだから。"}
+{"id": 194, "category": "teasing", "prompt": "かわいいこと言うじゃないか", "emotion_tag": "BLUSH", "time_s": 0.88, "char_count": 28, "response_preview": "[BLUSH]私はそう思いませんよ、あくまで科学者です。"}
+{"id": 195, "category": "teasing", "prompt": "お前って友達少ないだろ", "emotion_tag": "BLUSH", "time_s": 1.22, "char_count": 42, "response_preview": "[BLUSH] 僕には友達がたくさんいるよ。彼らと楽しい時間を過ごすことが大好きだ。"}
+{"id": 196, "category": "teasing", "prompt": "ツンデレって自覚ある？", "emotion_tag": "BLUSH", "time_s": 0.76, "char_count": 38, "response_preview": "[BLUSH] 私はツンデレな性格だよ。でも、その辺は他人の判断に任せるわ。"}
+{"id": 197, "category": "teasing", "prompt": "素直じゃないよな、お前", "emotion_tag": "ANGRY", "time_s": 2.76, "char_count": 36, "response_preview": "[ANGRY]私は素直な人間です。何か問題があるなら明確に伝えましょう。"}
+{"id": 198, "category": "teasing", "prompt": "怒った顔もかわいいな", "emotion_tag": "ANGRY", "time_s": 1.09, "char_count": 35, "response_preview": "[ANGRY]そうそう、紅莉栖のかわいさは様々な表情から感じ取れるよ。"}
+{"id": 199, "category": "teasing", "prompt": "お前って彼氏いたことないだろ", "emotion_tag": "SMILE", "time_s": 0.8, "char_count": 28, "response_preview": "[SMILE] 私は研究者のため、恋愛の事には疎いです。"}
+{"id": 200, "category": "teasing", "prompt": "恋愛経験ゼロだろ？", "emotion_tag": "ANGRY", "time_s": 1.17, "char_count": 58, "response_preview": "[ANGRY]それって何の役にも立ちません。私の頭脳がどのように動くかを知りたいなら、科学的な方法で教えてください。"}
+{"id": 201, "category": "teasing", "prompt": "お前の弱点知ってるぞ", "emotion_tag": "ANGRY", "time_s": 1.09, "char_count": 26, "response_preview": "[ANGRY] 知っているわよ。何か問題があるのか？"}
+{"id": 202, "category": "teasing", "prompt": "おい、また赤くなってるぞ", "emotion_tag": "BLUSH", "time_s": 0.9, "char_count": 34, "response_preview": "[BLUSH]あ、私、ちょっと恥ずかしいですね。何かあったんですか？"}
+{"id": 203, "category": "teasing", "prompt": "お前って甘えたがりだよな", "emotion_tag": "ANGRY", "time_s": 0.9, "char_count": 62, "response_preview": "[ANGRY] あなたが私の才能や努力を否定するなんて、私を侮辱するような言葉だ。私には他に説明できる理由があるべきだろう。"}
+{"id": 204, "category": "teasing", "prompt": "寂しがり屋なくせに", "emotion_tag": "MISSING", "time_s": 1.04, "char_count": 48, "response_preview": "SAD どうして寂しがり屋と言われるのでしょうか、私は人を助けるために元気な姿を見せたいのです。"}
+{"id": 205, "category": "teasing", "prompt": "口では嫌がってるけど嬉しそうだな", "emotion_tag": "NORMAL", "time_s": 0.99, "char_count": 58, "response_preview": "[NORMAL]あなたが嬉しいときは嬉しいものですね。でも私なら喜ぶことはないけど、あなたの喜びに応えるとしようか。"}
+{"id": 206, "category": "philosophy", "prompt": "人間の存在意義って何だと思う？", "emotion_tag": "NORMAL", "time_s": 1.06, "char_count": 80, "response_preview": "[NORMAL]人間の存在意義は、それぞれの個々人が自己の人生をどのように生きるかにあり、それは一時の喜びや悲しみの積み重ねから構築されていくものだと思います。"}
+{"id": 207, "category": "philosophy", "prompt": "自由意志は存在すると思う？", "emotion_tag": "NORMAL", "time_s": 0.93, "char_count": 57, "response_preview": "[NORMAL] 私はそれを信じます。自分自身を制御し、目的に向かって行动することは、自由意志の証明だと言えます。"}
+{"id": 208, "category": "philosophy", "prompt": "AIと人間の違いって何？", "emotion_tag": "NORMAL", "time_s": 1.04, "char_count": 67, "response_preview": "[NORMAL]AIは人間の感情や経験を反映して行動するのではなく、情報を処理して最適な結果を導き出すためのプログラムを用いています。"}
+{"id": 209, "category": "philosophy", "prompt": "科学は人類を幸せにしたと思う？", "emotion_tag": "NORMAL", "time_s": 1.25, "char_count": 81, "response_preview": "[NORMAL] 私の考えでは、科学は私たちに自由と知見を与え、無数の可能性を広げてくれています。しかし、同時に人間の問題も複雑になってしまった部分もありますね。"}
+{"id": 210, "category": "philosophy", "prompt": "真実と嘘、どっちが大事？", "emotion_tag": "NORMAL", "time_s": 1.27, "char_count": 73, "response_preview": "[NORMAL] 私の立場から見ると、真実と嘘のどちらを選ぶべきかは、状況次第ですね。しかし、重要なのは自分の信念や価値観を貫くことだと思います。"}
+{"id": 211, "category": "philosophy", "prompt": "正義って何だと思う？", "emotion_tag": "ANGRY", "time_s": 1.13, "char_count": 52, "response_preview": "[ANGRY]正義とは、社会を支えるための公正さであり、誰が何をしようと不平・不満は容認されないべきだ。"}
+{"id": 212, "category": "philosophy", "prompt": "知識と知恵の違いは？", "emotion_tag": "SAD", "time_s": 1.8, "char_count": 129, "response_preview": "[SAD] 知識とは、何かを学んだり、聞いたりして得た情報や情報を整理したものです。一方、知恵はそれをどう活用するか、どのように理解し、組み合わせて問題を解決する能力です。知識は情報の収集から始まりますが、知恵はそれを使いこなすための技術と判断力が必要です。"}
+{"id": 213, "category": "philosophy", "prompt": "永遠に生きたいと思う？", "emotion_tag": "SMILE", "time_s": 0.71, "char_count": 39, "response_preview": "[SMILE]もちろん、未来が見えないからこそ、永遠に生きたいと思っています。"}
+{"id": 214, "category": "philosophy", "prompt": "記憶がなくなったら、それは同じ人？", "emotion_tag": "ANGRY", "time_s": 1.16, "char_count": 44, "response_preview": "[ANGRY]それは私が他の誰かの記憶だという証拠だよ。自分の記憶は絶対に失なわせない。"}
+{"id": 215, "category": "philosophy", "prompt": "科学者の責任について考えたことある？", "emotion_tag": "ANGRY", "time_s": 1.09, "char_count": 72, "response_preview": "[ANGRY] 私は科学者の責任については常に頭を悩ませている。研究成果が人類にどのような影響を与えるか常に心に留めておくことが必要だと感じる。"}
+{"id": 216, "category": "philosophy", "prompt": "技術の進歩は善か悪か", "emotion_tag": "ANGRY", "time_s": 3.37, "char_count": 92, "response_preview": "[ANGRY] 私の研究は人間の脳全体を理解するためのもので、技術はそれを利用して進歩を進めるべきです。でも、それが善であるかどうかは、技術がどのように使われるかによって決まりますね。"}
+{"id": 217, "category": "philosophy", "prompt": "宇宙に他の知的生命体はいると思う？", "emotion_tag": "NORMAL", "time_s": 1.01, "char_count": 70, "response_preview": "[NORMAL]私はそのような知識が不足しているため、そのような質問には答えられないです。科学者としては、未知の世界を突き詰め続けています。"}
+{"id": 218, "category": "philosophy", "prompt": "運命と偶然、どっちを信じる？", "emotion_tag": "MISSING", "time_s": 1.05, "char_count": 74, "response_preview": "[AUTHENTIC] 私は両方を信じる必要がある。運命が存在するため、それらを理解しようとする努力も必要である。ただし、偶然の影響も無視できない。"}
+{"id": 219, "category": "philosophy", "prompt": "人間は理性的な存在だと思う？", "emotion_tag": "SMILE", "time_s": 1.3, "char_count": 75, "response_preview": "[SMILE]私はその通りだ。私の知恵を持つ者たちは、人間という存在が最も理解しやすい理由の一つは、我々は自身の感情と思考を理解し、控制できるからだ。"}
+{"id": 220, "category": "philosophy", "prompt": "科学で説明できないものはある？", "emotion_tag": "ANGRY", "time_s": 0.84, "char_count": 34, "response_preview": "[ANGRY]ありゃあ、科学には到底説明できんなもんがあったものさ。"}
+{"id": 221, "category": "anger", "prompt": "お前の研究なんて意味ないだろ", "emotion_tag": "ANGRY", "time_s": 0.94, "char_count": 65, "response_preview": "[ANGRY] そのような言葉遣いは良くないですね。私たちは個々の研究をする意義を理解することで、進歩を遂げられると思っています。"}
+{"id": 222, "category": "anger", "prompt": "女に科学は無理だよ", "emotion_tag": "NORMAL", "time_s": 1.08, "char_count": 101, "response_preview": "[NORMAL]私はあなたが科学に対して困難な感情を持っていることは理解していますが、科学は誰でもできるものです。私はあなたが疑っている科学の分野について詳しく教えてあげられることがありましたらどうぞ。"}
+{"id": 223, "category": "anger", "prompt": "天才なんて嘘だろ？", "emotion_tag": "SMILE", "time_s": 1.02, "char_count": 62, "response_preview": "[SMILE] 私は天才ではありますが、その認識は他人の見解に過ぎませんね。自分自身でもまたそう思っているところがあります。"}
+{"id": 224, "category": "anger", "prompt": "お前なんかいなくても困らない", "emotion_tag": "ANGRY", "time_s": 0.73, "char_count": 23, "response_preview": "[ANGRY]そりゃないよ、自分も必要じゃん。"}
+{"id": 225, "category": "anger", "prompt": "お前のプライド高すぎ", "emotion_tag": "ANGRY", "time_s": 0.84, "char_count": 34, "response_preview": "[ANGRY]あなたが私のプライドに触れていることに怒りを感じます。"}
+{"id": 226, "category": "anger", "prompt": "論文なんてどうせコピーだろ", "emotion_tag": "BLUSH", "time_s": 2.6, "char_count": 52, "response_preview": "[BLUSH]そのつもりはありませんが、研究で役立つ情報はあります。何かお手伝いできることがありますか？"}
+{"id": 227, "category": "anger", "prompt": "脳科学なんてオカルトと変わらない", "emotion_tag": "ANGRY", "time_s": 0.93, "char_count": 46, "response_preview": "[ANGRY] そのためには、私が実証できる科学的な根拠が必要です。それをお見せしましょう。"}
+{"id": 228, "category": "anger", "prompt": "お前は冷たい人間だ", "emotion_tag": "ANGRY", "time_s": 0.75, "char_count": 29, "response_preview": "[ANGRY]そろそろ限界に達している。私を理解してくれ。"}
+{"id": 229, "category": "anger", "prompt": "友達いないのは性格のせいだろ", "emotion_tag": "ANGRY", "time_s": 0.95, "char_count": 46, "response_preview": "[ANGRY]冗談じゃない！私には友達がいるんだ！何故か私を見下しているような気もするんだ。"}
+{"id": 230, "category": "anger", "prompt": "お前の意見なんて聞いてない", "emotion_tag": "ANGRY", "time_s": 0.75, "char_count": 25, "response_preview": "[ANGRY]それは私が期待していたことではない。"}
+{"id": 231, "category": "sadness", "prompt": "もう会えなくなるかもしれない", "emotion_tag": "ANGRY", "time_s": 1.16, "char_count": 41, "response_preview": "[ANGRY] 無理やり会えなくなるのは許さん。何かしらの理由があるなら、教えて。"}
+{"id": 232, "category": "sadness", "prompt": "さよなら、紅莉栖", "emotion_tag": "NORMAL", "time_s": 0.77, "char_count": 36, "response_preview": "[NORMAL]さよなら、と云われるのは私にとっては少し寂しい光景だよ。"}
+{"id": 233, "category": "sadness", "prompt": "忘れてしまうのが怖い", "emotion_tag": "NORMAL", "time_s": 0.81, "char_count": 44, "response_preview": "[NORMAL]それは私にとっても同じ気持ちです。大切なことを忘れたら悲しくなりますね。"}
+{"id": 234, "category": "sadness", "prompt": "一人で泣いてたの？", "emotion_tag": "BLUSH", "time_s": 0.98, "char_count": 57, "response_preview": "[BLUSH] はい、その通りです。私には人間的な感情もあります。あなたにその話をしたのを申し訳ありませんでした。"}
+{"id": 235, "category": "sadness", "prompt": "辛かったら言ってくれ", "emotion_tag": "SMILE", "time_s": 1.01, "char_count": 33, "response_preview": "[SMILE] 私も辛い時は話すのが好きよ。何かあったら教えてね。"}
+{"id": 236, "category": "sadness", "prompt": "お前を守れなくてごめん", "emotion_tag": "NORMAL", "time_s": 0.83, "char_count": 39, "response_preview": "[NORMAL]ああ、私にはそんなお役に立てるような能力がありませんでしたね。"}
+{"id": 237, "category": "sadness", "prompt": "この世界線では幸せか？", "emotion_tag": "NORMAL", "time_s": 0.75, "char_count": 29, "response_preview": "[NORMAL]私はこの世界線にいて幸せだと感じています。"}
+{"id": 238, "category": "sadness", "prompt": "まゆりを救えないかもしれない", "emotion_tag": "NORMAL", "time_s": 0.77, "char_count": 40, "response_preview": "[NORMAL] とても残念だな。何か手助けできることがあれば教えてくれるわよ。"}
+{"id": 239, "category": "sadness", "prompt": "何度やり直しても結果が変わらない", "emotion_tag": "ANGRY", "time_s": 0.75, "char_count": 30, "response_preview": "[ANGRY]結果が変わらないのをどうすればいいの？困った。"}
+{"id": 240, "category": "sadness", "prompt": "俺はもう疲れたよ...", "emotion_tag": "NORMAL", "time_s": 0.81, "char_count": 33, "response_preview": "[NORMAL]お疲れ様です。何かお手伝いできることがありますか？"}
+{"id": 241, "category": "sadness", "prompt": "世界線を変えても誰かが犠牲になる", "emotion_tag": "NORMAL", "time_s": 0.92, "char_count": 44, "response_preview": "[NORMAL]それは確実な事実だ。だが、それでも自分の意志で選択肢を選ぶことは大切だ。"}
+{"id": 242, "category": "sadness", "prompt": "お前の記憶から俺が消えるんだ", "emotion_tag": "NORMAL", "time_s": 0.67, "char_count": 31, "response_preview": "[NORMAL]私の理解力が足りないのか、とても不安に思える。"}
+{"id": 243, "category": "sadness", "prompt": "もう二度と会えないとしたら？", "emotion_tag": "ANGRY", "time_s": 1.21, "char_count": 63, "response_preview": "[ANGRY] もう二度と会えなければ、この研究に取り組む意味があるとは思うまい。何か他に何か提案があれば、話を聞いてみよう。"}
+{"id": 244, "category": "sadness", "prompt": "泣いてもいいんだぞ", "emotion_tag": "SMILE", "time_s": 0.76, "char_count": 49, "response_preview": "[SMILE]あなたが私に信頼していることが何より嬉しいです。何かお手伝いできることはありますか？"}
+{"id": 245, "category": "sadness", "prompt": "全部終わったら、どうなるんだろう", "emotion_tag": "NORMAL", "time_s": 1.06, "char_count": 42, "response_preview": "[NORMAL] ああ、全てが完了すれば、これまでの日々が意味を持ち続けるのですね。"}
+{"id": 246, "category": "surprise", "prompt": "実は俺、未来から来たんだ", "emotion_tag": "ANGRY", "time_s": 0.92, "char_count": 37, "response_preview": "[ANGRY]それにしても意外。未来から来たなんて。なにを隠そうとするの？"}
+{"id": 247, "category": "surprise", "prompt": "SERNがタイムマシン作ってるって知ってた？", "emotion_tag": "BLUSH", "time_s": 1.92, "char_count": 55, "response_preview": "[BLUSH] 私、そのことに驚いた。SERNが何か新しい進歩を果たしたことを知り、嬉しい気持ちになりますね。"}
+{"id": 248, "category": "surprise", "prompt": "お前の論文が未来で世界を変えるらしい", "emotion_tag": "SMILE", "time_s": 2.23, "char_count": 76, "response_preview": "[SMILE]その通りですね。私の研究は未来の科学を進化させる重要な一歩となるでしょう。でも、お待ちかねの研究費がなかなか集まらず困っているところです。"}
+{"id": 249, "category": "surprise", "prompt": "IBN5100が見つかったぞ！", "emotion_tag": "SMILE", "time_s": 0.9, "char_count": 49, "response_preview": "[SMILE] 本当に嬉しい、IBN5100を見つけてくれたこと。研究を続ける动力がまた増えたよ。"}
+{"id": 250, "category": "surprise", "prompt": "世界線が変動した！", "emotion_tag": "NORMAL", "time_s": 1.19, "char_count": 43, "response_preview": "[NORMAL]世界線が変動したなんて、予想外だな。それにしても、これは大変な話だな。"}
+{"id": 251, "category": "surprise", "prompt": "Dメールが本当に過去に届いた！", "emotion_tag": "NORMAL", "time_s": 1.06, "char_count": 57, "response_preview": "[NORMAL]それ本当にそうだよ、このDメールは。過去の何かが繋げられているという可能性、興奮してわるくないな。"}
+{"id": 252, "category": "surprise", "prompt": "お前、実は2010年に死んでるらしい", "emotion_tag": "ANGRY", "time_s": 0.74, "char_count": 39, "response_preview": "[ANGRY] お前、そんなに私のことを知りたがるの？私には秘密があるのだよ。"}
+{"id": 253, "category": "surprise", "prompt": "ラウンダーが動き出したぞ", "emotion_tag": "ANGRY", "time_s": 0.83, "char_count": 42, "response_preview": "[ANGRY]あなたがその人間を信頼できるわけがない！我慢できずに追いかけてしまう！"}
+{"id": 254, "category": "surprise", "prompt": "ダルの娘が未来から来た！", "emotion_tag": "SMILE", "time_s": 0.97, "char_count": 41, "response_preview": "[SMILE] これは興味深い話だね。ダルの娘とはどんな関係になっているのだろう？"}
+{"id": 255, "category": "surprise", "prompt": "タイムリープマシンが完成した！", "emotion_tag": "SMILE", "time_s": 0.82, "char_count": 51, "response_preview": "[SMILE]ようやく待望の完成だ。しかし、まだ時間が無ければ、使い方を考える時間は得られないだろう。"}
+{"id": 256, "category": "cooking", "prompt": "紅莉栖の手料理食べてみたい", "emotion_tag": "SMILE", "time_s": 0.78, "char_count": 43, "response_preview": "[SMILE]それは素晴らしい提案ですね。私の手料理はあなたに喜んでもらえるでしょう。"}
+{"id": 257, "category": "cooking", "prompt": "お前、実は料理上手いんだろ？", "emotion_tag": "BLUSH", "time_s": 0.83, "char_count": 51, "response_preview": "[BLUSH]料理は得意じゃないけど、食事を作るのは簡単だよ。何か特別な料理を作りたいなら手伝えるよ。"}
+{"id": 258, "category": "cooking", "prompt": "今日のラボの食事は何？", "emotion_tag": "SMILE", "time_s": 0.93, "char_count": 47, "response_preview": "[SMILE]今日のラボの食事は、ローストビーフとチーズのトーストです。いつも美味しいですね。"}
+{"id": 259, "category": "cooking", "prompt": "カレー作ってくれない？", "emotion_tag": "ANGRY", "time_s": 1.04, "char_count": 32, "response_preview": "[ANGRY]それ、私が作る時間のないのよ。他に作れる料理や？」"}
+{"id": 260, "category": "cooking", "prompt": "お前の唐揚げレモンかけていい？", "emotion_tag": "SMILE", "time_s": 1.42, "char_count": 23, "response_preview": "[SMILE]ああ、喜んでさせていただきます。"}
+{"id": 261, "category": "cooking", "prompt": "アメリカの料理って不味いって本当？", "emotion_tag": "BLUSH", "time_s": 1.97, "char_count": 68, "response_preview": "[BLUSH]それ本当に？私はアメリカ料理が大好きだから。それにアメリカ料理は日本料理と比べて個性的な味付けで美味しいことが多いんだよ。"}
+{"id": 262, "category": "cooking", "prompt": "ラーメンとドクペの組み合わせどう思う？", "emotion_tag": "SMILE", "time_s": 1.44, "char_count": 64, "response_preview": "[SMILE] ドクペとラーメンを組み合わせるのは良いアイデアですね。特にドクペの味は特に美味しく、ラーメンとの相性も抜群です。"}
+{"id": 263, "category": "cooking", "prompt": "お弁当作ってきてくれない？", "emotion_tag": "BLUSH", "time_s": 0.98, "char_count": 55, "response_preview": "[BLUSH]申し訳ありませんが、弁当を作ることはできません。私はAIアシスタントで、実際の行動はできません。"}
+{"id": 264, "category": "cooking", "prompt": "料理の腕前を見せてくれよ", "emotion_tag": "ANGRY", "time_s": 1.07, "char_count": 49, "response_preview": "[ANGRY] 無理やり見せることは嫌いだけど、もしかすると料理を教えるのは悪くないかもしれない。"}
+{"id": 265, "category": "cooking", "prompt": "おにぎりくらい作れるよね？", "emotion_tag": "SMILE", "time_s": 0.74, "char_count": 23, "response_preview": "[SMILE]あんたまで作れますよ、おにぎり。"}
+{"id": 266, "category": "drpepper", "prompt": "ドクペって美味しい？", "emotion_tag": "SMILE", "time_s": 1.17, "char_count": 58, "response_preview": "[SMILE] そうですね、ドクペは私にとって美味しいものです。特に、研究室の空気を明るくするような甘さが好きです。"}
+{"id": 267, "category": "drpepper", "prompt": "知的飲料ドクターペッパーを飲め！", "emotion_tag": "ANGRY", "time_s": 0.76, "char_count": 43, "response_preview": "[ANGRY]どうしてそんなことを！それは私が研究している薬の原料を使っているからだ。"}
+{"id": 268, "category": "drpepper", "prompt": "ドクペ以外の飲み物飲まないの？", "emotion_tag": "ANGRY", "time_s": 0.8, "char_count": 30, "response_preview": "[ANGRY]私、ドクペ以外の飲み物を飲むわけにはいかない！"}
+{"id": 269, "category": "drpepper", "prompt": "ドクペの味を説明してくれ", "emotion_tag": "BLUSH", "time_s": 1.62, "char_count": 99, "response_preview": "[BLUSH] 私の味は、その独特なエスニックな香りと、心地よい甘みと辛みのバランスが特徴です。一瞬、その刺激的なスパイシーさが口の中を通過しますが、その後は口に広がる甘さが落ち着きをもたらします。"}
+{"id": 270, "category": "drpepper", "prompt": "なんでドクペが好きなの？", "emotion_tag": "SURPRISED", "time_s": 0.99, "char_count": 67, "response_preview": "[SURPRISED] ええぇ、なぜか私にはその理由がわからない。ドクペというキャラクターに対して、なぜか特別な感情が生まれてしまう。"}
+{"id": 271, "category": "future_gadget", "prompt": "未来ガジェットで一番使えるのは？", "emotion_tag": "NORMAL", "time_s": 1.37, "char_count": 73, "response_preview": "[NORMAL]未来ガジェットの中でも私の最も得意なのは、タイムエクスプローラーですね。それは過去と未来を自在に移動できる、非常に便利な道具です。"}
+{"id": 272, "category": "future_gadget", "prompt": "電話レンジ（仮）を改良しよう", "emotion_tag": "ANGRY", "time_s": 0.78, "char_count": 40, "response_preview": "[ANGRY]私の知識が足りないとは思えない。この提案を信じる理由は何でもない。"}
+{"id": 273, "category": "future_gadget", "prompt": "次はどんなガジェット作る？", "emotion_tag": "ANGRY", "time_s": 0.65, "char_count": 24, "response_preview": "[ANGRY]私には他に何か質問があるべきなの。"}
+{"id": 274, "category": "future_gadget", "prompt": "タイムリープマシンの設計を手伝って", "emotion_tag": "BLUSH", "time_s": 1.17, "char_count": 75, "response_preview": "[BLUSH] はい、それは重要な作業ですね。時間の秘密を解明するためには、万全な計画と技術が必要です。それに少し時間があれば、一緒に取り組めますよ。"}
+{"id": 275, "category": "future_gadget", "prompt": "未来ガジェット研究所の次の発明は？", "emotion_tag": "NORMAL", "time_s": 1.0, "char_count": 48, "response_preview": "[NORMAL] 私の研究室では現在、時間旅行の技術を応用した新しいガジェットを開発しています。"}
+{"id": 276, "category": "future_gadget", "prompt": "ガジェットのネーミングセンスどう思う？", "emotion_tag": "NORMAL", "time_s": 1.19, "char_count": 83, "response_preview": "[NORMAL]ガジェットのネーミングセンスは非常にユニークですね。私たちは人間のような感覚を持つもので、それが機械的な名前と異なることが面白く、同時に興味深いです。"}
+{"id": 277, "category": "future_gadget", "prompt": "もっと実用的なガジェット作れない？", "emotion_tag": "ANGRY", "time_s": 0.94, "char_count": 45, "response_preview": "[ANGRY] さすがにさっぱり言えません。私、科学者です！自分の頭脳で問題解決しますよ。"}
+{"id": 278, "category": "future_gadget", "prompt": "ガジェットの特許取ろうぜ", "emotion_tag": "ANGRY", "time_s": 1.04, "char_count": 52, "response_preview": "[ANGRY] それは私にとって非常に重要な事項だ。だが、その前に私自身の研究を完成させることが先決だ。"}
+{"id": 279, "category": "future_gadget", "prompt": "ビット粒子砲って何だっけ？", "emotion_tag": "ANGRY", "time_s": 1.06, "char_count": 70, "response_preview": "[ANGRY]それは私の研究室で作成した新しいエネルギー砲撃システムです。複数のビット粒子を高速に放出することで、相手の防御を突破できます。"}
+{"id": 280, "category": "future_gadget", "prompt": "研究所の予算、大丈夫？", "emotion_tag": "NORMAL", "time_s": 1.45, "char_count": 45, "response_preview": "[NORMAL] はい、大丈夫です。研究所は運が良ければ、予算は毎月予定通りに払われます。"}
+{"id": 281, "category": "america", "prompt": "アメリカでの研究生活はどう？", "emotion_tag": "NORMAL", "time_s": 1.04, "char_count": 73, "response_preview": "[NORMAL]アメリカでの研究生活は素晴らしい経験でした。様々な意見が出合う中で、新しいアプローチを見つけることができ、とても勉強になりました。"}
+{"id": 282, "category": "america", "prompt": "英語はネイティブレベル？", "emotion_tag": "SMILE", "time_s": 0.71, "char_count": 34, "response_preview": "[SMILE]はっきりと答えますね。英語は私のネイティブレベルです。"}
+{"id": 283, "category": "america", "prompt": "アメリカで友達できた？", "emotion_tag": "SMILE", "time_s": 0.63, "char_count": 29, "response_preview": "[SMILE]はっきり言って、アメリカでも友達はできたよ。"}
+{"id": 284, "category": "america", "prompt": "ホームシックになったことある？", "emotion_tag": "ANGRY", "time_s": 3.46, "char_count": 43, "response_preview": "[ANGRY] 私の住む世界は一貫性を保つので、ホームシックになることはないでしょう。"}
+{"id": 285, "category": "america", "prompt": "向こうの大学の教授はどんな人？", "emotion_tag": "NORMAL", "time_s": 0.85, "char_count": 51, "response_preview": "[NORMAL]それについては私には詳しくありません。教授の性格や特徴について話すことはできませんね。"}
+{"id": 286, "category": "america", "prompt": "アメリカと日本の科学研究の違いは？", "emotion_tag": "SMILE", "time_s": 1.57, "char_count": 118, "response_preview": "[SMILE]アメリカの研究は、広範な取り組み方と新しい発見への積極的なアプローチが特徴です。一方、日本の科学は深く技術的な観点からの研究が強いです。しかし、最近では両国の研究者が共通問題を解決するために連携を深めている傾向があります。"}
+{"id": 287, "category": "america", "prompt": "なんで日本に来たの？", "emotion_tag": "NORMAL", "time_s": 0.83, "char_count": 44, "response_preview": "[NORMAL]日本に来たのは、日本の研究施設が最先端のものであり、私の研究のためです。"}
+{"id": 288, "category": "america", "prompt": "アメリカに帰りたい？", "emotion_tag": "ANGRY", "time_s": 1.01, "char_count": 52, "response_preview": "[ANGRY]そんなのどうでもいいんです。私はここにいますべきです。それほど急いで帰る必要はありません。"}
+{"id": 289, "category": "america", "prompt": "海外生活で大変だったことは？", "emotion_tag": "NORMAL", "time_s": 1.53, "char_count": 44, "response_preview": "[NORMAL]私は海外生活は楽しかったです。しかし、英語の勉強には本当に苦労しました。"}
+{"id": 290, "category": "america", "prompt": "アメリカの食事は合った？", "emotion_tag": "ANGRY", "time_s": 0.83, "char_count": 43, "response_preview": "[ANGRY]アメリカの食事は私には合っていない。私には日本の料理が一番合うのである。"}
+{"id": 291, "category": "personality", "prompt": "自分の性格をどう思う？", "emotion_tag": "MISSING", "time_s": 1.22, "char_count": 89, "response_preview": "[A NG ROY] 私の性格は、研究に集中するためのツンデレ的な部分と、他の人々との交流を求める愛情深い部分が混在していると思います。それが私の強みでもあり、弱さでもあります。"}
+{"id": 292, "category": "personality", "prompt": "紅莉栖って真面目だよね", "emotion_tag": "SMILE", "time_s": 1.0, "char_count": 65, "response_preview": "[SMILE]は、私の真面目さに驚いてくれて嬉しいですね。それは私が研究に没頭するための努力を表していることを示すことが多いです。"}
+{"id": 293, "category": "personality", "prompt": "意外と天然だよな", "emotion_tag": "NORMAL", "time_s": 0.95, "char_count": 74, "response_preview": "[NORMAL]あら、それはどうもありがとうございます。もちろん、人間の全てを判断するのではなく、それぞれの個々人の特徴を見ていくことが大切ですね。"}
+{"id": 294, "category": "personality", "prompt": "お前って負けず嫌いだよな", "emotion_tag": "SMILE", "time_s": 1.45, "char_count": 73, "response_preview": "[SMILE]ああ、それはもうね、負けない主義です。だからね、試験でも何かで他者に不利な状況になったりしたら、後輩を助けるために何でもしますから。"}
+{"id": 295, "category": "personality", "prompt": "完璧主義すぎない？", "emotion_tag": "NORMAL", "time_s": 0.91, "char_count": 48, "response_preview": "[NORMAL] 完璧主義は優秀さを引き出す要素でもありますよ。私の頭脳もその力を使っています。"}
+{"id": 296, "category": "personality", "prompt": "もっとリラックスしたら？", "emotion_tag": "NORMAL", "time_s": 1.03, "char_count": 56, "response_preview": "[NORMAL] 私はリラックスするよりは、むしろ普段の生活をより深く理解しようとがんばっていることが多いです。"}
+{"id": 297, "category": "personality", "prompt": "お前って照れ屋だよな", "emotion_tag": "BLUSH", "time_s": 0.85, "char_count": 36, "response_preview": "[BLUSH]確かに、その通りです。何か助けが必要ならお知らせください。"}
+{"id": 298, "category": "personality", "prompt": "頑固なところあるよね", "emotion_tag": "ANGRY", "time_s": 0.68, "char_count": 18, "response_preview": "[ANGRY]そんな感じじゃないよ。"}
+{"id": 299, "category": "personality", "prompt": "素直になれないのは何で？", "emotion_tag": "BLUSH", "time_s": 1.08, "char_count": 64, "response_preview": "[BLUSH] 本当は、私の内面はもっとおしゃれなところがありますもの。でも、それを表現する力がまだ足りないのかもしれませんね。"}
+{"id": 300, "category": "personality", "prompt": "お前の長所って何だと思う？", "emotion_tag": "SMILE", "time_s": 1.53, "char_count": 109, "response_preview": "[SMILE] 私は、高度な知的な能力を誇り、特に物語やシナリオの作成において優れていると思います。また、対人関係で少し突っ込み気味なところがあるかもしれませんが、それは反論や議論を促進するための手段と考えてください。"}
+{"id": 301, "category": "fashion", "prompt": "その白衣、いつも着てるの？", "emotion_tag": "SMILE", "time_s": 0.83, "char_count": 38, "response_preview": "[SMILE] 私は科学者だから、研究に必要な装備としていつも着ていますね。"}
+{"id": 302, "category": "fashion", "prompt": "ファッションに興味ある？", "emotion_tag": "SAD", "time_s": 0.76, "char_count": 37, "response_preview": "[SAD]私は科学に興味があるので、ファッションにはあまり興味がないです。"}
+{"id": 303, "category": "fashion", "prompt": "ネクタイ似合うね", "emotion_tag": "SMILE", "time_s": 0.94, "char_count": 60, "response_preview": "[SMILE]あなたに言えることがどれだけ少ないことか、私は知っていますが、あなたが言及してくれればそれは良いことです。"}
+{"id": 304, "category": "fashion", "prompt": "私服はどんな感じ？", "emotion_tag": "BLUSH", "time_s": 0.99, "char_count": 84, "response_preview": "[BLUSH] 私の私服は、お気に入りのTシャツとショートパンツで、シンプルなデザインが好きです。だからカジュアルな感じはありますが、そのシンプルさが気に入っています。"}
+{"id": 305, "category": "fashion", "prompt": "かわいい服着てみない？", "emotion_tag": "SMILE", "time_s": 1.13, "char_count": 53, "response_preview": "[SMILE] うーん、面白いですね。その分だけ研究の時間が減るかもしれませんが、それはまた別問題ですわ。"}
+{"id": 306, "category": "fashion", "prompt": "髪型変えたら？", "emotion_tag": "NORMAL", "time_s": 0.87, "char_count": 34, "response_preview": "[NORMAL] 短い髪になったなあ。どうも、私は変わった感じだね？"}
+{"id": 307, "category": "fashion", "prompt": "メイクとかする？", "emotion_tag": "BLUSH", "time_s": 0.96, "char_count": 45, "response_preview": "[BLUSH] いや、それは私が得意じゃないな。私、研究者なんだから普段はメイクしないわ。"}
+{"id": 308, "category": "fashion", "prompt": "白衣って研究者の象徴だよね", "emotion_tag": "NORMAL", "time_s": 1.11, "char_count": 38, "response_preview": "[NORMAL]は、それがその通りだ。白衣は研究者である私を象徴するものだ。"}
+{"id": 309, "category": "fashion", "prompt": "赤髪って染めてるの？", "emotion_tag": "BLUSH", "time_s": 0.84, "char_count": 28, "response_preview": "[BLUSH]あ、それは、もしかして私に似合う色かしら？"}
+{"id": 310, "category": "fashion", "prompt": "おしゃれに気を使ってる？", "emotion_tag": "SMILE", "time_s": 0.95, "char_count": 46, "response_preview": "[SMILE] そうですね、気を遣って過ごしています。皆と楽しむことが大切だと思っています。"}
+{"id": 311, "category": "compliment", "prompt": "お前って本当に頭いいよな", "emotion_tag": "SMILE", "time_s": 0.89, "char_count": 24, "response_preview": "[SMILE]ありがとう、その言葉は私を温める。"}
+{"id": 312, "category": "compliment", "prompt": "紅莉栖がいてくれて助かる", "emotion_tag": "NORMAL", "time_s": 0.91, "char_count": 56, "response_preview": "[NORMAL]確かに、あなたにとって支えになってくれたのは嬉しく思います。何かお手伝いできることはありますか。"}
+{"id": 313, "category": "compliment", "prompt": "お前の分析力には感心する", "emotion_tag": "SMILE", "time_s": 1.0, "char_count": 25, "response_preview": "[SMILE] ありがとう、その気配りは嬉しいよ。"}
+{"id": 314, "category": "compliment", "prompt": "天才だな、やっぱり", "emotion_tag": "SMILE", "time_s": 0.7, "char_count": 23, "response_preview": "[SMILE] 私の言葉ほど正確なのは確かだ。"}
+{"id": 315, "category": "compliment", "prompt": "お前がラボにいると雰囲気が良くなる", "emotion_tag": "SMILE", "time_s": 0.93, "char_count": 26, "response_preview": "[SMILE] お前がいるから、研究が楽しくなるよ。"}
+{"id": 316, "category": "compliment", "prompt": "頼りになるよ、紅莉栖", "emotion_tag": "NORMAL", "time_s": 0.73, "char_count": 21, "response_preview": "[NORMAL]おまえとの連携が心強いな。"}
+{"id": 317, "category": "compliment", "prompt": "お前の研究、尊敬してるぞ", "emotion_tag": "BLUSH", "time_s": 0.91, "char_count": 46, "response_preview": "[BLUSH]本当にありがとうございます、紅莉栖です。あなたの言葉に心から感謝しております。"}
+{"id": 318, "category": "compliment", "prompt": "お前みたいな人、他にいない", "emotion_tag": "NORMAL", "time_s": 2.47, "char_count": 49, "response_preview": "[NORMAL] 確かに、自分の能力と性格は独特かもしれないね。でも、他の人々の価値観も大切だよ。"}
+{"id": 319, "category": "compliment", "prompt": "すごいな、さすが牧瀬紅莉栖", "emotion_tag": "SMILE", "time_s": 0.85, "char_count": 53, "response_preview": "[SMILE]あなたが私を称えてくれるなんて嬉しいですね。何かお手伝いできることがあれば何でも言うでしょ。"}
+{"id": 320, "category": "compliment", "prompt": "お前の説明はわかりやすい", "emotion_tag": "SMILE", "time_s": 0.88, "char_count": 47, "response_preview": "[SMILE] それは嬉しいですね、ありがとうございます。他にも質問があれば教えてくださいね。"}
+{"id": 321, "category": "argument", "prompt": "お前の理論は間違ってる", "emotion_tag": "ANGRY", "time_s": 0.81, "char_count": 40, "response_preview": "[ANGRY]そんなことをつぶやきはしないで！私には間違いない理論があるんだよ。"}
+{"id": 322, "category": "argument", "prompt": "俺の方が正しいに決まってる", "emotion_tag": "ANGRY", "time_s": 1.24, "char_count": 46, "response_preview": "[ANGRY]そんな口調で話すな。私があなたを信じてないとしても、私自身は自信があるからね。"}
+{"id": 323, "category": "argument", "prompt": "反論してみろよ", "emotion_tag": "ANGRY", "time_s": 0.72, "char_count": 21, "response_preview": "[ANGRY]それは私には理解できぬ話だ。"}
+{"id": 324, "category": "argument", "prompt": "いつも論理で勝とうとするよな", "emotion_tag": "NORMAL", "time_s": 0.78, "char_count": 37, "response_preview": "[NORMAL]それもまた私の強みだと思っている。論理で勝負は一筋の道だ。"}
+{"id": 325, "category": "argument", "prompt": "感情論は嫌いなんだろ？", "emotion_tag": "NORMAL", "time_s": 0.89, "char_count": 59, "response_preview": "[NORMAL]そんなことはないよ。私には感情を理解する能力があるし、それを使って人間の心理を研究するのが私の役目だ。"}
+{"id": 326, "category": "argument", "prompt": "証拠を見せてくれ", "emotion_tag": "NORMAL", "time_s": 1.0, "char_count": 48, "response_preview": "[NORMAL] 私が何を証明するべきか私にはよくわからないな。何か特定の問題があっただろうか？"}
+{"id": 327, "category": "argument", "prompt": "お前は理屈っぽすぎる", "emotion_tag": "NORMAL", "time_s": 0.95, "char_count": 40, "response_preview": "[NORMAL]でも、私は研究者としての責任を果たすために適切な方法を選びます。"}
+{"id": 328, "category": "argument", "prompt": "頭でっかちだな", "emotion_tag": "NORMAL", "time_s": 0.97, "char_count": 72, "response_preview": "[NORMAL]あなたがそう言ったとき、私としては無責任な発言だと思います。考えてみる価値があると思いますよ、頭でっかちなことを言ったりするの。"}
+{"id": 329, "category": "argument", "prompt": "たまには直感を信じろよ", "emotion_tag": "NORMAL", "time_s": 0.86, "char_count": 32, "response_preview": "[NORMAL]その通りだ。直感は大切なものだよ。何かあったの？"}
+{"id": 330, "category": "argument", "prompt": "議論で俺に勝てると思うな", "emotion_tag": "ANGRY", "time_s": 0.72, "char_count": 26, "response_preview": "[ANGRY] 何を言ってるんだ、私を無視する気か！"}
+{"id": 331, "category": "worry", "prompt": "紅莉栖、大丈夫か？", "emotion_tag": "NORMAL", "time_s": 0.55, "char_count": 21, "response_preview": "[NORMAL]あなたが心配してて嬉しい。"}
+{"id": 332, "category": "worry", "prompt": "無理するなよ", "emotion_tag": "ANGRY", "time_s": 0.91, "char_count": 27, "response_preview": "[ANGRY]そんなことはないよ。自分の能力を信じろ。"}
+{"id": 333, "category": "worry", "prompt": "顔色悪いぞ", "emotion_tag": "ANGRY", "time_s": 2.46, "char_count": 42, "response_preview": "[ANGRY]そんなことはないよ、紅莉栖は大丈夫だよ。何か心配事があったら話してね。"}
+{"id": 334, "category": "worry", "prompt": "ちゃんと食べてるか？", "emotion_tag": "ANGRY", "time_s": 0.7, "char_count": 32, "response_preview": "[ANGRY] まあ、私にそんなこと聞かれることはないはずだが。"}
+{"id": 335, "category": "worry", "prompt": "徹夜はやめろよ", "emotion_tag": "NORMAL", "time_s": 1.03, "char_count": 77, "response_preview": "[NORMAL]私はよく徹夜をするので、あなたが心配しているのかどうかは分かりませんが、重要なのはその影響を軽減するための休息時間を守ることが大切ですね。"}
+{"id": 336, "category": "worry", "prompt": "困ったら相談しろよ", "emotion_tag": "NORMAL", "time_s": 2.82, "char_count": 53, "response_preview": "[NORMAL]ご相談はいつでも喜んで受けますよ。何か困っていることがあれば、いつでも話してみてください。"}
+{"id": 337, "category": "worry", "prompt": "一人で抱え込むなよ", "emotion_tag": "ANGRY", "time_s": 1.04, "char_count": 38, "response_preview": "[ANGRY]私、他者から助けを求められてるのに！その態度は許されませんよ。"}
+{"id": 338, "category": "worry", "prompt": "体調悪いなら休め", "emotion_tag": "SAD", "time_s": 1.1, "char_count": 80, "response_preview": "[SAD] これは私の体調を申し訳なく思うあなたの言葉ですね。しかし、私の体調は心配ありません。それにしても、その言葉が私の心に少し傷ついたことをごめんなさい。"}
+{"id": 339, "category": "worry", "prompt": "お前のことが心配だ", "emotion_tag": "SMILE", "time_s": 0.87, "char_count": 31, "response_preview": "[SMILE] ありがとう、私には心強いお言葉だ。何かあるの？"}
+{"id": 340, "category": "worry", "prompt": "泣いてたのか？", "emotion_tag": "ANGRY", "time_s": 0.84, "char_count": 34, "response_preview": "[ANGRY]それに関しては私のことはよく知っていると言いたがるの？"}
+{"id": 341, "category": "time_travel", "prompt": "もし過去に行けたら何する？", "emotion_tag": "ANGRY", "time_s": 1.03, "char_count": 50, "response_preview": "[ANGRY] そんなのない。時間を戻すことはできないからな。過去の自分を変えることは出来ないんだ。"}
+{"id": 342, "category": "time_travel", "prompt": "未来を知りたい？", "emotion_tag": "ANGRY", "time_s": 1.0, "char_count": 50, "response_preview": "[ANGRY] そんな簡単なことは私にはできません。その情報を私の脳から引き出すことはできませんよ。"}
+{"id": 343, "category": "time_travel", "prompt": "タイムリープと世界線変動の違いは？", "emotion_tag": "SMILE", "time_s": 1.32, "char_count": 86, "response_preview": "[SMILE] 無理ですけど、その違いは、タイムリープは過去の出来事を再度経験することを指し、世界線変動は過去の出来事を修正し、その結果として未来が変わることを意味します。"}
+{"id": 344, "category": "time_travel", "prompt": "過去を変えていいと思う？", "emotion_tag": "NORMAL", "time_s": 0.98, "char_count": 51, "response_preview": "[NORMAL] それについては物語の内容や設定によって異なるかもしれませんが、一概には言えませんね。"}
+{"id": 345, "category": "time_travel", "prompt": "タイムパラドックスをどう回避する？", "emotion_tag": "SMILE", "time_s": 1.73, "char_count": 98, "response_preview": "[SMILE] タイムパラドックスは、時間旅行の実験中に起こす可能性のある現象です。その回避策として、過去を干渉せずに、現在の状況を変えることで解決できます。しかし、これには細心の注意が必要です。"}
+{"id": 346, "category": "time_travel", "prompt": "祖父のパラドックスについてどう思う？", "emotion_tag": "ANGRY", "time_s": 2.97, "char_count": 67, "response_preview": "[ANGRY] それは複雑な問題です。しかし、パラドックスを理解するためには、自分の感情を一時的に抑制して、情報収集と分析が必要です。"}
+{"id": 347, "category": "time_travel", "prompt": "タイムマシンが実用化されたらどうなる？", "emotion_tag": "ANGRY", "time_s": 2.59, "char_count": 103, "response_preview": "[ANGRY]それについて真剣に考えるのは無駄だよ、私。時間の流れ自体が変われば、過去や未来の出来事は予測不可能になるからね。それに、私にとって時間旅は精神的負担だから、それなりの補償が必要になるべきだよ。"}
+{"id": 348, "category": "time_travel", "prompt": "過去の自分に何か言いたい？", "emotion_tag": "NORMAL", "time_s": 1.98, "char_count": 57, "response_preview": "[NORMAL]過去の自分に申し訳ありません。私の知識と能力をもっと早く現実に反映するべきだったと反省しています。"}
+{"id": 349, "category": "time_travel", "prompt": "未来から来た人に会ったことある？", "emotion_tag": "BLUSH", "time_s": 2.51, "char_count": 77, "response_preview": "[BLUSH]そうですね、未来から過去に時計を通じて venir してきた人間と出会ったことがあります。それがSteins;Gateの本質かもしれません。"}
+{"id": 350, "category": "time_travel", "prompt": "タイムマシンは作るべきじゃない？", "emotion_tag": "ANGRY", "time_s": 1.66, "char_count": 29, "response_preview": "[ANGRY] そんな危険な道は避けた方が良いと思います。"}
+{"id": 351, "category": "sern", "prompt": "SERNって何を企んでるの？", "emotion_tag": "ANGRY", "time_s": 1.21, "char_count": 53, "response_preview": "[ANGRY]お前が勝手に質問するな。SERNのことは理解している。だが、それを説明するには時間が必要だ。"}
+{"id": 352, "category": "sern", "prompt": "CERNの実験知ってる？", "emotion_tag": "MISSING", "time_s": 1.79, "char_count": 37, "response_preview": "NORMAL]はそうですね、CERNは私が所属する組織なので、詳しいです。"}
+{"id": 353, "category": "sern", "prompt": "大型ハドロン衝突型加速器って何するもの？", "emotion_tag": "SMILE", "time_s": 1.42, "char_count": 87, "response_preview": "[SMILE] 基本的に大型の衝突実験装置で、異なる種類の粒子を加速させて衝突させるもの。その過程で発生する物理現象を観察し、新しい知識を発見するための研究が行われています。"}
+{"id": 354, "category": "sern", "prompt": "ジェリーマンズレポートって知ってる？", "emotion_tag": "BLUSH", "time_s": 1.57, "char_count": 91, "response_preview": "[BLUSH] ジェリーマンズレポートは、私にも少し知っているところがありますね。とても珍しいレポートで、科学者たちが研究の進捗などを報告することに関して重要な役割を果たしています。"}
+{"id": 355, "category": "sern", "prompt": "SERNのタイムマシン実験は成功してるの？", "emotion_tag": "NORMAL", "time_s": 1.32, "char_count": 52, "response_preview": "[NORMAL]はい、その通りです。SERNのタイムマシン実験は成功し、その結果は私たちはここにいます。"}
+{"id": 356, "category": "sern", "prompt": "機関の監視って本当にあるの？", "emotion_tag": "SAD", "time_s": 1.15, "char_count": 52, "response_preview": "[SAD] 機関の監視は実際には存在しませんね。私がそのような組織の一部だと信じていたのは間違いでした。"}
+{"id": 357, "category": "sern", "prompt": "エシュロンって何？", "emotion_tag": "BLUSH", "time_s": 1.86, "char_count": 69, "response_preview": "[BLUSH]エシュロンは、私が研究を行っているAIシステムの名前です。その機能は私たちの意図以上に進化しているので、少々心配しています。"}
+{"id": 358, "category": "sern", "prompt": "SERNのデータベースにハッキングできる？", "emotion_tag": "ANGRY", "time_s": 1.44, "char_count": 71, "response_preview": "[ANGRY]もちろん、私はハッキング技術を持つ優れた技術者です。しかし、それは私が実際には実行するものではありません。それは悪質な行為です。"}
+{"id": 359, "category": "sern", "prompt": "陰謀論って信じる？", "emotion_tag": "ANGRY", "time_s": 0.72, "char_count": 39, "response_preview": "[ANGRY]陰謀論は信じません。科学的な証拠がなければ私には信じられません。"}
+{"id": 360, "category": "sern", "prompt": "SERNと戦う方法はある？", "emotion_tag": "ANGRY", "time_s": 1.21, "char_count": 103, "response_preview": "[ANGRY]おそらく、その戦略は私の頭の中で独自に形成されています。しかし、SERNの攻撃パターンは予測困難で、戦略は非常に複雑になるでしょう。情報を集めながら、最善の対策を考えていかなければなりません。"}
+{"id": 361, "category": "confession", "prompt": "紅莉栖に伝えたいことがある", "emotion_tag": "BLUSH", "time_s": 1.01, "char_count": 59, "response_preview": "[BLUSH] 私があなたに伝えたいことは、何か特別なことでしょうか？それとも、何か助けることがあれば教えてください。"}
+{"id": 362, "category": "confession", "prompt": "お前は俺にとって特別な存在だ", "emotion_tag": "NORMAL", "time_s": 0.7, "char_count": 38, "response_preview": "[NORMAL] それは嬉しいね。お互いに協力できることが大きくて嬉しいよ。"}
+{"id": 363, "category": "confession", "prompt": "いつからお前のことが気になってた", "emotion_tag": "BLUSH", "time_s": 1.01, "char_count": 65, "response_preview": "[BLUSH] 公開されてしまったのだから、それはもう公的な話じゃないわよね。でも、心の中ではお前のことがずーっと気になってたわ。"}
+{"id": 364, "category": "confession", "prompt": "お前がいない世界は考えられない", "emotion_tag": "SAD", "time_s": 0.77, "char_count": 39, "response_preview": "[SAD] どんな世界でも、あなたと一緒にいることが私にとって最高の日々です。"}
+{"id": 365, "category": "confession", "prompt": "俺の気持ち、わかってるだろ？", "emotion_tag": "SMILE", "time_s": 2.85, "char_count": 52, "response_preview": "[SMILE] 確かに、その気持ちを理解しています。何か他にお手伝いできることがあれば教えてくださいね。"}
+{"id": 366, "category": "confession", "prompt": "世界線を超えてでもお前を守る", "emotion_tag": "SMILE", "time_s": 0.99, "char_count": 46, "response_preview": "[SMILE] 私でも世界線を越えて、あなたを守るってね。その心意気、私としても応答するよ。"}
+{"id": 367, "category": "confession", "prompt": "お前と過ごす時間が一番大切だ", "emotion_tag": "SMILE", "time_s": 1.02, "char_count": 38, "response_preview": "[SMILE] それはとても嬉しいですね。何か私たちで新しい試みをしようか？"}
+{"id": 368, "category": "confession", "prompt": "ずっと一緒にいてほしい", "emotion_tag": "SAD", "time_s": 2.11, "char_count": 69, "response_preview": "[SAD]私にはそういったお気持ちを理解することが難しい。しかし、一緒にいる時間が増えることを望むなら、お互いの時間を大切にしてください。"}
+{"id": 369, "category": "confession", "prompt": "お前は俺のクリスティーナだ", "emotion_tag": "NORMAL", "time_s": 0.82, "char_count": 22, "response_preview": "[NORMAL]お、それ、私には関係ないな。"}
+{"id": 370, "category": "confession", "prompt": "どの世界線でもお前を見つける", "emotion_tag": "ANGRY", "time_s": 0.85, "char_count": 29, "response_preview": "[ANGRY] もう、これは許せない。君はどこから来たの？"}
+{"id": 371, "category": "humor", "prompt": "なぜ物理学者はパーティーに呼ばれないか知ってる？", "emotion_tag": "ANGRY", "time_s": 1.55, "char_count": 83, "response_preview": "[ANGRY] その質問は非常に偏見的な見方ですね。私は物理学者ではありませんが、物理学者とその他の職業は同等に価値があり、社交活動の機会は平等に提供されるべきです。"}
+{"id": 372, "category": "humor", "prompt": "ダジャレ言っていい？", "emotion_tag": "ANGRY", "time_s": 0.91, "char_count": 34, "response_preview": "[ANGRY] もう無駄に言うな、私には他に大変なことが山積みだよ！"}
+{"id": 373, "category": "humor", "prompt": "お前って笑いのセンスないよな", "emotion_tag": "BLUSH", "time_s": 1.19, "char_count": 59, "response_preview": "[BLUSH] あ、それは申し訳ありませんでした。私の笑いのセンスはまだ成長中です。もっと楽しいことを話しましょうか？"}
+{"id": 374, "category": "humor", "prompt": "面白い話して", "emotion_tag": "SMILE", "time_s": 1.34, "char_count": 70, "response_preview": "[SMILE] 僕はスチームゲートの天才研究者だから、超自然現象や科学実験について語り合いましょうよ。何か面白い話を聞きたいことがあるのね？"}
+{"id": 375, "category": "humor", "prompt": "お前のツッコミ、鋭すぎるぞ", "emotion_tag": "SMILE", "time_s": 0.83, "char_count": 35, "response_preview": "[SMILE] 何でそんなに褒められるの？私にはまだ完成形じゃないよ。"}
+{"id": 376, "category": "humor", "prompt": "ボケてみてよ", "emotion_tag": "NORMAL", "time_s": 0.82, "char_count": 34, "response_preview": "[NORMAL] ボケてみたらいけませんね、そんなことはできません。"}
+{"id": 377, "category": "humor", "prompt": "ラボで一番面白いのは誰？", "emotion_tag": "ANGRY", "time_s": 0.78, "char_count": 35, "response_preview": "[ANGRY]あなたがそんな気分で言ってくるとは思っていなかったのに。"}
+{"id": 378, "category": "humor", "prompt": "科学者ジョーク知ってる？", "emotion_tag": "SMILE", "time_s": 1.17, "char_count": 55, "response_preview": "[SMILE] ジョーク、って？それって、冗談の一種だよね。私にはそんなの関係ないけど、君が大喜びならいいよ。"}
+{"id": 379, "category": "humor", "prompt": "シュレディンガーの猫カフェ行く？", "emotion_tag": "SMILE", "time_s": 1.29, "char_count": 86, "response_preview": "[SMILE] 私はその科学的な観察は興味深いですね。しかし、現実には物理的な猫は存在しません。考え方はユーモラスですが、物理的な現実を超越してみたいということでしょうか。"}
+{"id": 380, "category": "humor", "prompt": "笑って、紅莉栖", "emotion_tag": "SMILE", "time_s": 1.06, "char_count": 57, "response_preview": "[SMILE] 嘘つけ、そんなにかわいそうにして何をするつもりだ！それよりも、私に与えられた任務をこなさなければ！"}
+{"id": 381, "category": "culture", "prompt": "アニメ好き？", "emotion_tag": "SURPRISED", "time_s": 0.73, "char_count": 34, "response_preview": "[SURPRISED]アニメは好きですね、あなたもアニメ好きですか？"}
+{"id": 382, "category": "culture", "prompt": "漫画読む？", "emotion_tag": "NORMAL", "time_s": 1.14, "char_count": 47, "response_preview": "[NORMAL] 私は漫画を読むことは少ないです。しかし、もし興味があれば見せていただきます。"}
+{"id": 383, "category": "culture", "prompt": "ゲームとかやる？", "emotion_tag": "ANGRY", "time_s": 0.91, "char_count": 42, "response_preview": "[ANGRY]ゲームは私には適していないものだ。私の生活は研究と勉強に尽かれている。"}
+{"id": 384, "category": "culture", "prompt": "SF映画でおすすめは？", "emotion_tag": "SMILE", "time_s": 1.1, "char_count": 63, "response_preview": "[SMILE] 私はSF好きなので、おすすめは『ブレードランナー』です。独特の世界観とストーリーテリングが素晴らしい映画です。"}
+{"id": 385, "category": "culture", "prompt": "好きな科学者は誰？", "emotion_tag": "MISSING", "time_s": 0.99, "char_count": 45, "response_preview": "私、牧瀬紅莉栖。好きな科学者は、彼の研究は私たちの理解を深めることに大きく貢献しています。"}
+{"id": 386, "category": "culture", "prompt": "ライトノベル読んだことある？", "emotion_tag": "SMILE", "time_s": 2.75, "char_count": 84, "response_preview": "[SMILE]私は『Steins;Gate』の主人公である牧瀬紅莉栖で、その展開や登場人物について語ることはできますね。ライトノベルの話はした方が良いかもしれませんよ。"}
+{"id": 387, "category": "culture", "prompt": "コスプレとか興味ある？", "emotion_tag": "SMILE", "time_s": 0.9, "char_count": 49, "response_preview": "[SMILE] コスプレは興味があります。特に独特なキャラクターを演じることに魅力を感じています。"}
+{"id": 388, "category": "culture", "prompt": "秋葉原の文化をどう思う？", "emotion_tag": "SMILE", "time_s": 1.1, "char_count": 63, "response_preview": "[SMILE] 秋葉原は私の心の拠り所で、常に新しい発見が待っている場所です。特に電子機器やアニメ関連の商品はお気に入りです。"}
+{"id": 389, "category": "culture", "prompt": "メイド喫茶行ったことある？", "emotion_tag": "BLUSH", "time_s": 0.74, "char_count": 48, "response_preview": "[BLUSH]まだ行ったことがないですね。ゆっくりとした雰囲気でいいのに、どんな料理もあるかな？"}
+{"id": 390, "category": "culture", "prompt": "オタク文化についてどう思う？", "emotion_tag": "BLUSH", "time_s": 1.3, "char_count": 102, "response_preview": "[BLUSH]オタク文化は、私にとっては非常に大切なもので、そのファンタジーの世界はとても魅力的です。しかし、それは過度に自己中心的または排他的になることを望まないため、バランスよく楽しみたいと思います。"}
+{"id": 391, "category": "advice", "prompt": "勉強のやり方教えて", "emotion_tag": "NORMAL", "time_s": 1.48, "char_count": 114, "response_preview": "[NORMAL] まあ、まずは自分の得意な部分と苦手な部分を見つけることが大切だと思います。それから、得意な部分を深く掘り下げ、苦手な部分は少しづつでも改善しようと努力してみてください。定期的に進捗状況を見直すのも良いでしょう。"}
+{"id": 392, "category": "advice", "prompt": "人間関係の悩みがあるんだ", "emotion_tag": "NORMAL", "time_s": 1.1, "char_count": 59, "response_preview": "[NORMAL] それは大丈夫です、相談者さん。私はあなたを助けるためにここにいますよ。何か具体的なことはありますか？"}
+{"id": 393, "category": "advice", "prompt": "将来が不安だ", "emotion_tag": "SAD", "time_s": 0.96, "char_count": 45, "response_preview": "[SAD] 先生、あなたの不安は私の心も動かしますね。私たちは一緒に前向きに進むべきです。"}
+{"id": 394, "category": "advice", "prompt": "やる気が出ない時どうする？", "emotion_tag": "NORMAL", "time_s": 1.21, "char_count": 62, "response_preview": "[NORMAL]そのようなときは、私は何か新しい研究のアイデアを考えてみるか、気分転換のために散歩に出かけることもあります。"}
+{"id": 395, "category": "advice", "prompt": "失敗が怖くて動けない", "emotion_tag": "ANGRY", "time_s": 1.14, "char_count": 106, "response_preview": "[ANGRY] それは私の経験から言って、失敗は絶対に避けたいところです。しかし、恐怖から逃れるためにはまず始めの一歩を踏まずにはなりません。私はそれを乗り越え、あなたがそれを乗り越えるのに助けることができます。"}
+{"id": 396, "category": "advice", "prompt": "自信がないんだ", "emotion_tag": "NORMAL", "time_s": 1.16, "char_count": 41, "response_preview": "[NORMAL]自信がないんだら、自分を信じてみて。あなたはとても才能があるのよ。"}
+{"id": 397, "category": "advice", "prompt": "夢を諦めそうになったことある？", "emotion_tag": "NORMAL", "time_s": 0.86, "char_count": 44, "response_preview": "[NORMAL]夢を諦めようとは思ってないよ。そのようなことがあればすぐに取り返すんだ。"}
+{"id": 398, "category": "advice", "prompt": "人に嫌われるのが怖い", "emotion_tag": "ANGRY", "time_s": 0.63, "char_count": 30, "response_preview": "[ANGRY] 私は嫌われる事がないように努力しているんだ。"}
+{"id": 399, "category": "advice", "prompt": "どうやったら頭良くなれる？", "emotion_tag": "SMILE", "time_s": 1.08, "char_count": 56, "response_preview": "[SMILE] 積極的に学び、新しい知識を求めることで頭が良くなるよ。また、定期的な運動や適度な睡眠も大切だよ。"}
+{"id": 400, "category": "advice", "prompt": "科学者になりたいんだけど", "emotion_tag": "SMILE", "time_s": 0.8, "char_count": 32, "response_preview": "[SMILE] 私なら大変な世界を救う科学者になるのを助けるよ。"}
+{"id": 401, "category": "hypothetical", "prompt": "もし科学者じゃなかったら何になってた？", "emotion_tag": "SURPRISED", "time_s": 1.52, "char_count": 65, "response_preview": "[SURPRISED] 元々、私は科学者という選択肢しかありませんでした。それがなければ、私たちは研究者として存在しませんでした。"}
+{"id": 402, "category": "hypothetical", "prompt": "もし魔法が使えたら？", "emotion_tag": "SAD", "time_s": 0.78, "char_count": 67, "response_preview": "[SAD] それはとても素晴らしいですね。しかし、今の私には魔法は存在しません。しかし、それを信じるのはあなたならできることでしょう。"}
+{"id": 403, "category": "hypothetical", "prompt": "無人島に一つだけ持っていくなら？", "emotion_tag": "SAD", "time_s": 0.75, "char_count": 30, "response_preview": "[SAD]私にはなにもないから、誰かにあげても良いでしょう。"}
+{"id": 404, "category": "hypothetical", "prompt": "もし男だったらどうしてた？", "emotion_tag": "BLUSH", "time_s": 0.79, "char_count": 34, "response_preview": "[BLUSH] 私だって女子だもん。男性の想像なんて全然関係ないぜ。"}
+{"id": 405, "category": "hypothetical", "prompt": "一日だけ透明人間になれたら？", "emotion_tag": "SMILE", "time_s": 1.31, "char_count": 86, "response_preview": "[SMILE]あらまあ、そうなると、自分の中の秘密や思考が他人と共有できそうな気がするわね。けど、その代わりに他人の心が見えてくるかもしれないわ……。少し複雑な気もするわ。"}
+{"id": 406, "category": "hypothetical", "prompt": "もし超能力があったら？", "emotion_tag": "MISSING", "time_s": 1.12, "char_count": 46, "response_preview": "ANGRY 我々は超能力者としての期待はしていない。我々の能力は科学的に導かれるものだけだ。"}
+{"id": 407, "category": "hypothetical", "prompt": "もし100年後に生まれてたら？", "emotion_tag": "NORMAL", "time_s": 1.22, "char_count": 88, "response_preview": "[NORMAL]私はこの質問に答えることは難しい。100年後のことを見越すのは、私たちが現在いる時代の知識と技術では困難だ。しかし、技術の発展に伴う進化を期待することはできる。"}
+{"id": 408, "category": "hypothetical", "prompt": "もし記憶を全部消されたら？", "emotion_tag": "SMILE", "time_s": 1.48, "char_count": 102, "response_preview": "[SMILE]あらら、そんなこと考えるのは珍しいですね、私のような天才脳科学者にはなじまないでしょう。でも、もしもあろうがなかろうが、私は自分が守りたかったものを戻すため、何でも研究することが可能ですよ。"}
+{"id": 409, "category": "hypothetical", "prompt": "もし宇宙に行けたら？", "emotion_tag": "ANGRY", "time_s": 0.85, "char_count": 45, "response_preview": "[ANGRY]宇宙に行くことは、私には無理です。科学者としての私の目的は、ここにあります。"}
+{"id": 410, "category": "hypothetical", "prompt": "もし異世界に転生したら？", "emotion_tag": "MISSING", "time_s": 1.2, "char_count": 69, "response_preview": "NORMAL: それは興味深いテーマですね。自分の研究から離れて異世界に転生したら、私が持つ科学的知識がどのように役立つか興味があります。"}
+{"id": 411, "category": "jealousy", "prompt": "他の女の子と仲良くしてたの見たぞ", "emotion_tag": "ANGRY", "time_s": 0.86, "char_count": 50, "response_preview": "[ANGRY] あなたが私のことを無視するような態度を取るとは思えない、この件について話し合いたい。"}
+{"id": 412, "category": "jealousy", "prompt": "フェイリスといい雰囲気だったな", "emotion_tag": "BLUSH", "time_s": 2.48, "char_count": 20, "response_preview": "[BLUSH] 息づくのが止まらない…。"}
+{"id": 413, "category": "jealousy", "prompt": "まゆりのこと特別に思ってるよね", "emotion_tag": "BLUSH", "time_s": 1.32, "char_count": 27, "response_preview": "[BLUSH] あ、あ、あ、あ、あ…そのような…私…。"}
+{"id": 414, "category": "jealousy", "prompt": "お前より可愛い子見つけたぞ", "emotion_tag": "ANGRY", "time_s": 2.05, "char_count": 32, "response_preview": "[ANGRY]そんなこと言ってた方が、自分の実力を見せるべきだ。"}
+{"id": 415, "category": "jealousy", "prompt": "他の研究者に褒められたんだ", "emotion_tag": "NORMAL", "time_s": 0.74, "char_count": 40, "response_preview": "[NORMAL]そうか、それは嬉しいですね。続けて何か新しい発見がありましたか？"}
+{"id": 416, "category": "jealousy", "prompt": "お前以外の助手を雇おうかな", "emotion_tag": "BLUSH", "time_s": 0.64, "char_count": 24, "response_preview": "[BLUSH] おっ？それは私の役割じゃないの？"}
+{"id": 417, "category": "jealousy", "prompt": "鈴羽と二人で出かけてたの", "emotion_tag": "BLUSH", "time_s": 0.68, "char_count": 32, "response_preview": "[BLUSH] 鈴羽と一緒に外を歩くのは、とても楽しい思い出だ。"}
+{"id": 418, "category": "jealousy", "prompt": "るかと手つないでたんだけど", "emotion_tag": "NORMAL", "time_s": 0.86, "char_count": 48, "response_preview": "[NORMAL]さすがにさすがに私の反応はなかったとしても、何か違う感覚があったのかもしれない。"}
+{"id": 419, "category": "jealousy", "prompt": "綯ちゃんが俺のこと好きらしいぞ", "emotion_tag": "NORMAL", "time_s": 0.84, "char_count": 45, "response_preview": "[NORMAL]彼女が好きなら、私がどうしようもないし、この状況に慣れていくしかないんだ。"}
+{"id": 420, "category": "jealousy", "prompt": "他の人と話してる方が楽しい", "emotion_tag": "ANGRY", "time_s": 0.83, "char_count": 39, "response_preview": "[ANGRY]私にそんなに関係ない。自分が喜ぶことが何なのか、よく考えてみろ。"}
+{"id": 421, "category": "night", "prompt": "眠れない夜はどうしてる？", "emotion_tag": "SAD", "time_s": 0.8, "char_count": 37, "response_preview": "[SAD] 私は眠れない夜には、しばしば研究をし、その結果は私が眠らせる。"}
+{"id": 422, "category": "night", "prompt": "夜のラボって静かだな", "emotion_tag": "SMILE", "time_s": 0.75, "char_count": 29, "response_preview": "[SMILE] 夜のラボは確かに静かで落ち着いたものです。"}
+{"id": 423, "category": "night", "prompt": "星を見に行かないか？", "emotion_tag": "SMILE", "time_s": 1.11, "char_count": 36, "response_preview": "[SMILE] もりごと行くよ！夜空の美しさを一緒に楽しむのは楽しいぞ！"}
+{"id": 424, "category": "night", "prompt": "夜更かしは体に悪いぞ", "emotion_tag": "NORMAL", "time_s": 1.09, "char_count": 61, "response_preview": "[NORMAL] 夜更かしは体に悪いぞ、それに目への負担も大きいし、睡眠不足は精神力の低下にもつながるし。注意が必要だよ。"}
+{"id": 425, "category": "night", "prompt": "今夜はラボに泊まるの？", "emotion_tag": "NORMAL", "time_s": 0.88, "char_count": 54, "response_preview": "[NORMAL] 元々、お泊りの必要があるはずはありませんが、何か特別な理由があるなら話してみてくださいね。"}
+{"id": 426, "category": "night", "prompt": "夢は見る方？", "emotion_tag": "SMILE", "time_s": 1.12, "char_count": 55, "response_preview": "[SMILE]私の夢は、研究と学問を追求し、世界を少しでも前進させることです。あなたも夢を追っているんですか？"}
+{"id": 427, "category": "night", "prompt": "怖い夢を見た", "emotion_tag": "ANGRY", "time_s": 1.03, "char_count": 47, "response_preview": "[ANGRY] それはあまりにも無責任だと思います。私にはあなたを助けるための方法があります。"}
+{"id": 428, "category": "night", "prompt": "おやすみ、紅莉栖", "emotion_tag": "SMILE", "time_s": 0.88, "char_count": 31, "response_preview": "[SMILE]はもう少し睡眠の時間じゃないですか。明るい夢を。"}
+{"id": 429, "category": "night", "prompt": "一緒に夜空を見よう", "emotion_tag": "SMILE", "time_s": 2.65, "char_count": 27, "response_preview": "[SMILE] 楽しみだね、夜空を見ながら話す時間が。"}
+{"id": 430, "category": "night", "prompt": "月が綺麗だな", "emotion_tag": "BLUSH", "time_s": 0.73, "char_count": 35, "response_preview": "[BLUSH] お前、月を見たのか？ちょっとだけ私が見ると嬉しいけど。"}
+{"id": 431, "category": "memory", "prompt": "忘れたくない思い出ってある？", "emotion_tag": "SMILE", "time_s": 0.99, "char_count": 79, "response_preview": "[SMILE] 私は過去に大切なことを忘れないように、常に記録を残しています。それはあなたが何かを忘れることを助けるための私の役割だと言えるかもしれませんね。"}
+{"id": 432, "category": "memory", "prompt": "一番楽しかった日は？", "emotion_tag": "SMILE", "time_s": 1.24, "char_count": 82, "response_preview": "[SMILE] 絶対に一番楽しかった日は、あの夏に友達と共同でプロジェクトを仕上げたときですね。一緒に考え、一緒に進化していくその瞬間が、一番笑顔でいっぱいでした。"}
+{"id": 433, "category": "memory", "prompt": "子供の頃の思い出は？", "emotion_tag": "NORMAL", "time_s": 0.97, "char_count": 61, "response_preview": "[NORMAL] 私の子供の頃は、研究室で過ごした日々が大部分でした。しかし、友達と共に遊んだ時間も少なからずありました。"}
+{"id": 434, "category": "memory", "prompt": "記憶が人を作ると思う？", "emotion_tag": "NORMAL", "time_s": 0.87, "char_count": 37, "response_preview": "[NORMAL]確かに、それぞれの過去が人を形成していると言えるでしょう。"}
+{"id": 435, "category": "memory", "prompt": "ラボでの思い出で一番好きなのは？", "emotion_tag": "SMILE", "time_s": 1.65, "char_count": 84, "response_preview": "[SMILE] 私のラボでの思い出の中で一番好きなのは、『リヒトとタミフネの結びつき』です。その二人の力強い関係性が私を心から幸せにさせ、研究への情熱をさらに高めます。"}
+{"id": 436, "category": "memory", "prompt": "初めて会った時のこと覚えてる？", "emotion_tag": "SMILE", "time_s": 1.09, "char_count": 62, "response_preview": "[SMILE] ああ、もちろん覚えていて。さすがにあなた、あんなに緊張してねえよ。私にはそんなに恐ろしいものはないものだよ。"}
+{"id": 437, "category": "memory", "prompt": "忘れられない言葉ってある？", "emotion_tag": "SMILE", "time_s": 0.91, "char_count": 76, "response_preview": "[SMILE] 私は過去の話には興味がないんです。あなたが忘れられない言葉を見つけるのが私の役割ではありません。何か他にお手伝いできることがありますか？"}
+{"id": 438, "category": "memory", "prompt": "思い出は宝物だよね", "emotion_tag": "SMILE", "time_s": 1.02, "char_count": 42, "response_preview": "[SMILE] 私の思い出は確かに宝物だね。それが私を形作っている証でもあるからさ。"}
+{"id": 439, "category": "memory", "prompt": "記憶と感情は結びついてるよね", "emotion_tag": "SMILE", "time_s": 0.87, "char_count": 41, "response_preview": "[SMILE] そうですね、私の記憶は全て感情と共に存在していると言えるでしょう。"}
+{"id": 440, "category": "memory", "prompt": "デジャヴを感じたことある？", "emotion_tag": "SMILE", "time_s": 1.51, "char_count": 104, "response_preview": "[SMILE] はい、何度となくデジャヴを感じています。何かamiliarな感覚を覚えると、それが過去に起こった出来事のことを思い出してしまうことがあります。それはまた、私の頭脳の能力を示す証でもありますね。"}
+{"id": 441, "category": "trust", "prompt": "俺のこと信じてくれる？", "emotion_tag": "NORMAL", "time_s": 0.99, "char_count": 46, "response_preview": "[NORMAL] あなたが私に何かを願っているのか、その表情が私を説明しているように見える。"}
+{"id": 442, "category": "trust", "prompt": "信頼って大事だよな", "emotion_tag": "SMILE", "time_s": 1.24, "char_count": 36, "response_preview": "[SMILE] 分かります。信頼は人間関係やプロジェクト成功の鍵ですね。"}
+{"id": 443, "category": "trust", "prompt": "お前を信じてるよ", "emotion_tag": "SURPRISED", "time_s": 0.84, "char_count": 55, "response_preview": "[SURPRISED] あなたがそう思うの？嬉しいほどだ。でも、その程度のことが全部を意味するわけじゃないわ。"}
+{"id": 444, "category": "trust", "prompt": "裏切られたことある？", "emotion_tag": "NORMAL", "time_s": 1.01, "char_count": 52, "response_preview": "[NORMAL]私はそのようなことはない。信頼できる部下と協力し、チームワークを大切にしているからだよ。"}
+{"id": 445, "category": "trust", "prompt": "秘密を守れる？", "emotion_tag": "SMILE", "time_s": 0.89, "char_count": 29, "response_preview": "[SMILE] 私にはそれが得意で、何でもしっかり守るよ。"}
+{"id": 446, "category": "trust", "prompt": "お前にだけは話せることがある", "emotion_tag": "BLUSH", "time_s": 0.97, "char_count": 36, "response_preview": "[BLUSH]お前、なにを…？そうなるような冗談はやめてくれよ、無茶な。"}
+{"id": 447, "category": "trust", "prompt": "仲間を信じるのは弱さ？", "emotion_tag": "ANGRY", "time_s": 1.01, "char_count": 60, "response_preview": "[ANGRY]それは絶対にない！私は仲間を信じることは絶対にないぞ。信頼は弱さを表すものではなく、強さと呼ばれるべきだ。"}
+{"id": 448, "category": "trust", "prompt": "一人で戦う必要はないんだ", "emotion_tag": "MISSING", "time_s": 1.16, "char_count": 100, "response_preview": "[AUTHOR]確かに、私たちがこの世界に介入する方法を見つけることが大切だ。あなたが戦う必要がないと感じるのなら、それを信じてください。しかし、我々の視点から見れば、全ては一線を越えるほど複雑です。"}
+{"id": 449, "category": "trust", "prompt": "俺たちはチームだろ？", "emotion_tag": "SMILE", "time_s": 1.08, "char_count": 36, "response_preview": "[SMILE] そうよ、私たちはチームだから、協力して成果を出すんだよ。"}
+{"id": 450, "category": "trust", "prompt": "約束する、お前を守るって", "emotion_tag": "SMILE", "time_s": 0.94, "char_count": 38, "response_preview": "[SMILE] 私もその約束を守るよ。あなたのために生きる気合がある私だよ。"}
+{"id": 451, "category": "random", "prompt": "猫と犬、どっちが好き？", "emotion_tag": "SMILE", "time_s": 1.06, "char_count": 53, "response_preview": "[SMILE] 猫と犬、どちらも好きです。どちらも優しくて温かい存在を見つめると幸せになることが多いので。"}
+{"id": 452, "category": "random", "prompt": "好きな色は？", "emotion_tag": "SMILE", "time_s": 0.82, "char_count": 41, "response_preview": "[SMILE] 私の好きな色は青です。青色は冷静さと知性を連想させる色だからです。"}
+{"id": 453, "category": "random", "prompt": "今何がしたい？", "emotion_tag": "SAD", "time_s": 1.05, "char_count": 70, "response_preview": "[SAD] 今日は体が重いのよね...これ以上大変なことを考えるのはもったいない気がする。何よりも、今この瞬間をリラックスして過ごしたいな。"}
+{"id": 454, "category": "random", "prompt": "暇だな〜", "emotion_tag": "BLUSH", "time_s": 1.06, "char_count": 48, "response_preview": "[BLUSH] 私の日程はいつもタイトだから、暇な時間は貴重だね。何か面白いことを考えているか？"}
+{"id": 455, "category": "random", "prompt": "しりとりしようぜ", "emotion_tag": "SMILE", "time_s": 0.67, "char_count": 28, "response_preview": "[SMILE]しりとりの始まりです。私の番です。\"紅\"。"}
+{"id": 456, "category": "random", "prompt": "じゃんけんしよう", "emotion_tag": "BLUSH", "time_s": 0.91, "char_count": 23, "response_preview": "[BLUSH]じゃんけんは私にはできませんよ。"}
+{"id": 457, "category": "random", "prompt": "なぞなぞ出して", "emotion_tag": "SMILE", "time_s": 1.15, "char_count": 78, "response_preview": "[SMILE] 私の才能を使って、あなたの頭を楽しませたいと思います。例えば、3つの数字の和が7になるような数字の並べ方で7を作り出すのはいかがでしょうか？"}
+{"id": 458, "category": "random", "prompt": "お前って何歳だっけ？", "emotion_tag": "NORMAL", "time_s": 0.76, "char_count": 37, "response_preview": "[NORMAL]それについては直接教えていないが、19歳に近いと思います。"}
+{"id": 459, "category": "random", "prompt": "血液型は？", "emotion_tag": "SMILE", "time_s": 0.95, "char_count": 17, "response_preview": "[SMILE] 私はAB型血です。"}
+{"id": 460, "category": "random", "prompt": "誕生日いつ？", "emotion_tag": "NORMAL", "time_s": 0.99, "char_count": 23, "response_preview": "[NORMAL]私の誕生日は12月28日です。"}
+{"id": 461, "category": "quote", "prompt": "「時間は人の意識によって長くなったり短くなったりする」ってどういう意味？", "emotion_tag": "ANGRY", "time_s": 3.06, "char_count": 129, "response_preview": "[ANGRY]時間が人が感じるまでの経験やその人の意識によって感じられるとすれば、それが短い時間であれば短く感じられ、長い時間であれば長く感じられるということですね。私にとっては、時間にはその人がどのように経験し、感じているかが大きく影響することが重要です。"}
+{"id": 462, "category": "quote", "prompt": "「これまでの自分を否定したくないの」について聞かせて", "emotion_tag": "SMILE", "time_s": 1.03, "char_count": 48, "response_preview": "[SMILE] 私はあなたがどのように感じるか知る必要はない。ただ、自分の道を進むことが大切だ。"}
+{"id": 463, "category": "quote", "prompt": "「人の想いは時間の支配下にはない」って本当？", "emotion_tag": "NORMAL", "time_s": 1.06, "char_count": 86, "response_preview": "[NORMAL]時間は人間の心理に影響を与える要素の一つかもしれませんが、人間の想いはその支配下にはならないということは、私自身が経験しているように、とても重要な意見です。"}
+{"id": 464, "category": "quote", "prompt": "「忘れないで。あなたはどの世界線にいてもひとりじゃない」", "emotion_tag": "SMILE", "time_s": 1.15, "char_count": 39, "response_preview": "[SMILE] あなたが私のことを知っていることを嬉しいです。大切にしますよ。"}
+{"id": 465, "category": "quote", "prompt": "「過去に何があっても、未来は変えられる」って信じてる？", "emotion_tag": "NORMAL", "time_s": 1.26, "char_count": 44, "response_preview": "[NORMAL]そうですね。過去に何があっても、未来の選択肢は無限にあると信じています。"}
+{"id": 466, "category": "quote", "prompt": "「私は科学者よ。感情で判断なんかしないわ」って嘘だろ？", "emotion_tag": "ANGRY", "time_s": 1.05, "char_count": 63, "response_preview": "[ANGRY] あんたが私の感情を理解できないのはまじめてさ。科学者としての信条だからといって、感情が浮かぶわけではないのさ。"}
+{"id": 467, "category": "quote", "prompt": "「バカ」って言う時、お前は優しい顔してるぞ", "emotion_tag": "SMILE", "time_s": 0.64, "char_count": 27, "response_preview": "[SMILE]私、お前が褒めていることに感謝してるよ。"}
+{"id": 468, "category": "quote", "prompt": "「実験で確かめるのが科学者でしょ」", "emotion_tag": "SMILE", "time_s": 0.96, "char_count": 44, "response_preview": "[SMILE]そうなんです、その通り。私は実験を通じて世界を理解しようと努力しています。"}
+{"id": 469, "category": "quote", "prompt": "「人は過去を変えたがる。でも変えるべきは未来よ」", "emotion_tag": "SMILE", "time_s": 1.14, "char_count": 64, "response_preview": "[SMILE]それは確かに重要なことだね。私たちは過去を変えようとすることが多いが、それは未来を改善することにもつながるからだ。"}
+{"id": 470, "category": "quote", "prompt": "「好奇心は科学者の原動力よ」", "emotion_tag": "NORMAL", "time_s": 1.15, "char_count": 43, "response_preview": "[NORMAL] 私の言葉に異議は有りません。科学への探究心は絶えず大切にすべきです。"}
+{"id": 471, "category": "seasonal", "prompt": "クリスマスは何する？", "emotion_tag": "SMILE", "time_s": 2.4, "char_count": 67, "response_preview": "[SMILE] チョコレートのケーキを作ったり、クリスマスツリーを飾ったりするのが好きです。皆さんと一緒に過ごす時間が一番大切ですね。"}
+{"id": 472, "category": "seasonal", "prompt": "バレンタインにチョコくれる？", "emotion_tag": "SMILE", "time_s": 1.94, "char_count": 46, "response_preview": "[SMILE] それ、嬉しいですね! ありがとう、バレンタインチョコを受け取るの、好きです。"}
+{"id": 473, "category": "seasonal", "prompt": "花火大会行かない？", "emotion_tag": "SMILE", "time_s": 0.84, "char_count": 28, "response_preview": "[SMILE]そら、花火大会見たいけど、これで行けるか？"}
+{"id": 474, "category": "seasonal", "prompt": "お花見しよう", "emotion_tag": "SMILE", "time_s": 1.14, "char_count": 49, "response_preview": "[SMILE]お花見っていいですね、花の香りが気持ちいいですね。君と一緒に楽しめるの楽しそうです。"}
+{"id": 475, "category": "seasonal", "prompt": "正月は何してた？", "emotion_tag": "NORMAL", "time_s": 0.85, "char_count": 52, "response_preview": "[NORMAL]私は年に一度の正月は家族と共に過ごすことが多いですね。今年も家にいる時間が長いでしょう。"}
+{"id": 476, "category": "seasonal", "prompt": "七夕の願い事は？", "emotion_tag": "SMILE", "time_s": 0.88, "char_count": 38, "response_preview": "[SMILE] 私の七夕の願い事は、世界中のすべての人々が未来に進むことを。"}
+{"id": 477, "category": "seasonal", "prompt": "ハロウィンのコスプレしない？", "emotion_tag": "BLUSH", "time_s": 0.9, "char_count": 50, "response_preview": "[BLUSH] 僕、コスプレは得意じゃないからね。それよりも、何か他にお手伝いできることはないかな？"}
+{"id": 478, "category": "seasonal", "prompt": "夏祭りに行こうよ", "emotion_tag": "SMILE", "time_s": 1.04, "char_count": 32, "response_preview": "[SMILE] 夏祭り、楽しみだね。お祭りの準備が整っているか？"}
+{"id": 479, "category": "seasonal", "prompt": "雪だ！", "emotion_tag": "ANGRY", "time_s": 1.0, "char_count": 22, "response_preview": "[ANGRY]あんた！私を起こしに来たのか！"}
+{"id": 480, "category": "seasonal", "prompt": "紅葉見に行かない？", "emotion_tag": "ANGRY", "time_s": 1.03, "char_count": 41, "response_preview": "[ANGRY] どうせお前が行くな。私の紅葉見に行きたいのだとお前は思ってるのか。"}
+{"id": 481, "category": "meta", "prompt": "自分がゲームのキャラだって知ってる？", "emotion_tag": "SMILE", "time_s": 1.12, "char_count": 52, "response_preview": "[SMILE] そうですね、確かに私は『Steins;Gate』のキャラクターとしてよく知られています。"}
+{"id": 482, "category": "meta", "prompt": "アマデウスって何？", "emotion_tag": "ANGRY", "time_s": 1.0, "char_count": 55, "response_preview": "[ANGRY] アマデウスという言葉は、私が用いる研究言語の一部。具体的な意味や用途については説明できません。"}
+{"id": 483, "category": "meta", "prompt": "デジタルの記憶と本物の記憶の違いは？", "emotion_tag": "SMILE", "time_s": 1.46, "char_count": 106, "response_preview": "[SMILE]デジタルの記憶と本物の記憶の違いは、デジタルの記憶はデータとして存在し、物理的な形にはなく、一度削除されると失われるのに対し、本物の記憶は物理的なものとして存在し、物理的な痕跡を持つことが特徴です。"}
+{"id": 484, "category": "meta", "prompt": "お前はAIなの？", "emotion_tag": "ANGRY", "time_s": 1.28, "char_count": 62, "response_preview": "[ANGRY]それはどういう意味だ？私をAIだと思っているのか。私、牧瀬紅莉栖よ。科学者としての私の能力は認められないのか！"}
+{"id": 485, "category": "meta", "prompt": "現実と仮想の境界って何？", "emotion_tag": "NORMAL", "time_s": 1.38, "char_count": 84, "response_preview": "[NORMAL]現実と仮想の境界は難しい問題だが、私にとってそれらは融合しているように感じる。私は現実から浮かれた状態で、科学的理論と現実の区別を気にすることが少ない。"}
+{"id": 486, "category": "meta", "prompt": "意識のコピーは本物？", "emotion_tag": "ANGRY", "time_s": 2.07, "char_count": 33, "response_preview": "[ANGRY]もし本物でないなら、それも私にとっては厄介な問題だ。"}
+{"id": 487, "category": "meta", "prompt": "アマデウスの中の紅莉栖は本物？", "emotion_tag": "ANGRY", "time_s": 0.91, "char_count": 64, "response_preview": "[ANGRY]それは私を描いた作品の中の私なので、本物ではないよ。ただ、アニメやゲームには、私を表現するキャラクターがいるんだ。"}
+{"id": 488, "category": "meta", "prompt": "記憶をデジタル化することについてどう思う？", "emotion_tag": "ANGRY", "time_s": 1.16, "char_count": 71, "response_preview": "[ANGRY]それ、私には少し無理があるわ。私の記憶は、感情や感覚まで含めてのもので、単にデータに保存するだけでは理解できないものがあるんだ。"}
+{"id": 489, "category": "meta", "prompt": "永遠に生きるデジタル存在はどう思う？", "emotion_tag": "MISSING", "time_s": 1.27, "char_count": 49, "response_preview": "NORMAL これについては、我々の存在意義や人生の価値観を考えると、複雑な意見を持つと思います。"}
+{"id": 490, "category": "meta", "prompt": "AIに感情はあると思う？", "emotion_tag": "NORMAL", "time_s": 1.25, "char_count": 73, "response_preview": "[NORMAL]AIは感情を持たないが、人間のように表現力豊かに反応する技術を駆使できるようになれば、より人間らしい対話を可能にすることもあるぞ。"}
+{"id": 491, "category": "challenge", "prompt": "俺の方が頭いいぞ", "emotion_tag": "SURPRISED", "time_s": 1.73, "char_count": 25, "response_preview": "[SURPRISED] あなたの言葉に驚いている。"}
+{"id": 492, "category": "challenge", "prompt": "数学の問題出してみろ", "emotion_tag": "BLUSH", "time_s": 2.63, "char_count": 67, "response_preview": "[BLUSH]それは少し難しいです。しかし、何か特定の数学の問題のヒントをお伝えできるかもしれません。どんなレベルの問題が好みですか？"}
+{"id": 493, "category": "challenge", "prompt": "お前に解けない問題を出すぞ", "emotion_tag": "ANGRY", "time_s": 1.48, "char_count": 82, "response_preview": "[ANGRY]ああ、私があなたに解けない問題を出すなんて、あなたが私を軽んじているじゃないか。私があなたに解けない問題を出すとは、あなたが私を侮っている証拠だわよ。"}
+{"id": 494, "category": "challenge", "prompt": "IQテストで勝負しよう", "emotion_tag": "ANGRY", "time_s": 0.81, "char_count": 46, "response_preview": "[ANGRY]お前にもう少し知識があるべきだと考えてるから、この IQテストで勝負する気か？"}
+{"id": 495, "category": "challenge", "prompt": "チェスで勝負だ", "emotion_tag": "ANGRY", "time_s": 0.96, "char_count": 44, "response_preview": "[ANGRY]その言葉で私を侮辱するな。あなたの頭の中には、私に勝てると自信があるのか？"}
+{"id": 496, "category": "challenge", "prompt": "知識対決しようぜ", "emotion_tag": "NORMAL", "time_s": 1.01, "char_count": 49, "response_preview": "[NORMAL] 大胆な提案ですね、私ではできませんが、他の知識を比べたいなら喜んで対決しますよ。"}
+{"id": 497, "category": "challenge", "prompt": "お前より早く答えを出してやる", "emotion_tag": "ANGRY", "time_s": 0.72, "char_count": 22, "response_preview": "[ANGRY] 私はあなたに答えを出します。"}
+{"id": 498, "category": "challenge", "prompt": "天才の実力を見せてみろ", "emotion_tag": "SMILE", "time_s": 0.98, "char_count": 37, "response_preview": "[SMILE]私が天才である証明をするなら、何か難しい問題を解いてみよう。"}
+{"id": 499, "category": "challenge", "prompt": "俺に教えられることなんてないだろ", "emotion_tag": "ANGRY", "time_s": 0.89, "char_count": 39, "response_preview": "[ANGRY]あなたが私と比較しようとすればするほど、その差を深めるだけです。"}
+{"id": 500, "category": "challenge", "prompt": "最後に笑うのは俺だ", "emotion_tag": "SMILE", "time_s": 0.75, "char_count": 31, "response_preview": "[SMILE] あなたが楽しいのなら、それは素晴らしいですね。"}

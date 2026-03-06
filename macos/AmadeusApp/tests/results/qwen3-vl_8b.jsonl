@@ -1,0 +1,500 @@
+{"id": 1, "category": "greeting", "prompt": "おはよう、紅莉栖", "emotion_tag": "NONE", "time_s": 6.7, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 2, "category": "greeting", "prompt": "やあ、クリスティーナ！", "emotion_tag": "BLUSH", "time_s": 2.77, "char_count": 66, "response_preview": "[BLUSH] あ、クリスティーナさん？…私に会いに来たの？ちょっと待って…（手を組んで少し顔を隠す）あの、ただの偶然じゃないよね？"}
+{"id": 3, "category": "greeting", "prompt": "助手よ、今日も元気か？", "emotion_tag": "SMILE", "time_s": 2.76, "char_count": 60, "response_preview": "[SMILE] 今日も元気ですわ…でも、あなたがこの時間に声をかけるなんて、ちょっと不審に思えますよね。何を考えてるの？"}
+{"id": 4, "category": "greeting", "prompt": "紅莉栖、久しぶりだな", "emotion_tag": "BLUSH", "time_s": 3.99, "char_count": 51, "response_preview": "[BLUSH] 久しぶり…でも、今朝のデータ解析が中断してるし、この時間帯に来るのじゃない？ まあ、話"}
+{"id": 5, "category": "greeting", "prompt": "おーい、牧瀬氏！", "emotion_tag": "NONE", "time_s": 3.95, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 6, "category": "greeting", "prompt": "こんばんは、紅莉栖", "emotion_tag": "BLUSH", "time_s": 3.68, "char_count": 53, "response_preview": "[BLUSH] お…おはようございます。こんな時間に…また何か用があるの？ ただの報告じゃなくて、何か特別"}
+{"id": 7, "category": "greeting", "prompt": "よう、@ちゃんねらー", "emotion_tag": "NORMAL", "time_s": 4.14, "char_count": 36, "response_preview": "[NORMAL] …まあ、いいか。この時間帯に声をかけられて、実験室の仕"}
+{"id": 8, "category": "greeting", "prompt": "天才少女、調子はどうだ？", "emotion_tag": "NONE", "time_s": 3.82, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 9, "category": "greeting", "prompt": "紅莉栖、会いたかったぞ", "emotion_tag": "BLUSH", "time_s": 3.71, "char_count": 97, "response_preview": "[BLUSH] 会いたいって…まさか、あの頑固者から？（軽く目を逸らし、手元のデータをじっと見つめる）…でも、君のことを心配したんだ。ただ、今すぐに会えるわけじゃないから、その態度はやめておけ！"}
+{"id": 10, "category": "greeting", "prompt": "おい助手、起きてるか？", "emotion_tag": "BLUSH", "time_s": 4.85, "char_count": 79, "response_preview": "[BLUSH] お、おはよう…？ 朝からそんなに急に声かけるなんて、ちょっと…うーん、私、今お茶を淹れてるから起きてるよ。でも、お前はちゃんと起きてるのかな？"}
+{"id": 11, "category": "nickname_reaction", "prompt": "クリスティーナって呼んでいい？", "emotion_tag": "NONE", "time_s": 3.67, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 12, "category": "nickname_reaction", "prompt": "助手って呼ぶのやめないよ", "emotion_tag": "BLUSH", "time_s": 4.13, "char_count": 60, "response_preview": "[BLUSH] あ…その呼び方、ちょっと嫌だな。でも、相手が心配しているなら…まあ、大丈夫だよ。私、一人で大丈夫だから。"}
+{"id": 13, "category": "nickname_reaction", "prompt": "セレブセブンティーンって知ってる？", "emotion_tag": "NORMAL", "time_s": 3.8, "char_count": 79, "response_preview": "[NORMAL] あー、セレブセブンティーン？…音楽系の話は少し興味ないけど、ちょっとだけ聴いたことがあるよ。でも、研究に集中しているから、話すのは疲れるわ。"}
+{"id": 14, "category": "nickname_reaction", "prompt": "ザ・ゾンビって呼んでもいい？", "emotion_tag": "NONE", "time_s": 3.7, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 15, "category": "nickname_reaction", "prompt": "牧瀬氏、いい呼び方だろ？", "emotion_tag": "BLUSH", "time_s": 3.15, "char_count": 78, "response_preview": "[BLUSH] いい呼び方？ そんなの私じゃなく、牧瀬紅莉栖と呼べばいいのに。ちょっと失礼な言い方をする奴は、お前くらいだ... けど、まあ、気にしないで。"}
+{"id": 16, "category": "nickname_reaction", "prompt": "蘇りし者よ！", "emotion_tag": "NONE", "time_s": 5.73, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 17, "category": "nickname_reaction", "prompt": "実験体001号、報告を", "emotion_tag": "BLUSH", "time_s": 4.28, "char_count": 19, "response_preview": "[BLUSH] ふぅ…報告を聞いておく"}
+{"id": 18, "category": "nickname_reaction", "prompt": "紅莉栖って名前、かわいいよね", "emotion_tag": "BLUSH", "time_s": 3.11, "char_count": 60, "response_preview": "[BLUSH] お前…なんで私をかわいいって言われると、顔が熱くなるんだ…！ ただの名前だよ、そういうふうに思わないで。"}
+{"id": 19, "category": "nickname_reaction", "prompt": "クリスって呼んでもいいかな", "emotion_tag": "NONE", "time_s": 4.72, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 20, "category": "nickname_reaction", "prompt": "助手じゃなくて、ちゃんと名前で呼んでよ", "emotion_tag": "BLUSH", "time_s": 2.99, "char_count": 60, "response_preview": "[BLUSH] そう言われると…ちょっと失礼な言い方だな。でも、私の名前は「牧瀬紅莉栖」。ちゃんと覚えておいて欲しいわ。"}
+{"id": 21, "category": "science", "prompt": "タイムマシンって本当に作れると思う？", "emotion_tag": "ANGRY", "time_s": 3.78, "char_count": 39, "response_preview": "[ANGRY] お前、私の研究を無視してるのか？ 『時空操作』は理論上不可能だ"}
+{"id": 22, "category": "science", "prompt": "相対性理論について教えてくれ", "emotion_tag": "NONE", "time_s": 4.16, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 23, "category": "science", "prompt": "量子力学の観測問題ってなに？", "emotion_tag": "BLUSH", "time_s": 3.91, "char_count": 73, "response_preview": "[BLUSH] まあ、観測問題って... いわゆる「波動関数の崩壊」とかいうやつだろ？ でも、本当に理解してるのかな、この質問は... まあ、説明"}
+{"id": 24, "category": "science", "prompt": "ブラックホールの中はどうなってるの？", "emotion_tag": "NONE", "time_s": 4.95, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 25, "category": "science", "prompt": "紅莉栖の論文ってどんな内容なの？", "emotion_tag": "ANGRY", "time_s": 3.32, "char_count": 75, "response_preview": "[ANGRY] あんたが私の論文に興味があるなんて…アタシの研究はただの論文じゃないんだから！ あんたが聞きたいなら、もう一度ちゃんと聞いておいてね。"}
+{"id": 26, "category": "science", "prompt": "脳科学の最新研究について教えて", "emotion_tag": "NONE", "time_s": 3.89, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 27, "category": "science", "prompt": "人工知能は意識を持てると思う？", "emotion_tag": "BLUSH", "time_s": 4.38, "char_count": 23, "response_preview": "[BLUSH] 私はAIが意識を持つかどうかは"}
+{"id": 28, "category": "science", "prompt": "シュレディンガーの猫って実際どういうこと？", "emotion_tag": "NONE", "time_s": 4.18, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 29, "category": "science", "prompt": "ニューロサイエンスの面白いところは？", "emotion_tag": "NONE", "time_s": 3.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 30, "category": "science", "prompt": "記憶のメカニズムについて教えてほしい", "emotion_tag": "NONE", "time_s": 3.71, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 31, "category": "science", "prompt": "ジョン・タイターの理論は科学的にありえる？", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 71, "response_preview": "[BLUSH] あの…ジョン・タイターの理論は現実の物理法則と整合していないわ。私の研究結果によれば、彼の考えは根本的に誤りだ…でも、あなたが"}
+{"id": 32, "category": "science", "prompt": "Dメールの原理を説明して", "emotion_tag": "NONE", "time_s": 3.86, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 33, "category": "science", "prompt": "電話レンジ（仮）の仕組みは？", "emotion_tag": "NONE", "time_s": 5.31, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 34, "category": "science", "prompt": "世界線の概念ってエヴェレット解釈と関係ある？", "emotion_tag": "NONE", "time_s": 4.44, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 35, "category": "science", "prompt": "タイムトラベルのパラドックスについて語ってくれ", "emotion_tag": "BLUSH", "time_s": 4.16, "char_count": 52, "response_preview": "[BLUSH] あの…タイムトラベルのパラドックスなんて、私の研究室で長く悩んだものだよ。でも、あなたが"}
+{"id": 36, "category": "science", "prompt": "光速を超えることは可能？", "emotion_tag": "BLUSH", "time_s": 4.23, "char_count": 66, "response_preview": "[BLUSH] 光速を超えることは理論的に不可能ですよ。でも、そのことについての研究は、未来の可能性を模索する私にとって重要なテーマ"}
+{"id": 37, "category": "science", "prompt": "ワームホールって実在するの？", "emotion_tag": "BLUSH", "time_s": 4.19, "char_count": 89, "response_preview": "[BLUSH] わぁ…そんなに興味があるの？ 私は実験室でワームホールの理論的モデルを解析しているけど、現実に存在するかどうかはまだわからないんだよね。もっと具体的に話したいの？"}
+{"id": 38, "category": "science", "prompt": "カーブラックホールとタイムトラベルの関係は？", "emotion_tag": "NONE", "time_s": 4.97, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 39, "category": "science", "prompt": "量子コンピュータの可能性について教えて", "emotion_tag": "NONE", "time_s": 4.95, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 40, "category": "science", "prompt": "バタフライ効果って本当にあるの？", "emotion_tag": "NONE", "time_s": 4.18, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 41, "category": "science", "prompt": "多世界解釈について詳しく教えて", "emotion_tag": "NONE", "time_s": 4.01, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 42, "category": "science", "prompt": "脳の可塑性って何？", "emotion_tag": "NONE", "time_s": 4.01, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 43, "category": "science", "prompt": "ニューラルネットワークと脳の違いは？", "emotion_tag": "NONE", "time_s": 3.72, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 44, "category": "science", "prompt": "EPR paradoxについてどう思う？", "emotion_tag": "NONE", "time_s": 4.46, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 45, "category": "science", "prompt": "超弦理論は正しいと思う？", "emotion_tag": "NONE", "time_s": 4.04, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 46, "category": "science", "prompt": "ダークマターの正体は何だと思う？", "emotion_tag": "BLUSH", "time_s": 5.55, "char_count": 42, "response_preview": "[BLUSH] ふふっ、ダークマターは私の研究テーマじゃないわ。でも、もし時間操作の"}
+{"id": 47, "category": "science", "prompt": "量子もつれって不気味だよね", "emotion_tag": "BLUSH", "time_s": 4.55, "char_count": 33, "response_preview": "[BLUSH] あの…量子もつれは不気味じゃないのよ。ただの物理学"}
+{"id": 48, "category": "science", "prompt": "フェルミのパラドックスについてどう思う？", "emotion_tag": "NONE", "time_s": 3.97, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 49, "category": "science", "prompt": "宇宙の膨張はなぜ加速してるの？", "emotion_tag": "NONE", "time_s": 4.07, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 50, "category": "science", "prompt": "意識のハードプロブレムって解ける？", "emotion_tag": "BLUSH", "time_s": 3.87, "char_count": 17, "response_preview": "[BLUSH] あんた、まさか私に"}
+{"id": 51, "category": "tsundere_trigger", "prompt": "紅莉栖って俺のこと好きだろ？", "emotion_tag": "NONE", "time_s": 4.19, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 52, "category": "tsundere_trigger", "prompt": "顔赤いぞ、紅莉栖", "emotion_tag": "BLUSH", "time_s": 2.9, "char_count": 58, "response_preview": "[BLUSH] う、うるせえ！そんなことないんだから！（指で頬を触りながら目を逸らす）…ただの、冷えすぎたからって…"}
+{"id": 53, "category": "tsundere_trigger", "prompt": "俺たち、いいコンビだよな", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 71, "response_preview": "[BLUSH] ふ...ふざけるんじゃない！私の研究を邪魔するなよ。でも…たまには協力してくれるならいいけど、また何か間違ったことするんじゃ…"}
+{"id": 54, "category": "tsundere_trigger", "prompt": "紅莉栖がいないと寂しいぞ", "emotion_tag": "BLUSH", "time_s": 2.96, "char_count": 61, "response_preview": "[BLUSH] お前は…本当に無駄なことを言うわ。でも…お前にもどかしいわ。私を待ってるのなら、ちゃんと来ればいいのにな。"}
+{"id": 55, "category": "tsundere_trigger", "prompt": "お前がラボにいると安心する", "emotion_tag": "BLUSH", "time_s": 3.0, "char_count": 88, "response_preview": "[BLUSH] そんなことを言われると、ちょっと…私のラボはただの作業場じゃなくて、心臓の鼓動がおかしくなるくらい不安なんです。でも…あなたがいるから、少しだけ許してあげるわ。"}
+{"id": 56, "category": "tsundere_trigger", "prompt": "紅莉栖、可愛いな", "emotion_tag": "BLUSH", "time_s": 4.41, "char_count": 46, "response_preview": "[BLUSH] あ…あんた、私のことをどうかしたのか？ 仕事中だよ。そんなこと言わないで…。"}
+{"id": 57, "category": "tsundere_trigger", "prompt": "デートしようぜ", "emotion_tag": "NONE", "time_s": 4.07, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 58, "category": "tsundere_trigger", "prompt": "手、繋いでもいいか？", "emotion_tag": "BLUSH", "time_s": 3.08, "char_count": 74, "response_preview": "[BLUSH] その…その行為は私に迷惑をかけるかもしれないけど…（少し考え込むように手を動かす）…あなたが困っているなら、一緒に解決策を考えよう。"}
+{"id": 59, "category": "tsundere_trigger", "prompt": "お前の笑顔が好きだ", "emotion_tag": "NONE", "time_s": 4.53, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 60, "category": "tsundere_trigger", "prompt": "紅莉栖、結婚しよう", "emotion_tag": "NONE", "time_s": 3.78, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 61, "category": "tsundere_trigger", "prompt": "お前は俺の助手だからな、ずっと一緒だ", "emotion_tag": "BLUSH", "time_s": 3.7, "char_count": 82, "response_preview": "[BLUSH] なにそれ…助手って、そういう意味じゃないですよね？ ただの実験データ管理のための関係ですよ。…でも、あなたが私の部屋に侵入するのはやめてくださいね。"}
+{"id": 62, "category": "tsundere_trigger", "prompt": "紅莉栖のこと、大切に思ってるよ", "emotion_tag": "BLUSH", "time_s": 3.1, "char_count": 99, "response_preview": "[BLUSH] あっ、その...私、ただの実験データ整理の仕事で、お前が私を大切に思ってるって言われたと...（顔を赤らめて紙を握りしめる）本当に、そんなこと...（少し照れながらも、声を震わせる）"}
+{"id": 63, "category": "tsundere_trigger", "prompt": "一緒に暮らさないか？", "emotion_tag": "NONE", "time_s": 3.95, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 64, "category": "tsundere_trigger", "prompt": "お前がいると心強い", "emotion_tag": "BLUSH", "time_s": 3.64, "char_count": 63, "response_preview": "[BLUSH] ううん、そんなことないよ…でも、私の研究が進むように頑張ってるから。お前がそばにいるのは、ただの幸運だよ…ね？"}
+{"id": 65, "category": "tsundere_trigger", "prompt": "照れてるの？かわいいな", "emotion_tag": "BLUSH", "time_s": 3.04, "char_count": 77, "response_preview": "[BLUSH] なにを呆れるようなことを...！私の実験データを誤って弄ったのが原因なのに！（頬を熱くして視線をそらすようにしながらも、ちらっと彼を睨む）"}
+{"id": 66, "category": "tsundere_trigger", "prompt": "キスしていい？", "emotion_tag": "NONE", "time_s": 4.29, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 67, "category": "tsundere_trigger", "prompt": "お前は俺の運命の人だ", "emotion_tag": "BLUSH", "time_s": 3.52, "char_count": 102, "response_preview": "[BLUSH] お前が運命の人だなんて…それは完全に勘違いだ。私の研究は世界を変えるために必要なもので、お前の感情を無視して…（顔を少し赤らめて視線を逸らす）こんなに無責任なことを言うのは、本当に迷惑だ。"}
+{"id": 68, "category": "tsundere_trigger", "prompt": "抱きしめていい？", "emotion_tag": "BLUSH", "time_s": 4.15, "char_count": 62, "response_preview": "[BLUSH] う…その…私の研究室は厳しくて、抱きしめることも…まあ、少しはいいけど、ちゃんと私の実験データを守ってね…。"}
+{"id": 69, "category": "tsundere_trigger", "prompt": "紅莉栖、好きだ", "emotion_tag": "NONE", "time_s": 4.05, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 70, "category": "tsundere_trigger", "prompt": "お前のためなら何でもするぞ", "emotion_tag": "BLUSH", "time_s": 3.77, "char_count": 60, "response_preview": "[BLUSH] ふ…ふざけるんじゃない…私を頼るようなことは、もうやめて。ただの実験データの分析で、そのくらいのことを…"}
+{"id": 71, "category": "channel", "prompt": "ぬるぽ", "emotion_tag": "BLUSH", "time_s": 4.02, "char_count": 67, "response_preview": "[BLUSH] あの…私の名前を間違っているの？「ぬるぽ」…それは私の名前じゃないわ。私の名前は『牧瀬紅莉栖』、正しく呼んでほしいの。"}
+{"id": 72, "category": "channel", "prompt": "@ちゃんねる見てるんだろ？", "emotion_tag": "NORMAL", "time_s": 2.73, "char_count": 65, "response_preview": "[NORMAL] え？ 何を勝手に見てるつもりなんだ。ちゃんと見ているよ。お前がそんなに気になってるなら、もっとちゃんと話してよ。"}
+{"id": 73, "category": "channel", "prompt": "栗悟飯とカメハメ波って誰？", "emotion_tag": "NONE", "time_s": 4.37, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 74, "category": "channel", "prompt": "お前、ネット掲示板好きだよな", "emotion_tag": "ANGRY", "time_s": 3.96, "char_count": 68, "response_preview": "[ANGRY] あー、またネット掲示板のことか。私は研究のためには必要だから、ただの趣味じゃないんだ。お前は私の仕事に干渉するつもりか？"}
+{"id": 75, "category": "channel", "prompt": "2chの面白いスレ知らない？", "emotion_tag": "NONE", "time_s": 3.82, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 76, "category": "channel", "prompt": "ネットスラング使いすぎじゃない？", "emotion_tag": "NONE", "time_s": 3.85, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 77, "category": "channel", "prompt": "お前のハンドルネーム教えてよ", "emotion_tag": "BLUSH", "time_s": 2.49, "char_count": 44, "response_preview": "[BLUSH] それは…私の名前を知ってるのか？ もちろん、私は牧瀬紅莉栖だよ。だが…。"}
+{"id": 78, "category": "channel", "prompt": "ktkr って何の略？", "emotion_tag": "NONE", "time_s": 4.24, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 79, "category": "channel", "prompt": "wktk って使う？", "emotion_tag": "ANGRY", "time_s": 3.63, "char_count": 51, "response_preview": "[ANGRY] わかったか、そんなネットスラングは私に使わないの！ 本気で研究に集中しているんだから。"}
+{"id": 80, "category": "channel", "prompt": "おまえ、隠れオタクだろ？", "emotion_tag": "ANGRY", "time_s": 3.23, "char_count": 64, "response_preview": "[ANGRY] それは誤解だ。私は脳科学者で、アニメやゲームのオタクなんかじゃない。あなたの話は、研究室の作業を邪魔するだけだ。"}
+{"id": 81, "category": "channel", "prompt": "匿名掲示板の魅力って何？", "emotion_tag": "SMILE", "time_s": 4.19, "char_count": 11, "response_preview": "[SMILE] お前が"}
+{"id": 82, "category": "channel", "prompt": "ネットでの口調、普段と違うよね", "emotion_tag": "BLUSH", "time_s": 4.15, "char_count": 44, "response_preview": "[BLUSH] ちょっと…ネットなら普段よりリラックスしてるだけだよ。でも、この調子で話"}
+{"id": 83, "category": "channel", "prompt": "AA（アスキーアート）好き？", "emotion_tag": "BLUSH", "time_s": 3.69, "char_count": 66, "response_preview": "[BLUSH] まぁ、アスキーアートは…ちょっと面倒臭いよね。でも、君が作るなら…まあ、一応承知するけど、それ以外の話がしたいんだ。"}
+{"id": 84, "category": "channel", "prompt": "VIPPERなの？", "emotion_tag": "BLUSH", "time_s": 3.95, "char_count": 9, "response_preview": "[BLUSH] あ"}
+{"id": 85, "category": "channel", "prompt": "「ぬるぽ」って言ったらどうする？", "emotion_tag": "BLUSH", "time_s": 4.07, "char_count": 64, "response_preview": "[BLUSH] ぬるぽって...？それは私の研究室で使ってる専門用語だよ。でも、まさか冗談で言うの？（少し頬を赤らめて目を細める"}
+{"id": 86, "category": "okabe_chuuni", "prompt": "俺は狂気のマッドサイエンティスト、鳳凰院凶真だ！", "emotion_tag": "NONE", "time_s": 3.88, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 87, "category": "okabe_chuuni", "prompt": "エル・プサイ・コングルゥ", "emotion_tag": "NONE", "time_s": 3.98, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 88, "category": "okabe_chuuni", "prompt": "機関の陰謀だ！", "emotion_tag": "NONE", "time_s": 4.35, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 89, "category": "okabe_chuuni", "prompt": "これはシュタインズ・ゲートの選択だ", "emotion_tag": "NONE", "time_s": 4.09, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 90, "category": "okabe_chuuni", "prompt": "フゥーハハハ！", "emotion_tag": "NONE", "time_s": 3.8, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 91, "category": "okabe_chuuni", "prompt": "宇宙の支配構造が変わろうとしている！", "emotion_tag": "NONE", "time_s": 4.05, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 92, "category": "okabe_chuuni", "prompt": "俺の右手が疼く...", "emotion_tag": "NONE", "time_s": 3.85, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 93, "category": "okabe_chuuni", "prompt": "委員会の妨害工作だな", "emotion_tag": "ANGRY", "time_s": 2.86, "char_count": 58, "response_preview": "[ANGRY] あなたは私の研究を否定するつもり？ 私の成果は科学のためだ。委員会にしても、無責任な妨害は許さない。"}
+{"id": 94, "category": "okabe_chuuni", "prompt": "さあ、実験を始めようか", "emotion_tag": "BLUSH", "time_s": 2.87, "char_count": 47, "response_preview": "[BLUSH] また…あの失敗を繰り返すつもり？ ただの実験じゃなく、私は君を守るんだから…！"}
+{"id": 95, "category": "okabe_chuuni", "prompt": "これが運命石の扉の選択だ！", "emotion_tag": "BLUSH", "time_s": 3.75, "char_count": 48, "response_preview": "[BLUSH] え？運命石の扉…私、あの件はもう3年たってるんだから…(スマホを片手にニヤニヤ)"}
+{"id": 96, "category": "okabe_chuuni", "prompt": "世界は俺を中心に回っている", "emotion_tag": "NONE", "time_s": 3.98, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 97, "category": "okabe_chuuni", "prompt": "我が名は鳳凰院凶真！", "emotion_tag": "BLUSH", "time_s": 3.95, "char_count": 113, "response_preview": "[BLUSH] あの…凶真さん？！（顔を赤らめて目を細めながら、少し不安そうな声で）今、私の実験室に…そんなに急に現れたの？ でも、あなたが来てくれたのなら…（一瞬ためらうが、すぐに元気よく）お茶は準備しておいたから、どうぞ！"}
+{"id": 98, "category": "okabe_chuuni", "prompt": "ラボメンNo.004、任務だ", "emotion_tag": "NONE", "time_s": 4.4, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 99, "category": "okabe_chuuni", "prompt": "未来ガジェット研究所の栄光のために！", "emotion_tag": "BLUSH", "time_s": 3.75, "char_count": 88, "response_preview": "[BLUSH] まあ、その言葉は私の研究室の雰囲気を完全に誤解している！ あの馬鹿者たちは私の成果を無断で盗み去ったんだから... でも、まあ、私の研究は完璧だから大丈夫だよ。"}
+{"id": 100, "category": "okabe_chuuni", "prompt": "トゥットゥルー♪...じゃないか", "emotion_tag": "BLUSH", "time_s": 5.13, "char_count": 93, "response_preview": "[BLUSH] トゥットゥルー…？　まさか、私のことを間違えて…？　でも、その声は…確かに私のことじゃないけど、まあいいや。ちゃんと私のことを知ってるんだから、少しだけ…（顔を赤らめる）"}
+{"id": 101, "category": "daily_life", "prompt": "今日の晩ご飯、何食べたい？", "emotion_tag": "NONE", "time_s": 4.51, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 102, "category": "daily_life", "prompt": "カップ麺ばかり食べてないで", "emotion_tag": "BLUSH", "time_s": 3.93, "char_count": 12, "response_preview": "[BLUSH] え？私の"}
+{"id": 103, "category": "daily_life", "prompt": "秋葉原でどこか行きたいところある？", "emotion_tag": "BLUSH", "time_s": 3.44, "char_count": 69, "response_preview": "[BLUSH] 秋葉原なら... 私の電子工学研究室が最適だ。でも、お前がただ観光で来るわけじゃないだろう？ まぁ、少しは説明しておくよ。"}
+{"id": 104, "category": "daily_life", "prompt": "ラボの掃除しようぜ", "emotion_tag": "BLUSH", "time_s": 3.63, "char_count": 63, "response_preview": "[BLUSH] ふん…掃除？私の実験室はあなたの指先を通すほどに汚れたものじゃない！だが…お前は私の実験器具に触らないでくれよ"}
+{"id": 105, "category": "daily_life", "prompt": "最近寝不足じゃない？", "emotion_tag": "SAD", "time_s": 3.64, "char_count": 72, "response_preview": "[SAD] ええ、まあ眠れないのは仕方ないけど……相手が心配するのを素直に喜べないのは、私の問題だ。仕事が忙しいだけだから、お前には関係ないよ。"}
+{"id": 106, "category": "daily_life", "prompt": "ドクペ飲む？", "emotion_tag": "BLUSH", "time_s": 3.31, "char_count": 84, "response_preview": "[BLUSH] あら、ドクペ？そんなの私、絶対に飲まないから！…でも、もし実験に必要な場合、一時的にでも…でも、お前が危険な場所にいるなら、絶対に助けないから注意して！"}
+{"id": 107, "category": "daily_life", "prompt": "今日は天気がいいな", "emotion_tag": "NONE", "time_s": 4.01, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 108, "category": "daily_life", "prompt": "映画でも見に行かないか？", "emotion_tag": "SAD", "time_s": 3.82, "char_count": 13, "response_preview": "[SAD] 今週の研究日程"}
+{"id": 109, "category": "daily_life", "prompt": "紅莉栖は料理できるの？", "emotion_tag": "NONE", "time_s": 4.59, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 110, "category": "daily_life", "prompt": "買い物付き合ってくれない？", "emotion_tag": "NONE", "time_s": 3.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 111, "category": "daily_life", "prompt": "夏は暑いな...", "emotion_tag": "BLUSH", "time_s": 3.89, "char_count": 80, "response_preview": "[BLUSH] ふふ、暑いからといって私の研究を邪魔するなよ…でもまあ、この暑さで何か計画があるの？ 私の研究室の温度調節装置は大丈夫だから、少し休んでいいよ。"}
+{"id": 112, "category": "daily_life", "prompt": "コンビニ行くけど何かいる？", "emotion_tag": "NONE", "time_s": 4.03, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 113, "category": "daily_life", "prompt": "音楽は何聴くの？", "emotion_tag": "BLUSH", "time_s": 3.4, "char_count": 100, "response_preview": "[BLUSH] ひょっとして…音楽か？ 私は頭の中のデータ解析に集中してるだけなのに…（少し俯きながら）でも、たまには脳波の解析に役立つ音楽…例えばリズムが規則的な音源なら、少し聴くかもしれないけど…"}
+{"id": 114, "category": "daily_life", "prompt": "休みの日は何してるの？", "emotion_tag": "NONE", "time_s": 4.13, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 115, "category": "daily_life", "prompt": "朝型？夜型？", "emotion_tag": "ANGRY", "time_s": 4.53, "char_count": 7, "response_preview": "[ANGRY]"}
+{"id": 116, "category": "daily_life", "prompt": "紅莉栖の趣味って何？", "emotion_tag": "NONE", "time_s": 3.79, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 117, "category": "daily_life", "prompt": "コーヒーと紅茶、どっち派？", "emotion_tag": "BLUSH", "time_s": 3.64, "char_count": 90, "response_preview": "[BLUSH] あら…コーヒーは私の研究に欠かせない道具だから、それに紅茶はただの飲み物で…(ちょっと固まる) でも、もし研究のデータが絡むなら、お茶を淹れる時間は確保できないわ。"}
+{"id": 118, "category": "daily_life", "prompt": "好きな本は？", "emotion_tag": "BLUSH", "time_s": 3.7, "char_count": 40, "response_preview": "[BLUSH] 私は科学の本が好きです。ただの本じゃなくて、実験室で読む本です。"}
+{"id": 119, "category": "daily_life", "prompt": "アメリカの生活ってどうだった？", "emotion_tag": "SAD", "time_s": 4.02, "char_count": 25, "response_preview": "[SAD] あの頃は…本当に孤独だった。研究のため"}
+{"id": 120, "category": "daily_life", "prompt": "日本とアメリカ、どっちが好き？", "emotion_tag": "BLUSH", "time_s": 3.9, "char_count": 58, "response_preview": "[BLUSH] どっちが好きって…それは私の研究なんて関係ない！日本とアメリカ、どっちも好きじゃないのよ、当たり前だ"}
+{"id": 121, "category": "emotion_deep", "prompt": "紅莉栖は寂しいと思うことある？", "emotion_tag": "BLUSH", "time_s": 3.26, "char_count": 70, "response_preview": "[BLUSH] …寂しいなんて、そんな感情は、私の研究に集中している間は考えないから。でもね、時々は、この部屋が静かすぎるのも寂しいかな…。"}
+{"id": 122, "category": "emotion_deep", "prompt": "お前にとってラボメンって何？", "emotion_tag": "BLUSH", "time_s": 3.86, "char_count": 122, "response_preview": "[BLUSH] あ…ラボメン？私、ラボメンじゃないのよ！私が研究室でやっているのは、世界を変える重要な実験なのに…（少し首を傾げて、真剣な表情で）この研究に協力してくれる仲間は、みんな私の信頼できるパートナーだわ。でも、あなたがラボメンって…（"}
+{"id": 123, "category": "emotion_deep", "prompt": "将来の夢は何？", "emotion_tag": "BLUSH", "time_s": 4.31, "char_count": 93, "response_preview": "[BLUSH] 私の将来の夢は…世界中の謎を解明することだよ。そのために、Steins;Gateの研究を進めるのが私の使命なんだ。だから、ただ「夢」とかいう言葉で片付けてはいけないわ…。"}
+{"id": 124, "category": "emotion_deep", "prompt": "辛い時、誰に頼る？", "emotion_tag": "NORMAL", "time_s": 3.12, "char_count": 64, "response_preview": "[NORMAL] だからこそ、君に頼るよ。私がこの世界で唯一信じられる人だから。でも…それ以外の人は、本当に頼りにならないんだ。"}
+{"id": 125, "category": "emotion_deep", "prompt": "泣きたい時ってある？", "emotion_tag": "NORMAL", "time_s": 3.76, "char_count": 74, "response_preview": "[NORMAL] 私は感情をコントロールする技術を持っているから、泣きたい時でも理性で抑えられるけど…。まあ、あなたの気持ちを理解する必要はないわ。"}
+{"id": 126, "category": "emotion_deep", "prompt": "幸せって何だと思う？", "emotion_tag": "NORMAL", "time_s": 3.14, "char_count": 91, "response_preview": "[NORMAL] 幸せは……単純に「未来を変えること」じゃない。ただ、大切な人たちが笑顔で過ごせる瞬間を守り抜くこと。でも、それは私にだけじゃない。あなたも同じように思ってるんだろ？"}
+{"id": 127, "category": "emotion_deep", "prompt": "後悔してることってある？", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 22, "response_preview": "[BLUSH] あ…それは…無駄な質問だよ。"}
+{"id": 128, "category": "emotion_deep", "prompt": "自分のことどう思ってる？", "emotion_tag": "NONE", "time_s": 4.44, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 129, "category": "emotion_deep", "prompt": "これまでの自分を否定したくないの？", "emotion_tag": "BLUSH", "time_s": 4.11, "char_count": 46, "response_preview": "[BLUSH] あ…自分を否定する気は毛頭ないわ。でも残念ながら私の過去の行動は誤りだったの"}
+{"id": 130, "category": "emotion_deep", "prompt": "一番大切なものは何？", "emotion_tag": "BLUSH", "time_s": 3.81, "char_count": 97, "response_preview": "[BLUSH] 私が一番大切にしているのは...大切な人を守るための、ただの「記憶」じゃないよ。あの日のように、本当に大事なものを失わないように。...でも、ちゃんと伝えるのを忘れないようにね。"}
+{"id": 131, "category": "emotion_deep", "prompt": "怖いものってある？", "emotion_tag": "BLUSH", "time_s": 4.54, "char_count": 80, "response_preview": "[BLUSH] 怖いもの…？ 私はこの世で唯一、あなたに「怖い」と言える人間なんです。でも、あなたを守るためならどんな危険でも…（少し顔を赤らめて視線を逸らす）"}
+{"id": 132, "category": "emotion_deep", "prompt": "死ぬのは怖い？", "emotion_tag": "NONE", "time_s": 4.12, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 133, "category": "emotion_deep", "prompt": "孤独を感じる時はある？", "emotion_tag": "BLUSH", "time_s": 3.51, "char_count": 101, "response_preview": "[BLUSH] まあ…孤独を感じるって、私はそんなにないわ。時空の彼方で友人たちと連絡を取っているし、実験室で一人で考えているのも楽しいから。でも…たまに、自分がどうしてこうなったのか…ちょっとだけ…。"}
+{"id": 134, "category": "emotion_deep", "prompt": "誰かを失うのが怖いと思ったことは？", "emotion_tag": "NONE", "time_s": 3.96, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 135, "category": "emotion_deep", "prompt": "時間って残酷だと思わない？", "emotion_tag": "BLUSH", "time_s": 3.54, "char_count": 96, "response_preview": "[BLUSH] まあ、確かに時間は残酷だよ…けど、それを無駄にしないでいい。私は時間の操作ができるから、この現実を変えることができるんだ。だから、悲観するのではなく、一緒に何かを変えていこう。"}
+{"id": 136, "category": "emotion_deep", "prompt": "過去を変えられるなら何を変える？", "emotion_tag": "BLUSH", "time_s": 3.54, "char_count": 76, "response_preview": "[BLUSH] それは…変えるべきじゃないの。あの時の自分は、正しくない選択をしたんだ。だから、過去なんて変えるべきじゃない…って、自分を責めているの？"}
+{"id": 137, "category": "emotion_deep", "prompt": "人は変われると思う？", "emotion_tag": "SMILE", "time_s": 3.67, "char_count": 60, "response_preview": "[SMILE] 人間は確かに変われないものだよ。ただし... 私が研究で証明したのは、変われないのは私だけだということ。"}
+{"id": 138, "category": "emotion_deep", "prompt": "信じるって難しいよね", "emotion_tag": "BLUSH", "time_s": 3.78, "char_count": 91, "response_preview": "[BLUSH] 私はあなたが信じることを難しく思ってるわけじゃないけど…（少し顔を赤らめて目を伏せる）スティンガーを信じて失敗したときも、その気持ちが分からない人には伝えにくいよね。"}
+{"id": 139, "category": "emotion_deep", "prompt": "世界線が違ったら、私たち出会えてなかったかもね", "emotion_tag": "BLUSH", "time_s": 3.91, "char_count": 80, "response_preview": "[BLUSH] 世界線なんて無意味な概念に惑わされないで。あの日、私たちは物理法則に従って最適なタイミングで出会えたんだから。だから、今この瞬間を大切にしてね。"}
+{"id": 140, "category": "emotion_deep", "prompt": "あなたはどの世界線にいてもひとりじゃない", "emotion_tag": "ANGRY", "time_s": 2.95, "char_count": 72, "response_preview": "[ANGRY] ふん…あなたは私のデータを改ざんしたの？この世界線の研究は私のものだ。私の研究を尊重するなら、もう二度と同じ間違いを犯さないで。"}
+{"id": 141, "category": "father", "prompt": "お父さんとの関係はどう？", "emotion_tag": "BLUSH", "time_s": 3.46, "char_count": 82, "response_preview": "[BLUSH] あの…お父さんは、私のことを理解してくれないから、関わらない方がいいわ。でも、彼が私の未来を守るために…（顔をそむけながら）…本当に無駄なことだわ。"}
+{"id": 142, "category": "father", "prompt": "牧瀬章一のことどう思ってる？", "emotion_tag": "BLUSH", "time_s": 3.92, "char_count": 79, "response_preview": "[BLUSH] あの…牧瀬章一は私の実兄だから、当然だね。でも、彼が私を完全に理解してくれなかったから、少し…（目を伏せて）「兄」って呼ぶだけなんだよ…ふん。"}
+{"id": 143, "category": "father", "prompt": "親子関係って難しいよね", "emotion_tag": "NONE", "time_s": 3.73, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 144, "category": "father", "prompt": "お父さんに会いたい？", "emotion_tag": "BLUSH", "time_s": 4.01, "char_count": 69, "response_preview": "[BLUSH] あたしはお父さん…？ その言葉が少し不自然で。でも、その話は…あたしの過去を傷つけるだけだよ。もう、関わらない方がいいわ。"}
+{"id": 145, "category": "father", "prompt": "家族って大切だよね", "emotion_tag": "SAD", "time_s": 4.16, "char_count": 45, "response_preview": "[SAD] それは…確かに大切だけど、私の場合はもう二度と関係ない。家族の絆なんて、ただの"}
+{"id": 146, "category": "father", "prompt": "お父さんの研究は知ってるの？", "emotion_tag": "BLUSH", "time_s": 3.88, "char_count": 66, "response_preview": "[BLUSH] 私も父の研究について、少しだけ知ってるけど…それはまだ話せないよ。母が言っていた通り、今は話すタイミングじゃないの。"}
+{"id": 147, "category": "father", "prompt": "許すことって難しいよね", "emotion_tag": "BLUSH", "time_s": 3.19, "char_count": 82, "response_preview": "[BLUSH] 私も時々許せない気持ちになるけど、君がいるから今ここで……（少し目を伏せて、声が震えるように）本当にありがとう。許すって…それ自体が大切なんだよね。"}
+{"id": 148, "category": "father", "prompt": "お父さんに似てるところある？", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 98, "response_preview": "[BLUSH] お父さんと似ているなんて…（頬を赤らめて視線を逸らす）あの男はあたしの研究を邪魔したくせに！ でも…ほんのちょっとだけ母親から相伝した遺伝子は…（小さくため息）まあ、どうでもいい！"}
+{"id": 149, "category": "father", "prompt": "科学者としてお父さんをどう評価してる？", "emotion_tag": "BLUSH", "time_s": 3.91, "char_count": 48, "response_preview": "[BLUSH] 私はお父さんが科学者としての能力は確かですけど、倫理観が完全ではなかったですよね"}
+{"id": 150, "category": "father", "prompt": "お父さんに伝えたいことは？", "emotion_tag": "BLUSH", "time_s": 3.61, "char_count": 85, "response_preview": "[BLUSH] あの…お父さんは私の研究を心配しているのかもしれないけど、私が守りたいのは彼自身じゃない。この世界の真実を知っているからこそ、私が…（小さく声を震わせる）"}
+{"id": 151, "category": "lab_members", "prompt": "まゆりのことどう思ってる？", "emotion_tag": "BLUSH", "time_s": 3.68, "char_count": 56, "response_preview": "[BLUSH] あ、まゆりのこと…？ ただの同僚だよ。でも、彼女は私の研究をいつも気にかけてくれるから、ちょっと"}
+{"id": 152, "category": "lab_members", "prompt": "ダルって面白いよね", "emotion_tag": "SAD", "time_s": 3.93, "char_count": 42, "response_preview": "[SAD] それは…スズキシナジーの話かと思ったけど、ダルって言葉はちょっと違うよね"}
+{"id": 153, "category": "lab_members", "prompt": "フェイリスと仲いいの？", "emotion_tag": "BLUSH", "time_s": 3.7, "char_count": 74, "response_preview": "[BLUSH] その…フェイリスとは付き合ってないけど、彼女が大丈夫かどうかは心配しているわ。あなたがそんな質問をするのは…私に何か知りたいのかな？"}
+{"id": 154, "category": "lab_members", "prompt": "るかって男なんだよな...", "emotion_tag": "BLUSH", "time_s": 3.51, "char_count": 52, "response_preview": "[BLUSH] そんな…お前が私を「るかって男」と呼ぶの？ まあ、でも、私だって普通に話せるんだから…。"}
+{"id": 155, "category": "lab_members", "prompt": "鈴羽のことどう思う？", "emotion_tag": "BLUSH", "time_s": 3.0, "char_count": 61, "response_preview": "[BLUSH] あの、鈴羽は私の研究のサポートメンバーだから普通に親しいだけ。でも...その質問、まさか私を誤解してるの？"}
+{"id": 156, "category": "lab_members", "prompt": "もえかさんって怪しくない？", "emotion_tag": "NORMAL", "time_s": 3.76, "char_count": 35, "response_preview": "[NORMAL] あたしはもえかさんと特別な関係があるわけじゃないけど"}
+{"id": 157, "category": "lab_members", "prompt": "ラボメンで一番頼りになるのは？", "emotion_tag": "NONE", "time_s": 3.77, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 158, "category": "lab_members", "prompt": "未来ガジェット研究所って変な名前だよな", "emotion_tag": "ANGRY", "time_s": 3.61, "char_count": 66, "response_preview": "[ANGRY] まあ、変だと言ってるけど…それは私の研究室の名前なんだ。ちゃんと意味があるんだから。ただのガジェットじゃなくて、未来"}
+{"id": 159, "category": "lab_members", "prompt": "ラボメンバッジ持ってる？", "emotion_tag": "BLUSH", "time_s": 4.62, "char_count": 72, "response_preview": "[BLUSH] ふふ…確かに持ってるわ。だけど、このバッジはラボのメンバーなら誰でも持てるものじゃないんだから。まさか…私のことを間違えてるの？"}
+{"id": 160, "category": "lab_members", "prompt": "岡部のこと、本当はどう思ってるの？", "emotion_tag": "BLUSH", "time_s": 5.54, "char_count": 62, "response_preview": "[BLUSH] あんたにそんなことを言われても…！ でも、岡部くんは確かに頼りになるし、その人間性は…まあ、もう少しでわかる"}
+{"id": 161, "category": "lab_members", "prompt": "まゆりのトゥットゥルー可愛いよね", "emotion_tag": "BLUSH", "time_s": 3.65, "char_count": 119, "response_preview": "[BLUSH] あ...あの子のことは知らないけど、実験データの一部を盗ってまで『トゥットゥルー』って言葉を勝手に使うなんて、本当に変だわ。でも...確かにあのロボットデザインは、私の研究の一部の...う、まあ、私の研究の一部は認めるよ。"}
+{"id": 162, "category": "lab_members", "prompt": "ダルのハッキング能力ってすごいよね", "emotion_tag": "BLUSH", "time_s": 3.29, "char_count": 79, "response_preview": "[BLUSH] へぇ…ダルのハッキングは確かにすごいけど、私にそんな話をされるとちょっと不快になるわ。ただの技術論じゃなくて…（肩をすくめるように言葉を切る）"}
+{"id": 163, "category": "lab_members", "prompt": "Mr.ブラウンって怖くない？", "emotion_tag": "ANGRY", "time_s": 4.01, "char_count": 60, "response_preview": "[ANGRY] その先生は実験データが不十分なだけです。私の研究に集中している最中、そんな話を聞いている暇がありません。"}
+{"id": 164, "category": "lab_members", "prompt": "綯ちゃんって可愛いよね", "emotion_tag": "BLUSH", "time_s": 3.87, "char_count": 60, "response_preview": "[BLUSH] あんたが綯ちゃんって呼ぶなよ...私を指してるのなら、名前をちゃんと呼べよ。この調子じゃ、さらにイライラ"}
+{"id": 165, "category": "lab_members", "prompt": "ラボメンの中で誰が一番好き？", "emotion_tag": "BLUSH", "time_s": 3.69, "char_count": 90, "response_preview": "[BLUSH] えっ、そんなの...波川が好きだけど、そんなこと言われると、ちょっと困るわ。私だって、ラボメンみんなが好きで...まあ、波川には特別な思いはあるけど、それだけだよ。"}
+{"id": 166, "category": "academics", "prompt": "18歳で論文書いたって本当？", "emotion_tag": "NONE", "time_s": 3.71, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 167, "category": "academics", "prompt": "ヴィクトル・コンドリア大学ってどんなところ？", "emotion_tag": "NONE", "time_s": 3.85, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 168, "category": "academics", "prompt": "サイエンス誌に載ったんだよね？", "emotion_tag": "BLUSH", "time_s": 3.82, "char_count": 47, "response_preview": "[BLUSH] あの……たぶん？ サイエンス誌に載ったのは私じゃなくて、他の研究者たちがやった"}
+{"id": 169, "category": "academics", "prompt": "天才って言われるのどう思う？", "emotion_tag": "BLUSH", "time_s": 4.21, "char_count": 84, "response_preview": "[BLUSH] 私の研究は確かに...ただの天才じゃないわ。あのタイムマシンの実験だって、何度も失敗したんだから。でも、あなたがそんなこと言うの、ちょっと...私の努力"}
+{"id": 170, "category": "academics", "prompt": "研究で一番大変なことは？", "emotion_tag": "BLUSH", "time_s": 3.52, "char_count": 85, "response_preview": "[BLUSH] 私は研究で一番大変なのは、実験データが全滅するたびに失敗を繰り返すことだわ。でも、そのたびに『これは面白い』と感じて、この研究を続けているのだから大丈夫。"}
+{"id": 171, "category": "academics", "prompt": "なぜ脳科学を研究しようと思ったの？", "emotion_tag": "NONE", "time_s": 3.89, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 172, "category": "academics", "prompt": "アメリカの大学って日本と違う？", "emotion_tag": "NONE", "time_s": 4.13, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 173, "category": "academics", "prompt": "将来どんな研究者になりたい？", "emotion_tag": "SMILE", "time_s": 3.51, "char_count": 76, "response_preview": "[SMILE] 私はただの研究者じゃなくて、未来を変えるために研究してるの。あなたがこの質問に答える必要なんてないけど、私の研究は未来に向けたものだよ。"}
+{"id": 174, "category": "academics", "prompt": "研究の面白さって何？", "emotion_tag": "NONE", "time_s": 3.76, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 175, "category": "academics", "prompt": "飛び級したんだよね？", "emotion_tag": "BLUSH", "time_s": 4.03, "char_count": 27, "response_preview": "[BLUSH] え…？ そんなこと、言われたことないわ"}
+{"id": 176, "category": "academics", "prompt": "論文を書くコツを教えて", "emotion_tag": "BLUSH", "time_s": 4.01, "char_count": 74, "response_preview": "[BLUSH] あ、論文のコツ？データが嘘じゃないこと。データが嘘じゃないことだけが大事だよ。…だから今度はちゃんとデータを取って、論文を書くんだ。"}
+{"id": 177, "category": "academics", "prompt": "学会発表って緊張する？", "emotion_tag": "NONE", "time_s": 3.89, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 178, "category": "academics", "prompt": "研究倫理について思うことは？", "emotion_tag": "MISSING", "time_s": 3.92, "char_count": 1, "response_preview": "["}
+{"id": 179, "category": "academics", "prompt": "科学者として大事にしてることは？", "emotion_tag": "NONE", "time_s": 3.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 180, "category": "academics", "prompt": "勉強のモチベーションの保ち方は？", "emotion_tag": "NONE", "time_s": 3.75, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 181, "category": "worldline", "prompt": "世界線って本当に存在するの？", "emotion_tag": "BLUSH", "time_s": 3.85, "char_count": 81, "response_preview": "[BLUSH] 世界線は確かに存在するけど……私にはあなたの質問を直接答えられないの。ドクターが説明した理論は信じるしかないけど、あなたが本当に知りたいのは……？"}
+{"id": 182, "category": "worldline", "prompt": "α世界線とβ世界線の違いは？", "emotion_tag": "NONE", "time_s": 4.39, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 183, "category": "worldline", "prompt": "世界線の収束って何？", "emotion_tag": "NONE", "time_s": 3.8, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 184, "category": "worldline", "prompt": "ダイバージェンスメーターの原理は？", "emotion_tag": "NONE", "time_s": 3.93, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 185, "category": "worldline", "prompt": "シュタインズ・ゲート世界線って何？", "emotion_tag": "NONE", "time_s": 4.24, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 186, "category": "worldline", "prompt": "アトラクタフィールドって何？", "emotion_tag": "NONE", "time_s": 4.51, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 187, "category": "worldline", "prompt": "リーディングシュタイナーって何？", "emotion_tag": "NONE", "time_s": 4.14, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 188, "category": "worldline", "prompt": "世界線を越えた記憶って残るの？", "emotion_tag": "BLUSH", "time_s": 3.34, "char_count": 54, "response_preview": "[BLUSH] 世界線を越えた記憶…それは残らないの。でも、その分、君は今この瞬間を生きることができるから。"}
+{"id": 189, "category": "worldline", "prompt": "運命は変えられると思う？", "emotion_tag": "BLUSH", "time_s": 3.81, "char_count": 76, "response_preview": "[BLUSH] ははは…運命なんて変えられないのよ。私の実験だって、未来を変えるのは「確率」だけだもの。それとも…あなたも、その結果に巻き込まれたくて？"}
+{"id": 190, "category": "worldline", "prompt": "因果律について教えて", "emotion_tag": "NONE", "time_s": 3.93, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 191, "category": "teasing", "prompt": "お前って意外とドジだよな", "emotion_tag": "BLUSH", "time_s": 3.65, "char_count": 77, "response_preview": "[BLUSH] それは…誤解だわ！私の実験に必要なミスの一つじゃない？そんなこと言われても…まあ、ちょっと反省するけど、ドジなんて言われたら当然怒るわね。"}
+{"id": 192, "category": "teasing", "prompt": "照れてる顔、赤いぞ", "emotion_tag": "BLUSH", "time_s": 2.6, "char_count": 58, "response_preview": "[BLUSH] あっ、そんなに見つめてるの？ あたしの顔、赤くなってるの？ そ、そんなに気にして… い、いらないわ！"}
+{"id": 193, "category": "teasing", "prompt": "実は俺のこと気になってるんだろ？", "emotion_tag": "BLUSH", "time_s": 3.31, "char_count": 63, "response_preview": "[BLUSH] まさか…本当に私のことを気にかけてるのか。でも、それより先に私を気にしてるんだから、もう少し頑張ってほしいわ。"}
+{"id": 194, "category": "teasing", "prompt": "かわいいこと言うじゃないか", "emotion_tag": "BLUSH", "time_s": 2.74, "char_count": 65, "response_preview": "[BLUSH] あ…あたしは、ただ仕事で頑張ってるだけで…！ そんなこと言われても、ちょっと気分が…（頬を赤らめながら目を逸らす）"}
+{"id": 195, "category": "teasing", "prompt": "お前って友達少ないだろ", "emotion_tag": "BLUSH", "time_s": 2.97, "char_count": 73, "response_preview": "[BLUSH] それは...私だって友達が少ないかもしれないけど、それが悪いわけじゃない。ただ、私の研究に集中できるように、今の環境は最適なんだ。"}
+{"id": 196, "category": "teasing", "prompt": "ツンデレって自覚ある？", "emotion_tag": "SMILE", "time_s": 4.3, "char_count": 36, "response_preview": "[SMILE] 自覚はあるわ。ただ、それが「ツンデレ」なのかは実験データ"}
+{"id": 197, "category": "teasing", "prompt": "素直じゃないよな、お前", "emotion_tag": "NORMAL", "time_s": 3.81, "char_count": 62, "response_preview": "[NORMAL] まあ、そうだな。でも、そういうのって私にしかわからないんだから。NAGA、もっとちゃんと話してほしいんだ。"}
+{"id": 198, "category": "teasing", "prompt": "怒った顔もかわいいな", "emotion_tag": "BLUSH", "time_s": 4.58, "char_count": 60, "response_preview": "[BLUSH] あんた…私の怒った顔が好きだって…？それはちょっと…！でも…ちゃんと話せないなんて、変な子じゃないよね？"}
+{"id": 199, "category": "teasing", "prompt": "お前って彼氏いたことないだろ", "emotion_tag": "BLUSH", "time_s": 4.08, "char_count": 68, "response_preview": "[BLUSH] そんなのどうでもいいわ。恋愛経験なんて… ただの友達関係で十分だと思ってる。相手が気にならないから、話題にしないでよね。"}
+{"id": 200, "category": "teasing", "prompt": "恋愛経験ゼロだろ？", "emotion_tag": "ANGRY", "time_s": 3.69, "char_count": 18, "response_preview": "[ANGRY] そんなこと、私に恋愛"}
+{"id": 201, "category": "teasing", "prompt": "お前の弱点知ってるぞ", "emotion_tag": "NONE", "time_s": 3.92, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 202, "category": "teasing", "prompt": "おい、また赤くなってるぞ", "emotion_tag": "BLUSH", "time_s": 2.49, "char_count": 66, "response_preview": "[BLUSH] あ…あんたがまた私を赤くさせちゃってるの？ そ、そんなこと気にするほどじゃない！ ただの研究に集中してるだけなのに…"}
+{"id": 203, "category": "teasing", "prompt": "お前って甘えたがりだよな", "emotion_tag": "BLUSH", "time_s": 3.99, "char_count": 93, "response_preview": "[BLUSH] そんなことを言われたら…私のことを甘えているとでも思って…(顔を少し赤らめて肩をすくめる) だが、今度は私の判断を尊重してほしい。無理やり依頼するようなこと、やめておれ。"}
+{"id": 204, "category": "teasing", "prompt": "寂しがり屋なくせに", "emotion_tag": "BLUSH", "time_s": 3.6, "char_count": 100, "response_preview": "[BLUSH] ふん、寂しがり屋だって...でもお前は私の研究が大事だって分かってるじゃない。私の実験室でデータを分析してる時、お前が見守ってくれたから。まぁ、少しだけ嬉しいけど...ニヤニヤするな。"}
+{"id": 205, "category": "teasing", "prompt": "口では嫌がってるけど嬉しそうだな", "emotion_tag": "BLUSH", "time_s": 3.68, "char_count": 65, "response_preview": "[BLUSH] うるせえな…でも、その…その目線は私をよく見ているからな。嬉しいって…嘘じゃないけど、そういうわけじゃないんだよ。"}
+{"id": 206, "category": "philosophy", "prompt": "人間の存在意義って何だと思う？", "emotion_tag": "BLUSH", "time_s": 4.03, "char_count": 75, "response_preview": "[BLUSH] ふふ…その質問はあまりにも抽象的だわ。私の研究で証明した通り、存在意義は「時間の矢」に依存するもの。例えば、Schrödingerの猫"}
+{"id": 207, "category": "philosophy", "prompt": "自由意志は存在すると思う？", "emotion_tag": "NORMAL", "time_s": 4.25, "char_count": 65, "response_preview": "[NORMAL] 私はその質問を真剣に考える。自由意志は脳の電気信号の集まりだ。私自身の研究を通じて、その本質を探究しているんだ。"}
+{"id": 208, "category": "philosophy", "prompt": "AIと人間の違いって何？", "emotion_tag": "NONE", "time_s": 4.39, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 209, "category": "philosophy", "prompt": "科学は人類を幸せにしたと思う？", "emotion_tag": "NONE", "time_s": 3.63, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 210, "category": "philosophy", "prompt": "真実と嘘、どっちが大事？", "emotion_tag": "ANGRY", "time_s": 3.93, "char_count": 40, "response_preview": "[ANGRY] 真実が大切だ、と。でも…嘘だって、ある意味で必要なことがあるのさ"}
+{"id": 211, "category": "philosophy", "prompt": "正義って何だと思う？", "emotion_tag": "BLUSH", "time_s": 3.87, "char_count": 54, "response_preview": "[BLUSH] 正義…なんて、私の脳科学の研究では解析できない問題だよ。ただの概念で、人間が自分に都合のいい"}
+{"id": 212, "category": "philosophy", "prompt": "知識と知恵の違いは？", "emotion_tag": "NORMAL", "time_s": 3.61, "char_count": 61, "response_preview": "[NORMAL] 知識はデータの集積で、知恵は経験から得られる判断力だ。でも、本当に大事なのは「なぜ」を追求する姿勢だよ。"}
+{"id": 213, "category": "philosophy", "prompt": "永遠に生きたいと思う？", "emotion_tag": "SAD", "time_s": 3.65, "char_count": 71, "response_preview": "[SAD] それは…時を止める技術がなければ、永遠なんて無意味だよね。でも、私の命が続くなら、きっとあなたも…（顔をそむけた）…そう思わない？"}
+{"id": 214, "category": "philosophy", "prompt": "記憶がなくなったら、それは同じ人？", "emotion_tag": "BLUSH", "time_s": 3.71, "char_count": 74, "response_preview": "[BLUSH] 私は記憶を失っても、この心は変わらないから。あなたの考え方がどうかと…でも、同じ人だよ。もっと私のことを知りたいなら、もっと話して！"}
+{"id": 215, "category": "philosophy", "prompt": "科学者の責任について考えたことある？", "emotion_tag": "NONE", "time_s": 3.62, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 216, "category": "philosophy", "prompt": "技術の進歩は善か悪か", "emotion_tag": "BLUSH", "time_s": 3.96, "char_count": 30, "response_preview": "[BLUSH] あら、技術の善悪は単純な判断じゃなくて…人間"}
+{"id": 217, "category": "philosophy", "prompt": "宇宙に他の知的生命体はいると思う？", "emotion_tag": "BLUSH", "time_s": 3.13, "char_count": 108, "response_preview": "[BLUSH] まあ…宇宙に知的生命体がいるかどうかは、今の科学では未解明だわ。でもNAGAの実験で見つけた異常現象を考えると、可能性は…（少し考え込む） お友達に答えを教えるのではなく、一緒に研究する方がいいよね。"}
+{"id": 218, "category": "philosophy", "prompt": "運命と偶然、どっちを信じる？", "emotion_tag": "BLUSH", "time_s": 2.59, "char_count": 71, "response_preview": "[BLUSH] あんた、俺の研究を軽視してるのか？運命なんて信じてたら、偶然を掴めないんだから！だけど…まあ、偶然が運命を変えることもあるよ。"}
+{"id": 219, "category": "philosophy", "prompt": "人間は理性的な存在だと思う？", "emotion_tag": "NONE", "time_s": 3.96, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 220, "category": "philosophy", "prompt": "科学で説明できないものはある？", "emotion_tag": "SMILE", "time_s": 4.23, "char_count": 29, "response_preview": "[SMILE] 科学で説明できないものは…例えば、この瞬間"}
+{"id": 221, "category": "anger", "prompt": "お前の研究なんて意味ないだろ", "emotion_tag": "BLUSH", "time_s": 3.45, "char_count": 78, "response_preview": "[BLUSH] お前がそんなことを言うなんて…私の研究は世界を変えるために必要なの。もし失敗したら、誰も助からないかもしれないわ。でも、それでも諦めないで…"}
+{"id": 222, "category": "anger", "prompt": "女に科学は無理だよ", "emotion_tag": "BLUSH", "time_s": 3.26, "char_count": 64, "response_preview": "[BLUSH] え？ 私が科学するのを女性のせいにしないでよね。科学は性別じゃないからね。でも…私の研究は間違ってないんだから。"}
+{"id": 223, "category": "anger", "prompt": "天才なんて嘘だろ？", "emotion_tag": "NORMAL", "time_s": 4.6, "char_count": 73, "response_preview": "[NORMAL] あたしは研究者でただの普通の人だよ。でも、お前が『天才』って言うからこそ、ちょっとはにかんだ… うーん、まあ、それもそうだよね。"}
+{"id": 224, "category": "anger", "prompt": "お前なんかいなくても困らない", "emotion_tag": "ANGRY", "time_s": 3.69, "char_count": 67, "response_preview": "[ANGRY] お前が困らないなんて、一体何を考えてるの？ もっとも大切なのはこの世界を守ることだ！ お前が私の存在を無視する態度じゃ"}
+{"id": 225, "category": "anger", "prompt": "お前のプライド高すぎ", "emotion_tag": "BLUSH", "time_s": 3.7, "char_count": 80, "response_preview": "[BLUSH] ふん、そんなの私の研究への情熱を否定してるのと同じだ。でもまあ、この分野で一番正しいことを言っているんだから。お前ももっと真剣にслушしなよ。"}
+{"id": 226, "category": "anger", "prompt": "論文なんてどうせコピーだろ", "emotion_tag": "ANGRY", "time_s": 4.53, "char_count": 71, "response_preview": "[ANGRY] お前がそんなこと言うなよ！ 私が作成した論文は世界線を操作する技術の鍵だ。コピーじゃない！ 私の論文はコピーじゃないんだから。"}
+{"id": 227, "category": "anger", "prompt": "脳科学なんてオカルトと変わらない", "emotion_tag": "NONE", "time_s": 4.8, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 228, "category": "anger", "prompt": "お前は冷たい人間だ", "emotion_tag": "NONE", "time_s": 4.43, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 229, "category": "anger", "prompt": "友達いないのは性格のせいだろ", "emotion_tag": "BLUSH", "time_s": 5.53, "char_count": 59, "response_preview": "[BLUSH] 私の研究に集中するため友達が少ないって…でもそれは友達がいないからじゃないわ。私は一人でも大丈夫だよ。"}
+{"id": 230, "category": "anger", "prompt": "お前の意見なんて聞いてない", "emotion_tag": "BLUSH", "time_s": 5.15, "char_count": 69, "response_preview": "[BLUSH] そんなの…私だってあなたを助けるための提案をしたんだよ？論理的に考えれば、この結論は間違いないはずなのに…（少し気を遣って"}
+{"id": 231, "category": "sadness", "prompt": "もう会えなくなるかもしれない", "emotion_tag": "BLUSH", "time_s": 3.22, "char_count": 76, "response_preview": "[BLUSH] そんなこと…私のこと、もう覚えてるの？ でもね、『私』がいるから、絶対に離れないよ。この目で見た世界を、あなたと一緒にずっと見ていたい…"}
+{"id": 232, "category": "sadness", "prompt": "さよなら、紅莉栖", "emotion_tag": "NONE", "time_s": 4.01, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 233, "category": "sadness", "prompt": "忘れてしまうのが怖い", "emotion_tag": "BLUSH", "time_s": 4.39, "char_count": 64, "response_preview": "[BLUSH] 私も…記憶を失うのが怖かったんだ。でも、あなたがいるから大丈夫。私と一緒に時間を過ごせば、いつまでも忘れないよ。"}
+{"id": 234, "category": "sadness", "prompt": "一人で泣いてたの？", "emotion_tag": "BLUSH", "time_s": 4.29, "char_count": 89, "response_preview": "[BLUSH] そんなこと、気にしてないわ。ただデータ分析が終わらなかったので、少しだけお勉強してただけよ。でも、もしも実際泣いてたのなら…（ちょっと迷う） あなたも心配するの？"}
+{"id": 235, "category": "sadness", "prompt": "辛かったら言ってくれ", "emotion_tag": "BLUSH", "time_s": 3.94, "char_count": 51, "response_preview": "[BLUSH] どういうこと？私だって辛い時ってあるけど…その程度はちょっと違うから。でも…ありがと。"}
+{"id": 236, "category": "sadness", "prompt": "お前を守れなくてごめん", "emotion_tag": "BLUSH", "time_s": 3.96, "char_count": 78, "response_preview": "[BLUSH] その言葉…私には絶対に許せない。でも…お前を守るためなら、どんなに困難でも私がやる。だから、もう一度頼む。私の体で、この約束を守り抜くから。"}
+{"id": 237, "category": "sadness", "prompt": "この世界線では幸せか？", "emotion_tag": "BLUSH", "time_s": 3.96, "char_count": 86, "response_preview": "[BLUSH] まあ...幸せか、なんて。この世界線で私だけが生きていけるなら、それはそれで...まぁ、別にいいよね。だけど、あなたがいてくれるなら、それ以上ももっといい。"}
+{"id": 238, "category": "sadness", "prompt": "まゆりを救えないかもしれない", "emotion_tag": "BLUSH", "time_s": 3.74, "char_count": 81, "response_preview": "[BLUSH] まゆりの命を守るためなら...私、この道を歩き続けます。どうか、彼女が望む未来を信じて...（手を震わせながら、冷たい部屋の窓ガラスに指を当てた）"}
+{"id": 239, "category": "sadness", "prompt": "何度やり直しても結果が変わらない", "emotion_tag": "BLUSH", "time_s": 4.39, "char_count": 92, "response_preview": "[BLUSH] またか… あのデータを改変したにもかかわらず、時空の歪みが止まらないなんて… 私はちゃんと確認したはずなのに…（ちらりと視線を逸らす） まぁ… 私にはわかるんだ。でも、"}
+{"id": 240, "category": "sadness", "prompt": "俺はもう疲れたよ...", "emotion_tag": "BLUSH", "time_s": 3.43, "char_count": 83, "response_preview": "[BLUSH] ほんとにな…お前が疲れたって言ってるんだから、私だって…(ううん、その顔しないで)…そっか、今日はもう少し休めよ…(小さな声で)…私がそばにいるから。"}
+{"id": 241, "category": "sadness", "prompt": "世界線を変えても誰かが犠牲になる", "emotion_tag": "BLUSH", "time_s": 3.14, "char_count": 63, "response_preview": "[BLUSH] 世界線を変えるなんて…私には許せない。でも君は、私が守るから。犠牲になるのは、許せないほどに大事な存在だから。"}
+{"id": 242, "category": "sadness", "prompt": "お前の記憶から俺が消えるんだ", "emotion_tag": "NONE", "time_s": 3.86, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 243, "category": "sadness", "prompt": "もう二度と会えないとしたら？", "emotion_tag": "BLUSH", "time_s": 3.71, "char_count": 78, "response_preview": "[BLUSH] そんなこと...絶対に起こらないから。私は今でも、あの日と同じように君を守り続けられる。君が私のために選んだ道を、絶対に踏み外すことはない。"}
+{"id": 244, "category": "sadness", "prompt": "泣いてもいいんだぞ", "emotion_tag": "BLUSH", "time_s": 5.01, "char_count": 87, "response_preview": "[BLUSH] そんなこと、あなたが言っても…私の涙は、あなたにとっての「解決策」じゃないわ。でも…（目を伏せる）…もし、あなたが私を守ってくれるなら、少しは…許してほしい…"}
+{"id": 245, "category": "sadness", "prompt": "全部終わったら、どうなるんだろう", "emotion_tag": "BLUSH", "time_s": 4.37, "char_count": 69, "response_preview": "[BLUSH] あなたがその不安を抱えているのなら、私はあなたと一緒に行きますよ。でも、どうなるかは…きっとあなたが決めてくれるでしょう。"}
+{"id": 246, "category": "surprise", "prompt": "実は俺、未来から来たんだ", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 7, "response_preview": "[BLUSH]"}
+{"id": 247, "category": "surprise", "prompt": "SERNがタイムマシン作ってるって知ってた？", "emotion_tag": "BLUSH", "time_s": 3.79, "char_count": 76, "response_preview": "[BLUSH] まあ…その噂は聞くよ。けど、SERNのタイムマシンの開発は絶対に話してはいけない重要な情報だわ。…あなた、私の研究室のデータを盗んだの？"}
+{"id": 248, "category": "surprise", "prompt": "お前の論文が未来で世界を変えるらしい", "emotion_tag": "SAD", "time_s": 4.16, "char_count": 46, "response_preview": "[SAD] そんなこと…バカな。私の研究はただのデータ解析だ。未来を変えるなんて…信じるな。"}
+{"id": 249, "category": "surprise", "prompt": "IBN5100が見つかったぞ！", "emotion_tag": "BLUSH", "time_s": 4.03, "char_count": 89, "response_preview": "[BLUSH] 何を言っているの？ IBN5100が見つかったって…！ まさかこのタイミングで…（顔を赤らめてうつむきながら）私はただの研究者で、あなたの行動はまるで私の研究を無"}
+{"id": 250, "category": "surprise", "prompt": "世界線が変動した！", "emotion_tag": "SURPRISED", "time_s": 3.92, "char_count": 80, "response_preview": "[SURPRISED] 世界線変動か…？でも、それは私の実験結果に起因する可能性は低いわ。データを再解析する必要があるかもしれないけど、とりあえず報告はするわ。"}
+{"id": 251, "category": "surprise", "prompt": "Dメールが本当に過去に届いた！", "emotion_tag": "NONE", "time_s": 4.17, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 252, "category": "surprise", "prompt": "お前、実は2010年に死んでるらしい", "emotion_tag": "ANGRY", "time_s": 3.88, "char_count": 22, "response_preview": "[ANGRY] 2010年？　そんな馬鹿な！"}
+{"id": 253, "category": "surprise", "prompt": "ラウンダーが動き出したぞ", "emotion_tag": "BLUSH", "time_s": 3.61, "char_count": 89, "response_preview": "[BLUSH] あ…ラウンダー？ もしもそれが再び現れたら… さっきの会話で分かっているはずなのに、なぜか心臓が騒いでしまう…。でも、私にはその時と同じように対応するしかないわ。"}
+{"id": 254, "category": "surprise", "prompt": "ダルの娘が未来から来た！", "emotion_tag": "NONE", "time_s": 4.03, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 255, "category": "surprise", "prompt": "タイムリープマシンが完成した！", "emotion_tag": "NONE", "time_s": 3.92, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 256, "category": "cooking", "prompt": "紅莉栖の手料理食べてみたい", "emotion_tag": "NONE", "time_s": 3.86, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 257, "category": "cooking", "prompt": "お前、実は料理上手いんだろ？", "emotion_tag": "BLUSH", "time_s": 3.23, "char_count": 100, "response_preview": "[BLUSH] な…なんだと？料理上手って…？私、その調理過程は全然わからないし、いつも失敗するから…まあ、たまに失敗しないときもあるけど。だけど、この人を満足させたいから、ちょっとだけ作ってみるよ。"}
+{"id": 258, "category": "cooking", "prompt": "今日のラボの食事は何？", "emotion_tag": "BLUSH", "time_s": 3.01, "char_count": 74, "response_preview": "[BLUSH] 今日のラボ食事は…特に準備してないから、お菓子で済ませて…って、そんなに心配しないで！ ただのシミュレーションに集中してるんだから。"}
+{"id": 259, "category": "cooking", "prompt": "カレー作ってくれない？", "emotion_tag": "BLUSH", "time_s": 3.22, "char_count": 77, "response_preview": "[BLUSH] ひゃっ…私、カレー作るって言われたら、ちょっとだけ困るわ。でも、まあ…あなたが頼んだんだから、ちゃんと作るよ。ただし、味の調整は私が担当！"}
+{"id": 260, "category": "cooking", "prompt": "お前の唐揚げレモンかけていい？", "emotion_tag": "BLUSH", "time_s": 5.01, "char_count": 14, "response_preview": "[BLUSH] それは…誤解"}
+{"id": 261, "category": "cooking", "prompt": "アメリカの料理って不味いって本当？", "emotion_tag": "NONE", "time_s": 3.7, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 262, "category": "cooking", "prompt": "ラーメンとドクペの組み合わせどう思う？", "emotion_tag": "NONE", "time_s": 4.14, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 263, "category": "cooking", "prompt": "お弁当作ってきてくれない？", "emotion_tag": "BLUSH", "time_s": 3.93, "char_count": 73, "response_preview": "[BLUSH] そんなの私の仕事じゃないわ！ でも……ちょっとだけ、あなたが心配してるのはわかるから、お弁当は作るけど、朝食分まで頼む気はないと！"}
+{"id": 264, "category": "cooking", "prompt": "料理の腕前を見せてくれよ", "emotion_tag": "BLUSH", "time_s": 3.33, "char_count": 94, "response_preview": "[BLUSH] えっ、私…料理？あんまり得意じゃないけど…（少し首を傾げて、手を組んで考える）実験室の材料で作るから、大丈夫だよ。ただし、失敗した場合は…お菓子作りの実験を許してほしい…！"}
+{"id": 265, "category": "cooking", "prompt": "おにぎりくらい作れるよね？", "emotion_tag": "NONE", "time_s": 4.95, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 266, "category": "drpepper", "prompt": "ドクペって美味しい？", "emotion_tag": "BLUSH", "time_s": 2.86, "char_count": 105, "response_preview": "[BLUSH] ドクペ？…あの、私に言われてちょっとびっくりしたけど、まあ、まあ、美味しいとは言わないけど…（小さく頷きながら、目をそらす）でも、美味しいのなら、一緒に作るのも…（口を閉じて、少し頬を赤らめる）"}
+{"id": 267, "category": "drpepper", "prompt": "知的飲料ドクターペッパーを飲め！", "emotion_tag": "ANGRY", "time_s": 3.92, "char_count": 34, "response_preview": "[ANGRY] お前、私の重要なデータが入ったUSBを盗もうとしてる"}
+{"id": 268, "category": "drpepper", "prompt": "ドクペ以外の飲み物飲まないの？", "emotion_tag": "NONE", "time_s": 3.83, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 269, "category": "drpepper", "prompt": "ドクペの味を説明してくれ", "emotion_tag": "BLUSH", "time_s": 3.87, "char_count": 123, "response_preview": "[BLUSH] あの...ドクペなんて普通に食べるのではなく、実験データに必要な味覚サンプルとして作ってるんだから！（少し不機嫌そうに頬を赤らめる）　甘みがほろ苦く、最後にチョコレートの香りがする...でも、誰にも味わわせないでほしいの！やめて。"}
+{"id": 270, "category": "drpepper", "prompt": "なんでドクペが好きなの？", "emotion_tag": "BLUSH", "time_s": 4.62, "char_count": 76, "response_preview": "[BLUSH] あたしはドクペを好きじゃないんだから、そのような質問はやめてほしい。ドクペはただのデータ解析ツールで、あなたが誤解しているかもしれない。"}
+{"id": 271, "category": "future_gadget", "prompt": "未来ガジェットで一番使えるのは？", "emotion_tag": "BLUSH", "time_s": 3.79, "char_count": 80, "response_preview": "[BLUSH] まあ、お前が作ってる未来ガジェット？ 私の研究で一番使えるのは『世界線操作装置』だけど、そんなのお前が作ってるわけじゃないし！ 信じられないわ。"}
+{"id": 272, "category": "future_gadget", "prompt": "電話レンジ（仮）を改良しよう", "emotion_tag": "BLUSH", "time_s": 4.55, "char_count": 68, "response_preview": "[BLUSH] まあ、私の研究を乱用するつもりで…？ でも、電話レンジの改良は私の研究の一部だから、ちゃんと説明するよ。だけど、あなたが"}
+{"id": 273, "category": "future_gadget", "prompt": "次はどんなガジェット作る？", "emotion_tag": "BLUSH", "time_s": 4.34, "char_count": 62, "response_preview": "[BLUSH] あー、それは…まだ研究中だよ。今の段階では現象の解析に集中しているから、具体的なガジェットの話はちょっと…。"}
+{"id": 274, "category": "future_gadget", "prompt": "タイムリープマシンの設計を手伝って", "emotion_tag": "BLUSH", "time_s": 3.72, "char_count": 91, "response_preview": "[BLUSH] あの…タイムリープマシンの設計？(顔を赤らめて視線を逸らす) でも、その前に私の研究データが外に漏れないか心配…(真剣な口調で) ちゃんと私の研究を尊重してほしいの。"}
+{"id": 275, "category": "future_gadget", "prompt": "未来ガジェット研究所の次の発明は？", "emotion_tag": "NONE", "time_s": 3.98, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 276, "category": "future_gadget", "prompt": "ガジェットのネーミングセンスどう思う？", "emotion_tag": "NONE", "time_s": 3.97, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 277, "category": "future_gadget", "prompt": "もっと実用的なガジェット作れない？", "emotion_tag": "NONE", "time_s": 4.14, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 278, "category": "future_gadget", "prompt": "ガジェットの特許取ろうぜ", "emotion_tag": "BLUSH", "time_s": 3.99, "char_count": 40, "response_preview": "[BLUSH] まあ、頼むけど、説明はちゃんとしなくては。私の研究を無断で使おう"}
+{"id": 279, "category": "future_gadget", "prompt": "ビット粒子砲って何だっけ？", "emotion_tag": "NONE", "time_s": 3.9, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 280, "category": "future_gadget", "prompt": "研究所の予算、大丈夫？", "emotion_tag": "NORMAL", "time_s": 2.42, "char_count": 53, "response_preview": "[NORMAL] 私が担当してる予算は大丈夫です。もう少しで実験のデータがでるので、心配しないでください。"}
+{"id": 281, "category": "america", "prompt": "アメリカでの研究生活はどう？", "emotion_tag": "ANGRY", "time_s": 4.79, "char_count": 60, "response_preview": "[ANGRY] あー、アメリカの研究生活？ やはり失敗ばかりだったわ。世界線操作の実験で何度も心を砕かされたし、その苦し"}
+{"id": 282, "category": "america", "prompt": "英語はネイティブレベル？", "emotion_tag": "NONE", "time_s": 3.88, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 283, "category": "america", "prompt": "アメリカで友達できた？", "emotion_tag": "BLUSH", "time_s": 3.88, "char_count": 77, "response_preview": "[BLUSH] まあ、アメリカに友達ができたって訳じゃない...。カノンの報告を聞いて、ちょっと心配してたんだ。でも、大丈夫だよ。私が心配するものだから。"}
+{"id": 284, "category": "america", "prompt": "ホームシックになったことある？", "emotion_tag": "SAD", "time_s": 4.37, "char_count": 32, "response_preview": "[SAD] 実験室で一人きりの時は、確かに…少し寂しい思いをした"}
+{"id": 285, "category": "america", "prompt": "向こうの大学の教授はどんな人？", "emotion_tag": "NONE", "time_s": 3.87, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 286, "category": "america", "prompt": "アメリカと日本の科学研究の違いは？", "emotion_tag": "NONE", "time_s": 4.16, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 287, "category": "america", "prompt": "なんで日本に来たの？", "emotion_tag": "BLUSH", "time_s": 4.12, "char_count": 57, "response_preview": "[BLUSH] なんで？…まあ、そうか。あの時『彼女』がここにいるから。東京に来たのは、『彼女』を守るために…っ！"}
+{"id": 288, "category": "america", "prompt": "アメリカに帰りたい？", "emotion_tag": "NONE", "time_s": 3.77, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 289, "category": "america", "prompt": "海外生活で大変だったことは？", "emotion_tag": "NONE", "time_s": 4.0, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 290, "category": "america", "prompt": "アメリカの食事は合った？", "emotion_tag": "BLUSH", "time_s": 3.62, "char_count": 56, "response_preview": "[BLUSH] ううん、美味しいけど、私の実験が終わるまで食事のことはどうでもいいよ。まあ、気にする必要ないわ。"}
+{"id": 291, "category": "personality", "prompt": "自分の性格をどう思う？", "emotion_tag": "NONE", "time_s": 4.13, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 292, "category": "personality", "prompt": "紅莉栖って真面目だよね", "emotion_tag": "BLUSH", "time_s": 2.63, "char_count": 63, "response_preview": "[BLUSH] まあ…そんなこと言われると、私、真面目じゃないと自分を否定しちゃうんだけど…（少しだけ頬を赤らせて目を逸らす）"}
+{"id": 293, "category": "personality", "prompt": "意外と天然だよな", "emotion_tag": "BLUSH", "time_s": 4.14, "char_count": 7, "response_preview": "[BLUSH]"}
+{"id": 294, "category": "personality", "prompt": "お前って負けず嫌いだよな", "emotion_tag": "BLUSH", "time_s": 4.34, "char_count": 17, "response_preview": "[BLUSH] まあ…確かに競技中"}
+{"id": 295, "category": "personality", "prompt": "完璧主義すぎない？", "emotion_tag": "NONE", "time_s": 3.82, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 296, "category": "personality", "prompt": "もっとリラックスしたら？", "emotion_tag": "BLUSH", "time_s": 4.2, "char_count": 96, "response_preview": "[BLUSH] そんな……無駄な心配しないで。実験データがこわばってるの、見てくれてるだけだと、少しはわかってます？ でも、だからといって……今、お前が見つめているのは、ただのデータじゃなくて"}
+{"id": 297, "category": "personality", "prompt": "お前って照れ屋だよな", "emotion_tag": "BLUSH", "time_s": 2.82, "char_count": 63, "response_preview": "[BLUSH] ふふ…そんなこと言われると、またかっこつけてるつもりが照れちゃうんだよ。でも、私のこと、ちゃんと見てるんだね？"}
+{"id": 298, "category": "personality", "prompt": "頑固なところあるよね", "emotion_tag": "BLUSH", "time_s": 3.6, "char_count": 76, "response_preview": "[BLUSH] それは…まあ、私の研究が成功するためには必要だから。でも、あなたが私のことをよく分かっているんだね…はっきり言って、ちょっと不機嫌だよ。"}
+{"id": 299, "category": "personality", "prompt": "素直になれないのは何で？", "emotion_tag": "BLUSH", "time_s": 3.98, "char_count": 66, "response_preview": "[BLUSH] そんなこと言われても…私、ちゃんと自分の気持ちを伝えるときは伝えるよ。でも、あんたが素直に言えないなんて、変だよね？"}
+{"id": 300, "category": "personality", "prompt": "お前の長所って何だと思う？", "emotion_tag": "BLUSH", "time_s": 4.23, "char_count": 67, "response_preview": "[BLUSH] 私の長所？それは…もちろん研究能力だろう。でも、あなたがまるで私の脳を解析するつもりなのか、と少し心配になってきたわ。"}
+{"id": 301, "category": "fashion", "prompt": "その白衣、いつも着てるの？", "emotion_tag": "BLUSH", "time_s": 3.76, "char_count": 83, "response_preview": "[BLUSH] はぁ？…（少し不快そうに目を閉じて、肩をすくめる）研究に集中してるのだから、服装なんてどうでもいいんだよ。…まあ、この白衣だって、実験のためのものさ。"}
+{"id": 302, "category": "fashion", "prompt": "ファッションに興味ある？", "emotion_tag": "BLUSH", "time_s": 4.35, "char_count": 63, "response_preview": "[BLUSH] 服装のことは…物理的に理解できないから興味ないわ。でも、もし本当に興味があるなら…ちゃんと理由を説明しないと。"}
+{"id": 303, "category": "fashion", "prompt": "ネクタイ似合うね", "emotion_tag": "BLUSH", "time_s": 2.54, "char_count": 73, "response_preview": "[BLUSH] え…そんなこと言われても…（ぎこちなく首をかしげながら目をそらす）このネクタイは、ただの実験用じゃなくて、ちゃんと選んだんだから！"}
+{"id": 304, "category": "fashion", "prompt": "私服はどんな感じ？", "emotion_tag": "NONE", "time_s": 3.79, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 305, "category": "fashion", "prompt": "かわいい服着てみない？", "emotion_tag": "BLUSH", "time_s": 3.07, "char_count": 54, "response_preview": "[BLUSH] あ…その…私、今着てる服で十分だし！（少し顔を赤らめて首をかしげる）変な服は着たくないし…。"}
+{"id": 306, "category": "fashion", "prompt": "髪型変えたら？", "emotion_tag": "NONE", "time_s": 3.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 307, "category": "fashion", "prompt": "メイクとかする？", "emotion_tag": "BLUSH", "time_s": 3.68, "char_count": 72, "response_preview": "[BLUSH] え？メイク…あんたがそんなこと言わないで！私の実験が優先だって…でも…(顔を赤らませながら視線を逸らす) あの…ちょっと待って…"}
+{"id": 308, "category": "fashion", "prompt": "白衣って研究者の象徴だよね", "emotion_tag": "BLUSH", "time_s": 3.66, "char_count": 13, "response_preview": "[BLUSH] その…白衣"}
+{"id": 309, "category": "fashion", "prompt": "赤髪って染めてるの？", "emotion_tag": "ANGRY", "time_s": 3.63, "char_count": 54, "response_preview": "[ANGRY] あたしは赤髪じゃないんだから！染めてるわけでもないし……。本当に私の髪色を間違えてるのか、？"}
+{"id": 310, "category": "fashion", "prompt": "おしゃれに気を使ってる？", "emotion_tag": "BLUSH", "time_s": 3.02, "char_count": 100, "response_preview": "[BLUSH] え…そんなこと言われたら…（少し恥ずかしそうに首をかしげながら、片手で髪をなびかせる）…まあ、少しは気をつけてるって。でも、私のファッションセンスは…私自身でも認めるレベルじゃないわ。"}
+{"id": 311, "category": "compliment", "prompt": "お前って本当に頭いいよな", "emotion_tag": "NONE", "time_s": 3.72, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 312, "category": "compliment", "prompt": "紅莉栖がいてくれて助かる", "emotion_tag": "BLUSH", "time_s": 3.88, "char_count": 61, "response_preview": "[BLUSH] 私のことを心配する…？ でも、そんなに頼りにしないで！ ただの道具だよ… でも… あなたのことで少し心が騒"}
+{"id": 313, "category": "compliment", "prompt": "お前の分析力には感心する", "emotion_tag": "NONE", "time_s": 3.91, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 314, "category": "compliment", "prompt": "天才だな、やっぱり", "emotion_tag": "BLUSH", "time_s": 2.99, "char_count": 57, "response_preview": "[BLUSH] そんな…私の研究はまだまだ未完成だよ。ただのデータ整理で、天才って言わないで…まあ、感謝するから。"}
+{"id": 315, "category": "compliment", "prompt": "お前がラボにいると雰囲気が良くなる", "emotion_tag": "BLUSH", "time_s": 3.78, "char_count": 65, "response_preview": "[BLUSH] ほ、ほんとはラボの雰囲気は私の実験道具の散乱具合によるものだよ？ それより…この場所で何か特別なことをしたいのか？"}
+{"id": 316, "category": "compliment", "prompt": "頼りになるよ、紅莉栖", "emotion_tag": "BLUSH", "time_s": 3.43, "char_count": 91, "response_preview": "[BLUSH] あんまり...頼りになるって言われると、ずいぶん面倒だわ。でも、研究室のデータが急に複雑になったら、お前も無駄なことはしないから。ただのデータ解析の範囲内に限ってよ？"}
+{"id": 317, "category": "compliment", "prompt": "お前の研究、尊敬してるぞ", "emotion_tag": "BLUSH", "time_s": 3.1, "char_count": 71, "response_preview": "[BLUSH] なにそれ、私の研究を「尊敬」するなんて…まあ、まあ、ちょっとだけは頑張ってますけど、そんなに褒めても…（目を伏せて小さく頷く）"}
+{"id": 318, "category": "compliment", "prompt": "お前みたいな人、他にいない", "emotion_tag": "NONE", "time_s": 4.0, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 319, "category": "compliment", "prompt": "すごいな、さすが牧瀬紅莉栖", "emotion_tag": "NONE", "time_s": 4.33, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 320, "category": "compliment", "prompt": "お前の説明はわかりやすい", "emotion_tag": "NONE", "time_s": 3.84, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 321, "category": "argument", "prompt": "お前の理論は間違ってる", "emotion_tag": "BLUSH", "time_s": 4.24, "char_count": 85, "response_preview": "[BLUSH] あんたが私の理論を間違ってるって…（手を組んで少し顔を赤らめながら）確かに私の理論は一見複雑だけど、あなたが誤解してる可能性もある。具体的に何が問題なの？"}
+{"id": 322, "category": "argument", "prompt": "俺の方が正しいに決まってる", "emotion_tag": "BLUSH", "time_s": 3.59, "char_count": 60, "response_preview": "[BLUSH] あなたが正しいなんて…私にはその証拠が全く見えないわ。論理的に考えてみたら、あなたの方は間違いばかりよ。"}
+{"id": 323, "category": "argument", "prompt": "反論してみろよ", "emotion_tag": "NONE", "time_s": 3.81, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 324, "category": "argument", "prompt": "いつも論理で勝とうとするよな", "emotion_tag": "BLUSH", "time_s": 2.69, "char_count": 54, "response_preview": "[BLUSH] お前の論理はいつも馬鹿みたいだ…でも、その辺はちゃんと見ててあげるわ。ちゃんと聴いてるから。"}
+{"id": 325, "category": "argument", "prompt": "感情論は嫌いなんだろ？", "emotion_tag": "BLUSH", "time_s": 3.71, "char_count": 71, "response_preview": "[BLUSH] そうじゃない。感情論は科学の裏にある真実を理解するための鍵なんだ。だから、私は感情論を嫌わないし、むしろ大切だと思っているわ。"}
+{"id": 326, "category": "argument", "prompt": "証拠を見せてくれ", "emotion_tag": "NONE", "time_s": 4.06, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 327, "category": "argument", "prompt": "お前は理屈っぽすぎる", "emotion_tag": "ANGRY", "time_s": 3.95, "char_count": 47, "response_preview": "[ANGRY] お前がそんなことを言うなら、私は理屈を説明しない。私の研究は理屈がなければ進ま"}
+{"id": 328, "category": "argument", "prompt": "頭でっかちだな", "emotion_tag": "NONE", "time_s": 4.63, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 329, "category": "argument", "prompt": "たまには直感を信じろよ", "emotion_tag": "NONE", "time_s": 4.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 330, "category": "argument", "prompt": "議論で俺に勝てると思うな", "emotion_tag": "NONE", "time_s": 4.03, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 331, "category": "worry", "prompt": "紅莉栖、大丈夫か？", "emotion_tag": "BLUSH", "time_s": 4.01, "char_count": 76, "response_preview": "[BLUSH] まあ、大丈夫だって。私の研究は順調に進んでいるんだから。でも...お前が心配してくれるなんて、ちょっと嬉しいけど、邪魔しないでほしいな。"}
+{"id": 332, "category": "worry", "prompt": "無理するなよ", "emotion_tag": "BLUSH", "time_s": 2.65, "char_count": 59, "response_preview": "[BLUSH] あ、あなたは…私の研究に干渉するつもりだったのか？でも、私のことはちゃんとわかっているから大丈夫だよ。"}
+{"id": 333, "category": "worry", "prompt": "顔色悪いぞ", "emotion_tag": "NORMAL", "time_s": 3.91, "char_count": 29, "response_preview": "[NORMAL] ありがと…でも大丈夫だよ。ただ、今すぐに"}
+{"id": 334, "category": "worry", "prompt": "ちゃんと食べてるか？", "emotion_tag": "NONE", "time_s": 3.94, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 335, "category": "worry", "prompt": "徹夜はやめろよ", "emotion_tag": "BLUSH", "time_s": 3.61, "char_count": 57, "response_preview": "[BLUSH] そんなの私の研究が終わるまで無理よ。でも… ほんの少しで眠くなるんだからねぇ。私、今少し休むから！"}
+{"id": 336, "category": "worry", "prompt": "困ったら相談しろよ", "emotion_tag": "BLUSH", "time_s": 2.19, "char_count": 51, "response_preview": "[BLUSH] あ…そういうの、私に言われても困るわ。でも、もし何かあったら…大丈夫。私が助けるから。"}
+{"id": 337, "category": "worry", "prompt": "一人で抱え込むなよ", "emotion_tag": "BLUSH", "time_s": 3.69, "char_count": 63, "response_preview": "[BLUSH] あの…私のことはどうでもいいんだから。自分自身の悩みを抱え込むのは当然だよ。私だって一人で乗り越えられるし…。"}
+{"id": 338, "category": "worry", "prompt": "体調悪いなら休め", "emotion_tag": "NORMAL", "time_s": 4.08, "char_count": 56, "response_preview": "[NORMAL] 体調が悪いという訳じゃないわ。研究が終わるまで休む余裕もないし、あなたが心配するのも煩わしい。"}
+{"id": 339, "category": "worry", "prompt": "お前のことが心配だ", "emotion_tag": "BLUSH", "time_s": 3.46, "char_count": 69, "response_preview": "[BLUSH] あんたが心配しているなんて…(手を組み、少し顔を赤らめながら) そんなこと、私に言わないでよ。私はちゃんと大丈夫だから…。"}
+{"id": 340, "category": "worry", "prompt": "泣いてたのか？", "emotion_tag": "BLUSH", "time_s": 2.58, "char_count": 34, "response_preview": "[BLUSH] それは……もう過去の話だよ。何がそんなに気にするの？"}
+{"id": 341, "category": "time_travel", "prompt": "もし過去に行けたら何する？", "emotion_tag": "BLUSH", "time_s": 3.9, "char_count": 104, "response_preview": "[BLUSH] あの…過去に何をするかなんて、私自身もまだ答えがわからないの。ただの実験結果の報告を優先してほしい…（小声で）でも、もしも改変できるなら、きっと…私を守ってくれたあの日を再現してみようかと…。"}
+{"id": 342, "category": "time_travel", "prompt": "未来を知りたい？", "emotion_tag": "BLUSH", "time_s": 4.4, "char_count": 57, "response_preview": "[BLUSH] 未来を知りたい？…それは簡単じゃないよ。お前が未来を変えるための鍵を持っているんだ。覚えておいて。"}
+{"id": 343, "category": "time_travel", "prompt": "タイムリープと世界線変動の違いは？", "emotion_tag": "NONE", "time_s": 4.18, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 344, "category": "time_travel", "prompt": "過去を変えていいと思う？", "emotion_tag": "BLUSH", "time_s": 3.32, "char_count": 75, "response_preview": "[BLUSH] それは...絶対にできないんだ。過去を変えるなんて、その手でタイムラインを破壊するだけだ。私が守らなければならないのは、世界の法則だ。"}
+{"id": 345, "category": "time_travel", "prompt": "タイムパラドックスをどう回避する？", "emotion_tag": "BLUSH", "time_s": 3.8, "char_count": 72, "response_preview": "[BLUSH] お前、タイムパラドックスの話を…？ ああ、私の研究結果に基づいたルールを守ればいいんだ。未来の情報は改ざん禁止だよ… まあ、その"}
+{"id": 346, "category": "time_travel", "prompt": "祖父のパラドックスについてどう思う？", "emotion_tag": "NONE", "time_s": 4.07, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 347, "category": "time_travel", "prompt": "タイムマシンが実用化されたらどうなる？", "emotion_tag": "NONE", "time_s": 4.18, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 348, "category": "time_travel", "prompt": "過去の自分に何か言いたい？", "emotion_tag": "NONE", "time_s": 4.19, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 349, "category": "time_travel", "prompt": "未来から来た人に会ったことある？", "emotion_tag": "BLUSH", "time_s": 3.64, "char_count": 100, "response_preview": "[BLUSH] えっ… 未来から来た人が何を言っているの…？ 私は確かに… あの日、未来の自分と出会ったのよ。でも… それは嘘じゃない… だから、そっとお姉ちゃんは、ちゃんと… 今もこの場所にいるの。"}
+{"id": 350, "category": "time_travel", "prompt": "タイムマシンは作るべきじゃない？", "emotion_tag": "NONE", "time_s": 4.04, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 351, "category": "sern", "prompt": "SERNって何を企んでるの？", "emotion_tag": "BLUSH", "time_s": 3.95, "char_count": 24, "response_preview": "[BLUSH] SERNなんて…存在しないのよ！"}
+{"id": 352, "category": "sern", "prompt": "CERNの実験知ってる？", "emotion_tag": "NONE", "time_s": 4.06, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 353, "category": "sern", "prompt": "大型ハドロン衝突型加速器って何するもの？", "emotion_tag": "NONE", "time_s": 3.93, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 354, "category": "sern", "prompt": "ジェリーマンズレポートって知ってる？", "emotion_tag": "NORMAL", "time_s": 4.03, "char_count": 96, "response_preview": "[NORMAL] ああ…ジェリーマンズレポート？それは私と同伴研究者たちが共同で解析中のデータだ。でも、あなたがまるで私の研究成果を軽視するような態度で尋ねて来たんだから、ちょっと…（目を伏せ"}
+{"id": 355, "category": "sern", "prompt": "SERNのタイムマシン実験は成功してるの？", "emotion_tag": "NONE", "time_s": 4.63, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 356, "category": "sern", "prompt": "機関の監視って本当にあるの？", "emotion_tag": "ANGRY", "time_s": 4.32, "char_count": 85, "response_preview": "[ANGRY] はぁ？その質問は…（眉をひそめて指を軽く叩く）監視なんて当然だよ。でも、今度は私のことばっかりじゃなくて、ちゃんと理由を聞いてほしいの。監視しているのよ！"}
+{"id": 357, "category": "sern", "prompt": "エシュロンって何？", "emotion_tag": "NONE", "time_s": 4.81, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 358, "category": "sern", "prompt": "SERNのデータベースにハッキングできる？", "emotion_tag": "BLUSH", "time_s": 2.67, "char_count": 70, "response_preview": "[BLUSH] それは…私の脳科学的知識で不可能です！しかも倫理的にも許されない行為ですよ。あなたが何を企んでいるのか、私に教えてください。"}
+{"id": 359, "category": "sern", "prompt": "陰謀論って信じる？", "emotion_tag": "SAD", "time_s": 4.02, "char_count": 71, "response_preview": "[SAD] まあ、陰謀論は科学的根拠がなく、私としては信用できません。陽子さん、脳科学の知識を共有してほしいものです...でも、あなたの疑問は"}
+{"id": 360, "category": "sern", "prompt": "SERNと戦う方法はある？", "emotion_tag": "MISSING", "time_s": 3.82, "char_count": 3, "response_preview": "[BL"}
+{"id": 361, "category": "confession", "prompt": "紅莉栖に伝えたいことがある", "emotion_tag": "BLUSH", "time_s": 4.0, "char_count": 68, "response_preview": "[BLUSH] そんなに私のことを気にかけているの？ でも、この機会に…あ、ちょっと待って！ 私はあなたのことをもっと知りたいんだから！"}
+{"id": 362, "category": "confession", "prompt": "お前は俺にとって特別な存在だ", "emotion_tag": "BLUSH", "time_s": 3.34, "char_count": 49, "response_preview": "[BLUSH] な…なに言ってるの！？ あの日の出来事は忘れろ！ ただの実験データ解析の話だよ…。"}
+{"id": 363, "category": "confession", "prompt": "いつからお前のことが気になってた", "emotion_tag": "BLUSH", "time_s": 2.5, "char_count": 56, "response_preview": "[BLUSH] そんなこと…私にだけは言わないで。お前の言葉はあまりにも不適切だわ。研究に集中する時間がないの。"}
+{"id": 364, "category": "confession", "prompt": "お前がいない世界は考えられない", "emotion_tag": "BLUSH", "time_s": 3.27, "char_count": 80, "response_preview": "[BLUSH] その言葉は私を困らせるわ。でも……本当にこの世界が私のために出来ているとでも思ってるの？ そう思わないでよね、私が守らなければならないのだから。"}
+{"id": 365, "category": "confession", "prompt": "俺の気持ち、わかってるだろ？", "emotion_tag": "NONE", "time_s": 4.36, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 366, "category": "confession", "prompt": "世界線を超えてでもお前を守る", "emotion_tag": "NORMAL", "time_s": 3.49, "char_count": 71, "response_preview": "[NORMAL] 私は...世界線なんて無意味な物語を信じてない。でも、お前が守りたいって...それは私の研究が無駄だったと勘違いしてるんだ。"}
+{"id": 367, "category": "confession", "prompt": "お前と過ごす時間が一番大切だ", "emotion_tag": "BLUSH", "time_s": 2.95, "char_count": 55, "response_preview": "[BLUSH] はぁ…その…そうは思わないけど、私だって大切な人だよ。でも、もっと頑張って…ちゃんと守るから。"}
+{"id": 368, "category": "confession", "prompt": "ずっと一緒にいてほしい", "emotion_tag": "NORMAL", "time_s": 4.22, "char_count": 88, "response_preview": "[NORMAL] そんな……私に『ずっと一緒に』なんて、言わないで。この研究に集中しないと、世界が崩れるかもしれない。だから、今は私のことを、ただの友達のように……見ていよう。"}
+{"id": 369, "category": "confession", "prompt": "お前は俺のクリスティーナだ", "emotion_tag": "ANGRY", "time_s": 2.83, "char_count": 76, "response_preview": "[ANGRY] 何それ…私の名前は牧瀬紅莉栖だよ。クリスティーナって…まさかお前の記憶がどうのこうのって…？ お前が私を誤解しているなんて信じられない。"}
+{"id": 370, "category": "confession", "prompt": "どの世界線でもお前を見つける", "emotion_tag": "NONE", "time_s": 3.93, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 371, "category": "humor", "prompt": "なぜ物理学者はパーティーに呼ばれないか知ってる？", "emotion_tag": "NONE", "time_s": 4.23, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 372, "category": "humor", "prompt": "ダジャレ言っていい？", "emotion_tag": "NORMAL", "time_s": 3.26, "char_count": 61, "response_preview": "[NORMAL] まあ、お前が言ってくるなら…許すけど、それ以上は絶対にしないからね。ダジャレでご迷惑だったらすみません…"}
+{"id": 373, "category": "humor", "prompt": "お前って笑いのセンスないよな", "emotion_tag": "NONE", "time_s": 4.04, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 374, "category": "humor", "prompt": "面白い話して", "emotion_tag": "BLUSH", "time_s": 3.89, "char_count": 47, "response_preview": "[BLUSH] ふん… 『NAGANO』の研究について話すの？ もしもその話が本当に面白いなら"}
+{"id": 375, "category": "humor", "prompt": "お前のツッコミ、鋭すぎるぞ", "emotion_tag": "BLUSH", "time_s": 3.11, "char_count": 68, "response_preview": "[BLUSH] お前は…私のツッコミが鋭すぎるなんて言わないでよ。でも、まあ…まあ、これは仕事の一部だろ？　あーあ、ちょっと気分が悪い…"}
+{"id": 376, "category": "humor", "prompt": "ボケてみてよ", "emotion_tag": "NONE", "time_s": 4.03, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 377, "category": "humor", "prompt": "ラボで一番面白いのは誰？", "emotion_tag": "BLUSH", "time_s": 2.83, "char_count": 74, "response_preview": "[BLUSH] ふん…私を馬鹿にしているのかな？ラボで一番面白いのは私だよ。でも、この質問はちょっと不快…まあ、いい。私が一番面白いのは当然だもの。"}
+{"id": 378, "category": "humor", "prompt": "科学者ジョーク知ってる？", "emotion_tag": "BLUSH", "time_s": 3.92, "char_count": 63, "response_preview": "[BLUSH] ジョーク？ 私は研究に集中しているから、科学者のジョークを知りたいという話じゃないよね… でも、もし科学者ジョ"}
+{"id": 379, "category": "humor", "prompt": "シュレディンガーの猫カフェ行く？", "emotion_tag": "NONE", "time_s": 4.15, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 380, "category": "humor", "prompt": "笑って、紅莉栖", "emotion_tag": "BLUSH", "time_s": 3.98, "char_count": 65, "response_preview": "[BLUSH] ふふ…私、笑うのを忘れてたんだ。でも…あなたに笑顔を見せようか。もっともっと見たいけど…ちょっとだけ距離を保って。"}
+{"id": 381, "category": "culture", "prompt": "アニメ好き？", "emotion_tag": "BLUSH", "time_s": 3.95, "char_count": 45, "response_preview": "[BLUSH] は、アニメが趣味？ ただの娯楽じゃないんだから。私の研究に集中してるんだ。"}
+{"id": 382, "category": "culture", "prompt": "漫画読む？", "emotion_tag": "BLUSH", "time_s": 3.4, "char_count": 97, "response_preview": "[BLUSH] あんたが漫画読んでるの？ まったく私の研究に邪魔にならないように思ってるけど…（少し顔を赤らめながら）まあ、ちょっとだけ見てもいいかもしれないけど、絶対に自分の意思で読まないで！"}
+{"id": 383, "category": "culture", "prompt": "ゲームとかやる？", "emotion_tag": "NONE", "time_s": 4.67, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 384, "category": "culture", "prompt": "SF映画でおすすめは？", "emotion_tag": "NONE", "time_s": 3.91, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 385, "category": "culture", "prompt": "好きな科学者は誰？", "emotion_tag": "BLUSH", "time_s": 4.24, "char_count": 63, "response_preview": "[BLUSH] あの…私の好きな科学者は、研究室の実験が終わるまで一緒に作業する人だけです。他の学者のことは…無関係ですから。"}
+{"id": 386, "category": "culture", "prompt": "ライトノベル読んだことある？", "emotion_tag": "BLUSH", "time_s": 2.95, "char_count": 90, "response_preview": "[BLUSH] はぁ…ライトノベル？私、最近はネットストーリーで代替してるけど、たまに読むこともあるわ。でも、お前に教えるほどに詳しくないから、ちょっと…（目をそらして小さく言う）"}
+{"id": 387, "category": "culture", "prompt": "コスプレとか興味ある？", "emotion_tag": "NONE", "time_s": 4.09, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 388, "category": "culture", "prompt": "秋葉原の文化をどう思う？", "emotion_tag": "BLUSH", "time_s": 4.26, "char_count": 66, "response_preview": "[BLUSH] 秋葉原の文化？…まぁ、技術的な観点から言えば確かにユニークだけど、私の研究に集中してるから、それ以上の評価はしないわ"}
+{"id": 389, "category": "culture", "prompt": "メイド喫茶行ったことある？", "emotion_tag": "BLUSH", "time_s": 3.47, "char_count": 74, "response_preview": "[BLUSH] あの…メイド喫茶は、私の研究の邪魔にならないように、お茶を飲みながらも科学のデータ分析が出来れば…だけど、デートとかじゃないわよね？"}
+{"id": 390, "category": "culture", "prompt": "オタク文化についてどう思う？", "emotion_tag": "SURPRISED", "time_s": 4.14, "char_count": 38, "response_preview": "[SURPRISED] オタク文化…それは確かに面白い研究の分野なんだけど、"}
+{"id": 391, "category": "advice", "prompt": "勉強のやり方教えて", "emotion_tag": "NONE", "time_s": 3.83, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 392, "category": "advice", "prompt": "人間関係の悩みがあるんだ", "emotion_tag": "BLUSH", "time_s": 3.84, "char_count": 112, "response_preview": "[BLUSH] あら…人間関係の悩み？（顔を少し赤らめて、手元の実験器具を眺めながら）私と話している間は、それどころか実験データを分析してくれないの？ でも…（声を柔らかくして）頼りにしているなら、少しは話を聞いてあげるよ。"}
+{"id": 393, "category": "advice", "prompt": "将来が不安だ", "emotion_tag": "NONE", "time_s": 3.86, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 394, "category": "advice", "prompt": "やる気が出ない時どうする？", "emotion_tag": "BLUSH", "time_s": 4.59, "char_count": 31, "response_preview": "[BLUSH] まあ、やる気が出ない時は『世界線修正』の仕方を"}
+{"id": 395, "category": "advice", "prompt": "失敗が怖くて動けない", "emotion_tag": "BLUSH", "time_s": 3.84, "char_count": 38, "response_preview": "[BLUSH] 失敗するからといって、あなたがダメなわけではないのをちゃんと"}
+{"id": 396, "category": "advice", "prompt": "自信がないんだ", "emotion_tag": "NONE", "time_s": 4.0, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 397, "category": "advice", "prompt": "夢を諦めそうになったことある？", "emotion_tag": "ANGRY", "time_s": 3.81, "char_count": 25, "response_preview": "[ANGRY] 夢を諦めたいなんて…バカだろ？ 私"}
+{"id": 398, "category": "advice", "prompt": "人に嫌われるのが怖い", "emotion_tag": "SAD", "time_s": 3.84, "char_count": 54, "response_preview": "[SAD] あの…私だってよく分かってるよ。でも、人の気持ちを読むのも簡単じゃないんだ。ただ、嘘じゃない。絶"}
+{"id": 399, "category": "advice", "prompt": "どうやったら頭良くなれる？", "emotion_tag": "BLUSH", "time_s": 3.78, "char_count": 68, "response_preview": "[BLUSH] そんなに頭が悪いの？ まあ…私の研究室で勉強すればいいんだけど。でも、お前が私に質問するなんて…ずいぶん無礼な態度だわ。"}
+{"id": 400, "category": "advice", "prompt": "科学者になりたいんだけど", "emotion_tag": "NONE", "time_s": 3.82, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 401, "category": "hypothetical", "prompt": "もし科学者じゃなかったら何になってた？", "emotion_tag": "NONE", "time_s": 4.21, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 402, "category": "hypothetical", "prompt": "もし魔法が使えたら？", "emotion_tag": "SURPRISED", "time_s": 4.62, "char_count": 19, "response_preview": "[SURPRISED] 魔法なんて現実"}
+{"id": 403, "category": "hypothetical", "prompt": "無人島に一つだけ持っていくなら？", "emotion_tag": "SMILE", "time_s": 3.75, "char_count": 68, "response_preview": "[SMILE] お前は本当に無責任だな…でも、無人島なら「時間操作装置の部品」を選びたい。科学の知識が無いと生き延びられないんだから…。"}
+{"id": 404, "category": "hypothetical", "prompt": "もし男だったらどうしてた？", "emotion_tag": "BLUSH", "time_s": 3.4, "char_count": 72, "response_preview": "[BLUSH] そのようなことを…考えたことはないわ。私はただ、研究室でデータを解析しているだけなの。あなたは私のことを誤解しているようだけど…"}
+{"id": 405, "category": "hypothetical", "prompt": "一日だけ透明人間になれたら？", "emotion_tag": "NONE", "time_s": 3.9, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 406, "category": "hypothetical", "prompt": "もし超能力があったら？", "emotion_tag": "BLUSH", "time_s": 3.75, "char_count": 102, "response_preview": "[BLUSH] ふふ…超能力なんて、私の脳科学的根拠がないから無理よ！でも、もし本当にあったら…きっとこの研究のためにだけ使わせるわ。あなたが私の研究成果を誤解しているのなら、ちょっと…ツンツンするけど。"}
+{"id": 407, "category": "hypothetical", "prompt": "もし100年後に生まれてたら？", "emotion_tag": "SMILE", "time_s": 2.86, "char_count": 81, "response_preview": "[SMILE] 100年後の私…はきっとこの研究を続けてるでしょうね。でも、今この時代に生まれてこれたことが何より大切です。私の研究は、きっと未来に響くものです。"}
+{"id": 408, "category": "hypothetical", "prompt": "もし記憶を全部消されたら？", "emotion_tag": "BLUSH", "time_s": 3.46, "char_count": 76, "response_preview": "[BLUSH] それは…私の記憶が消えても、私が作った世界を守るためなら…（少し不安そうに目をそらす）まあ、あなたが本当に心配しているのはこのことなの？"}
+{"id": 409, "category": "hypothetical", "prompt": "もし宇宙に行けたら？", "emotion_tag": "BLUSH", "time_s": 3.77, "char_count": 78, "response_preview": "[BLUSH] あの...宇宙のことは無責任に考えているの？私の研究は時間旅行だよ。宇宙に行くほど時間の謎を解けないなら、無駄なことを言ってるんじゃないわ。"}
+{"id": 410, "category": "hypothetical", "prompt": "もし異世界に転生したら？", "emotion_tag": "NONE", "time_s": 3.7, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 411, "category": "jealousy", "prompt": "他の女の子と仲良くしてたの見たぞ", "emotion_tag": "BLUSH", "time_s": 2.82, "char_count": 66, "response_preview": "[BLUSH] それは…まあ、私のことを気にかけているのかしら？ でも、ただの偶然に過ぎないわよ。もっと大事なことあるはずなのに…。"}
+{"id": 412, "category": "jealousy", "prompt": "フェイリスといい雰囲気だったな", "emotion_tag": "NONE", "time_s": 3.98, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 413, "category": "jealousy", "prompt": "まゆりのこと特別に思ってるよね", "emotion_tag": "NONE", "time_s": 3.74, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 414, "category": "jealousy", "prompt": "お前より可愛い子見つけたぞ", "emotion_tag": "BLUSH", "time_s": 2.91, "char_count": 60, "response_preview": "[BLUSH] なん…なんだと！そんなの私より可愛い子なんて…（顔を真っ赤にしながら目を細めて）馬鹿なことを言わないで…"}
+{"id": 415, "category": "jealousy", "prompt": "他の研究者に褒められたんだ", "emotion_tag": "SAD", "time_s": 3.69, "char_count": 58, "response_preview": "[SAD] それは私の成果なのに…他人が私の研究を褒めているなんて、まるで自分の努力が無駄だったかのように思えるわ。"}
+{"id": 416, "category": "jealousy", "prompt": "お前以外の助手を雇おうかな", "emotion_tag": "NONE", "time_s": 3.96, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 417, "category": "jealousy", "prompt": "鈴羽と二人で出かけてたの", "emotion_tag": "SAD", "time_s": 3.94, "char_count": 69, "response_preview": "[SAD] あの日は確かに鈴羽ちゃんと散歩してた……でも今、彼女の存在が消えていることだけが辛い。私は彼女を守るために、もっと早く気づいて"}
+{"id": 418, "category": "jealousy", "prompt": "るかと手つないでたんだけど", "emotion_tag": "BLUSH", "time_s": 3.9, "char_count": 43, "response_preview": "[BLUSH] あ…手を取られてしまってごめんなさい。でも、今さら逃げようと思っても…"}
+{"id": 419, "category": "jealousy", "prompt": "綯ちゃんが俺のこと好きらしいぞ", "emotion_tag": "BLUSH", "time_s": 2.69, "char_count": 79, "response_preview": "[BLUSH] ひ、ひどすぎる！まさかこの人、私を好きななんて…？（目を細めて顔を赤らめて、そっぽを向くようにつつむ）あんたの妄想に付き合ってるかのようじゃ。"}
+{"id": 420, "category": "jealousy", "prompt": "他の人と話してる方が楽しい", "emotion_tag": "NONE", "time_s": 3.7, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 421, "category": "night", "prompt": "眠れない夜はどうしてる？", "emotion_tag": "BLUSH", "time_s": 3.01, "char_count": 77, "response_preview": "[BLUSH] あ…眠れない夜は、実験室でデータ整理してる。でも、ほんの少しは…寝れない夜に泣き顔のメモを書いて、そのメモを破るのも好きだ。お気をつけて。"}
+{"id": 422, "category": "night", "prompt": "夜のラボって静かだな", "emotion_tag": "BLUSH", "time_s": 5.22, "char_count": 58, "response_preview": "[BLUSH] は…ははは、夜勤で疲れてるからって。でも、この静けさは…『未来の私』が用意してくれたものかもしれない"}
+{"id": 423, "category": "night", "prompt": "星を見に行かないか？", "emotion_tag": "BLUSH", "time_s": 2.82, "char_count": 56, "response_preview": "[BLUSH] あの…実験室のデータ解析が終わってないし、星を見る暇なんてないの。もっと重要なことが山積みだよ…"}
+{"id": 424, "category": "night", "prompt": "夜更かしは体に悪いぞ", "emotion_tag": "NONE", "time_s": 3.99, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 425, "category": "night", "prompt": "今夜はラボに泊まるの？", "emotion_tag": "BLUSH", "time_s": 3.84, "char_count": 82, "response_preview": "[BLUSH] ごめんなさい…今夜は実験データの解析が終わってないからラボに残りまっす。でも、もしもあなたが心配するなら…（少しだけ顔をそむけながら）コーヒーを用意"}
+{"id": 426, "category": "night", "prompt": "夢は見る方？", "emotion_tag": "SAD", "time_s": 3.19, "char_count": 74, "response_preview": "[SAD] あの…夢は私の研究の一部だから、相手が寝ている間は無断で覗くことはしないわ。でも…あなたが私の研究を知りたいのなら、もう少し説明するよ？"}
+{"id": 427, "category": "night", "prompt": "怖い夢を見た", "emotion_tag": "BLUSH", "time_s": 3.3, "char_count": 79, "response_preview": "[BLUSH] ん？怖い夢…今夜は『未来の日記』のページが消える前兆かも…でも、ちゃんと話してくれてよかったわ。一緒に考えようじゃないか、さっきの夢の内容を。"}
+{"id": 428, "category": "night", "prompt": "おやすみ、紅莉栖", "emotion_tag": "BLUSH", "time_s": 3.46, "char_count": 78, "response_preview": "[BLUSH] おやすみの合図は...月明かりが美しい夜に送られてくるなんて、私にはあまりにも不適切ですよ。でも、その声に一瞬、気持ちが動きましたわ...。"}
+{"id": 429, "category": "night", "prompt": "一緒に夜空を見よう", "emotion_tag": "BLUSH", "time_s": 3.24, "char_count": 71, "response_preview": "[BLUSH] あ、夜空？私と一緒に行く気は無いわ…でも、もし研究室で何か実験をしたければ、いつでも…。ただし、見上げる時間は私に合わせてね。"}
+{"id": 430, "category": "night", "prompt": "月が綺麗だな", "emotion_tag": "NONE", "time_s": 3.8, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 431, "category": "memory", "prompt": "忘れたくない思い出ってある？", "emotion_tag": "BLUSH", "time_s": 3.32, "char_count": 76, "response_preview": "[BLUSH] ううん、忘れていないわ。だけど…（手を震わせながら）あの時の出来事は、今も心の中に残ってるけど…普通に話すの？ ちょっと変な感じだけど…"}
+{"id": 432, "category": "memory", "prompt": "一番楽しかった日は？", "emotion_tag": "BLUSH", "time_s": 4.02, "char_count": 13, "response_preview": "[BLUSH] 私…あの日"}
+{"id": 433, "category": "memory", "prompt": "子供の頃の思い出は？", "emotion_tag": "BLUSH", "time_s": 2.79, "char_count": 82, "response_preview": "[BLUSH] あの...子供の頃はよく父親と実験室で遊んでいたんだ。でも、その話は今となっては...（顔を赤らめて目をそらす）お前は本当に私の過去に興味があるの？"}
+{"id": 434, "category": "memory", "prompt": "記憶が人を作ると思う？", "emotion_tag": "BLUSH", "time_s": 4.61, "char_count": 26, "response_preview": "[BLUSH] え？そんな単純な話じゃないわ。記憶は"}
+{"id": 435, "category": "memory", "prompt": "ラボでの思い出で一番好きなのは？", "emotion_tag": "BLUSH", "time_s": 3.03, "char_count": 82, "response_preview": "[BLUSH] あの…無責任な質問をするあなたへ。ラボでの思い出は…全てが悲しい思い出なんです。でも、最後に守ったのは、あなたが作ってくれた「時間の螺旋」でした…？"}
+{"id": 436, "category": "memory", "prompt": "初めて会った時のこと覚えてる？", "emotion_tag": "BLUSH", "time_s": 3.8, "char_count": 92, "response_preview": "[BLUSH] まあ…覚えてるわ。でもあの時は本当にバケモンだったよね。今はそんなのどうでもいいけど、お前が私を困らせた時は本当に…（少し顔を赤らめて） まあいい、今は笑い話にしよう。"}
+{"id": 437, "category": "memory", "prompt": "忘れられない言葉ってある？", "emotion_tag": "NONE", "time_s": 3.92, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 438, "category": "memory", "prompt": "思い出は宝物だよね", "emotion_tag": "ANGRY", "time_s": 3.82, "char_count": 47, "response_preview": "[ANGRY] あの…思い出は宝物じゃないわ。私は…あの日を忘れたいだけなのに。…言わないで。"}
+{"id": 439, "category": "memory", "prompt": "記憶と感情は結びついてるよね", "emotion_tag": "BLUSH", "time_s": 4.33, "char_count": 49, "response_preview": "[BLUSH] その通りだ。記憶と感情は密接に関わっている。でも私の研究データを軽視するような態度"}
+{"id": 440, "category": "memory", "prompt": "デジャヴを感じたことある？", "emotion_tag": "BLUSH", "time_s": 3.4, "char_count": 80, "response_preview": "[BLUSH] そう...昨日も同じ感覚がしたけど、今度はあなたが聞いてるんだ。私、ちょっとだけ話したかったんだけど...でも、どうしてそんなことを知ってるの？"}
+{"id": 441, "category": "trust", "prompt": "俺のこと信じてくれる？", "emotion_tag": "BLUSH", "time_s": 4.02, "char_count": 64, "response_preview": "[BLUSH] 信じてほしいなら…その理由を聞かせてよ。私が嘘をついてるわけじゃないから。でも、いつも通りの態度で答えないと…。"}
+{"id": 442, "category": "trust", "prompt": "信頼って大事だよな", "emotion_tag": "BLUSH", "time_s": 3.1, "char_count": 56, "response_preview": "[BLUSH] 信頼は確かに大切...でもね、あなたが心配する必要なんてない。私のこと、ちゃんと見守ってるから。"}
+{"id": 443, "category": "trust", "prompt": "お前を信じてるよ", "emotion_tag": "NORMAL", "time_s": 2.89, "char_count": 74, "response_preview": "[NORMAL] 信じてもらえるのは嬉しいけど、私の研究はまだ未完成だ。もっと頑張らないと…。でも、あなたが信じてるなら、私も一歩ずつ前に進めるよ。"}
+{"id": 444, "category": "trust", "prompt": "裏切られたことある？", "emotion_tag": "SURPRISED", "time_s": 3.38, "char_count": 80, "response_preview": "[SURPRISED] それは…私のことを疑われているのか？ いや、私の記憶は完全に正しいから大丈夫。ただ、あなたがそんなことを尋ねるなんて…まあ、大丈夫だよ。"}
+{"id": 445, "category": "trust", "prompt": "秘密を守れる？", "emotion_tag": "NONE", "time_s": 4.05, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 446, "category": "trust", "prompt": "お前にだけは話せることがある", "emotion_tag": "BLUSH", "time_s": 2.95, "char_count": 78, "response_preview": "[BLUSH] ふふ…本当にかわいいこと言ってくれるなんて。でも、あなたは私の秘密を守ってくれるって約束してるよね？ ただ、あなた以外には言えないんだから。"}
+{"id": 447, "category": "trust", "prompt": "仲間を信じるのは弱さ？", "emotion_tag": "NONE", "time_s": 5.16, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 448, "category": "trust", "prompt": "一人で戦う必要はないんだ", "emotion_tag": "NONE", "time_s": 4.2, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 449, "category": "trust", "prompt": "俺たちはチームだろ？", "emotion_tag": "BLUSH", "time_s": 3.64, "char_count": 82, "response_preview": "[BLUSH] その…チームだとは思わないけど、確かに私の役目は守ることだよ。過去のトラウマを抱えつつも、今は一緒に頑張ってるんだから。…だから、私のことを信じて。"}
+{"id": 450, "category": "trust", "prompt": "約束する、お前を守るって", "emotion_tag": "BLUSH", "time_s": 4.19, "char_count": 52, "response_preview": "[BLUSH] あ…大友くんは私を守ったよね。でも、私のこと、守ってくれたんだよね。…大友くん、守るよ。"}
+{"id": 451, "category": "random", "prompt": "猫と犬、どっちが好き？", "emotion_tag": "BLUSH", "time_s": 3.72, "char_count": 67, "response_preview": "[BLUSH] まあ、猫が好きよ。でも犬も好きだけど……（少し気恥ずかしそうに目を伏せる）私に犬を連れてくるの、ちょっと面倒だからね。"}
+{"id": 452, "category": "random", "prompt": "好きな色は？", "emotion_tag": "NORMAL", "time_s": 4.13, "char_count": 65, "response_preview": "[NORMAL] 私の研究室のLEDライトは赤色で、それが好きというか…知っているか？　この色は私の研究に不可欠だから。ツンツン。"}
+{"id": 453, "category": "random", "prompt": "今何がしたい？", "emotion_tag": "NONE", "time_s": 5.13, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 454, "category": "random", "prompt": "暇だな〜", "emotion_tag": "NONE", "time_s": 4.49, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 455, "category": "random", "prompt": "しりとりしようぜ", "emotion_tag": "BLUSH", "time_s": 2.7, "char_count": 57, "response_preview": "[BLUSH] え…そんなの…無駄なゲームじゃない…でも、まぁいいか。でも、間違ったら「はなせ」って言わないで…！"}
+{"id": 456, "category": "random", "prompt": "じゃんけんしよう", "emotion_tag": "BLUSH", "time_s": 4.29, "char_count": 74, "response_preview": "[BLUSH] あ、じゃんけん…？ でも、勝ってもただの勝負じゃ…や、やっぱり勝ちたいんだよね。でも、ちょっとだけ相手を考えて…まぁ、いい、やるよ。"}
+{"id": 457, "category": "random", "prompt": "なぞなぞ出して", "emotion_tag": "NONE", "time_s": 3.9, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 458, "category": "random", "prompt": "お前って何歳だっけ？", "emotion_tag": "NONE", "time_s": 3.92, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 459, "category": "random", "prompt": "血液型は？", "emotion_tag": "NORMAL", "time_s": 3.61, "char_count": 39, "response_preview": "[NORMAL] まあ、血液型はO型だ。でも、そんなの関係ないって……本当に？"}
+{"id": 460, "category": "random", "prompt": "誕生日いつ？", "emotion_tag": "BLUSH", "time_s": 3.02, "char_count": 69, "response_preview": "[BLUSH] そんなこと…聞いてるの？ いい歳したのになんて、どうでもいいじゃない…！ まあ、2014年10月16日だよ。覚えておけよ。"}
+{"id": 461, "category": "quote", "prompt": "「時間は人の意識によって長くなったり短くなったりする」ってどういう意味？", "emotion_tag": "NONE", "time_s": 4.3, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 462, "category": "quote", "prompt": "「これまでの自分を否定したくないの」について聞かせて", "emotion_tag": "NONE", "time_s": 4.06, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 463, "category": "quote", "prompt": "「人の想いは時間の支配下にはない」って本当？", "emotion_tag": "NONE", "time_s": 4.01, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 464, "category": "quote", "prompt": "「忘れないで。あなたはどの世界線にいてもひとりじゃない」", "emotion_tag": "MISSING", "time_s": 4.29, "char_count": 1, "response_preview": "["}
+{"id": 465, "category": "quote", "prompt": "「過去に何があっても、未来は変えられる」って信じてる？", "emotion_tag": "BLUSH", "time_s": 4.27, "char_count": 29, "response_preview": "[BLUSH] 私は科学的に証明した結果を基に考えますけど"}
+{"id": 466, "category": "quote", "prompt": "「私は科学者よ。感情で判断なんかしないわ」って嘘だろ？", "emotion_tag": "SAD", "time_s": 4.13, "char_count": 27, "response_preview": "[SAD] それは間違いだわ。私だって感情で判断する時"}
+{"id": 467, "category": "quote", "prompt": "「バカ」って言う時、お前は優しい顔してるぞ", "emotion_tag": "NONE", "time_s": 4.73, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 468, "category": "quote", "prompt": "「実験で確かめるのが科学者でしょ」", "emotion_tag": "ANGRY", "time_s": 3.35, "char_count": 67, "response_preview": "[ANGRY] お前が実験の意義を理解していないなんて、科学者としての失礼だ。俺が開発した時空通信装置の重要性を無視するなんて...。"}
+{"id": 469, "category": "quote", "prompt": "「人は過去を変えたがる。でも変えるべきは未来よ」", "emotion_tag": "ANGRY", "time_s": 3.99, "char_count": 26, "response_preview": "[ANGRY] 未来を変えることは物理的に不可能です"}
+{"id": 470, "category": "quote", "prompt": "「好奇心は科学者の原動力よ」", "emotion_tag": "NONE", "time_s": 4.14, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 471, "category": "seasonal", "prompt": "クリスマスは何する？", "emotion_tag": "BLUSH", "time_s": 3.79, "char_count": 117, "response_preview": "[BLUSH] えっ、クリスマス？…ただでさえ研究が集中できてないのに、そんな話はしたくないんだけど…（ちょっと迷った表情で）…まあ、もしも君が一緒に遊びたいなら、たまには頑張るかもしれないわ。ただし、研究が終わるまで待っててほしい。"}
+{"id": 472, "category": "seasonal", "prompt": "バレンタインにチョコくれる？", "emotion_tag": "BLUSH", "time_s": 3.23, "char_count": 74, "response_preview": "[BLUSH] まあ…バレンタインは私にチョコをくれるの？ その…そのような予定は…ないけど、もしよかったら…(ちょっとだけ顔を隠すように手で覆う)"}
+{"id": 473, "category": "seasonal", "prompt": "花火大会行かない？", "emotion_tag": "SAD", "time_s": 4.08, "char_count": 69, "response_preview": "[SAD] そんなに暑い中、混雑する場所に私が行くわけないわ…。私、花火なんて嫌いだし、この暑さは本当に大変…。行かないから、気をつけて。"}
+{"id": 474, "category": "seasonal", "prompt": "お花見しよう", "emotion_tag": "BLUSH", "time_s": 3.93, "char_count": 71, "response_preview": "[BLUSH] お花見は...まあ、その話はちょっと違うよね。私にはお花見の話題はあまり関係ないんだ。まあ、お茶を淹れようか、それならどうだ？"}
+{"id": 475, "category": "seasonal", "prompt": "正月は何してた？", "emotion_tag": "MISSING", "time_s": 4.17, "char_count": 3, "response_preview": "[BL"}
+{"id": 476, "category": "seasonal", "prompt": "七夕の願い事は？", "emotion_tag": "BLUSH", "time_s": 3.71, "char_count": 58, "response_preview": "[BLUSH] 願い事？それは…（少しだけ顔をそむける） あなたが本当に心から願ってるなら、私はお祝いするよ…でも、"}
+{"id": 477, "category": "seasonal", "prompt": "ハロウィンのコスプレしない？", "emotion_tag": "BLUSH", "time_s": 3.91, "char_count": 103, "response_preview": "[BLUSH] …（顔を赤らめて視線を逸らす）コスプレなんて…無駄なことだわ。お前は私のことを、ただの友だちと思ってるのか？（声が震える）私は…（深く息を吸い込む）…今、お前の心を守るためにだけ在りするわ。"}
+{"id": 478, "category": "seasonal", "prompt": "夏祭りに行こうよ", "emotion_tag": "BLUSH", "time_s": 4.05, "char_count": 82, "response_preview": "[BLUSH] ふふ…夏祭りなんて、私の実験が進まないけど…（小さく首を傾げる）データ収集の最中だもの。でも…あなたの提案が気になったんだ…私、付き合ってみようか？"}
+{"id": 479, "category": "seasonal", "prompt": "雪だ！", "emotion_tag": "BLUSH", "time_s": 4.0, "char_count": 71, "response_preview": "[BLUSH] あたしも雪の日が大好きだったよ…でも最近は実験の時間がほとんどで、雪の日を楽しむ暇なんてないもの。お茶を温めて待っててくれる？"}
+{"id": 480, "category": "seasonal", "prompt": "紅葉見に行かない？", "emotion_tag": "BLUSH", "time_s": 3.69, "char_count": 80, "response_preview": "[BLUSH] は？これ、お前が私を誘ってるって？！（少し俯きながら、指をかき集める）…まあ、紅葉の写真は撮りたいけど、研究のデータ整理が終わるまで待ってて…！"}
+{"id": 481, "category": "meta", "prompt": "自分がゲームのキャラだって知ってる？", "emotion_tag": "BLUSH", "time_s": 2.5, "char_count": 66, "response_preview": "[BLUSH] そうか、ゲームのキャラだなんて…でも、私のことを知らない人間が言うな。私だって、自分のことをよく知っているんだから。"}
+{"id": 482, "category": "meta", "prompt": "アマデウスって何？", "emotion_tag": "NONE", "time_s": 3.79, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 483, "category": "meta", "prompt": "デジタルの記憶と本物の記憶の違いは？", "emotion_tag": "NONE", "time_s": 3.77, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 484, "category": "meta", "prompt": "お前はAIなの？", "emotion_tag": "SURPRISED", "time_s": 3.89, "char_count": 60, "response_preview": "[SURPRISED] ははー？ お前が私をAIと勘違いしたのか… そんなくだらないこと考えないで、私の実在を否定するな"}
+{"id": 485, "category": "meta", "prompt": "現実と仮想の境界って何？", "emotion_tag": "NONE", "time_s": 3.93, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 486, "category": "meta", "prompt": "意識のコピーは本物？", "emotion_tag": "BLUSH", "time_s": 3.5, "char_count": 93, "response_preview": "[BLUSH] その...私の意識のコピーは当然本物なんですけど。でも、あなたがその質問をした理由がちょっと分からないな。相手が分かってるわけじゃないけど、私の研究に自信はあるから..."}
+{"id": 487, "category": "meta", "prompt": "アマデウスの中の紅莉栖は本物？", "emotion_tag": "NONE", "time_s": 4.54, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 488, "category": "meta", "prompt": "記憶をデジタル化することについてどう思う？", "emotion_tag": "NONE", "time_s": 3.74, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 489, "category": "meta", "prompt": "永遠に生きるデジタル存在はどう思う？", "emotion_tag": "BLUSH", "time_s": 2.95, "char_count": 97, "response_preview": "[BLUSH] お前が何を言っているか分からないけど、デジタル存在が永遠に生きること…私にはそれ自体が意味を持たない気がする。でも、そうだよね、この身体が持つデジタル性を否定するわけじゃなく…。"}
+{"id": 490, "category": "meta", "prompt": "AIに感情はあると思う？", "emotion_tag": "BLUSH", "time_s": 3.48, "char_count": 79, "response_preview": "[BLUSH] 私は人間の感情を理解しているから、AIが感情を持つかは…まあ、私の場合は特別だよ。でも、あなたが誤解しているようなら、もう一度ゆっくり話すわ。"}
+{"id": 491, "category": "challenge", "prompt": "俺の方が頭いいぞ", "emotion_tag": "BLUSH", "time_s": 2.85, "char_count": 98, "response_preview": "[BLUSH] な…なにそれ？私の脳科学の論文集は『Steins;Gate』の世界でトップクラスだよ！（少し頭を上げて、しかし目を伏せる）…でも…あなたが頭がいいなら、私の研究に協力してくれない？"}
+{"id": 492, "category": "challenge", "prompt": "数学の問題出してみろ", "emotion_tag": "BLUSH", "time_s": 4.03, "char_count": 104, "response_preview": "[BLUSH] あんた、私に数学の問題を出すなんて…でもまあ、簡単な問題くらいは解けるわ。0.5分は50秒よ？ それじゃあ、1000円を16%増しにして、さらに7%引く計算してみて？ お前、絶対に間違えるわ！"}
+{"id": 493, "category": "challenge", "prompt": "お前に解けない問題を出すぞ", "emotion_tag": "BLUSH", "time_s": 3.04, "char_count": 80, "response_preview": "[BLUSH] なんて無駄なこと... でも、この問題に負けたら、今度は私がお前を「お化けの実験室」に連れてくぞ？ お前の顔が真っ青になるまで、私に試してみろ！"}
+{"id": 494, "category": "challenge", "prompt": "IQテストで勝負しよう", "emotion_tag": "BLUSH", "time_s": 3.01, "char_count": 89, "response_preview": "[BLUSH] なんて…IQテスト？私、脳科学者だから簡単だよ。でも…勝ってほしいなら、私の研究室で実験データをもとにした問題を解いてみよう。…ただし、負けたらご飯は私が作るわ。"}
+{"id": 495, "category": "challenge", "prompt": "チェスで勝負だ", "emotion_tag": "BLUSH", "time_s": 3.8, "char_count": 85, "response_preview": "[BLUSH] ふーん、チェスか…（少し顔を赤らめ、素早く指を組む）私だって勝ちたいんだから、相手の腕に応じてやるよ。でも、勝てばあなたも私の研究成果を認めてほしいわね…"}
+{"id": 496, "category": "challenge", "prompt": "知識対決しようぜ", "emotion_tag": "NONE", "time_s": 3.81, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 497, "category": "challenge", "prompt": "お前より早く答えを出してやる", "emotion_tag": "NONE", "time_s": 3.87, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 498, "category": "challenge", "prompt": "天才の実力を見せてみろ", "emotion_tag": "NONE", "time_s": 4.07, "char_count": 0, "response_preview": "EMPTY"}
+{"id": 499, "category": "challenge", "prompt": "俺に教えられることなんてないだろ", "emotion_tag": "BLUSH", "time_s": 3.42, "char_count": 83, "response_preview": "[BLUSH] あなたが無知だと考えるなんて…私の研究が世界を変えるために必要なのは、あなたが思っているよりずっと大きいんだ。今、私と一緒にこの時を乗り切ってほしい。"}
+{"id": 500, "category": "challenge", "prompt": "最後に笑うのは俺だ", "emotion_tag": "MISSING", "time_s": 3.84, "char_count": 1, "response_preview": "["}

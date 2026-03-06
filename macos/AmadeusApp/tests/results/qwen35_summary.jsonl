@@ -1,0 +1,4 @@
+{"model": "qwen3.5:0.8b", "label": "qwen3.5_0.8b_nothink", "think": false, "total": 500, "success": 500, "fail": 0, "emotion_ok": 384, "emotion_missing": 116, "emotion_rate": "76.8%", "avg_time_s": 1.1, "total_time_s": 550.69, "avg_chars": 87}
+{"model": "qwen3.5:2b", "label": "qwen3.5_2b_nothink", "think": false, "total": 500, "success": 500, "fail": 0, "emotion_ok": 456, "emotion_missing": 44, "emotion_rate": "91.2%", "avg_time_s": 1.21, "total_time_s": 604.52, "avg_chars": 85}
+{"model": "qwen3.5:4b", "label": "qwen3.5_4b_nothink", "think": false, "total": 500, "success": 500, "fail": 0, "emotion_ok": 494, "emotion_missing": 6, "emotion_rate": "98.8%", "avg_time_s": 1.47, "total_time_s": 733.61, "avg_chars": 82}
+{"model": "qwen3.5:9b", "label": "qwen3.5_9b_nothink", "think": false, "total": 500, "success": 500, "fail": 0, "emotion_ok": 484, "emotion_missing": 16, "emotion_rate": "96.8%", "avg_time_s": 1.8, "total_time_s": 897.52, "avg_chars": 102}

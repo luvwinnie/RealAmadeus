@@ -1,0 +1,528 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0536169BAFB0AD952B63456E /* BackLogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF708F359CFAA824CD4AA2A5 /* BackLogView.swift */; };
+		10AAA321210B156AEF3078C3 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DFF9DB81259F4ED0288E5C /* MainView.swift */; };
+		4EA49032EF8C57F766B5B86C /* AIServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11A1D65DEC0A32DCF364C887 /* AIServiceTests.swift */; };
+		544B4A22681AAB3F65F64936 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8DD8A788ADE68B3D3A824E /* ChatView.swift */; };
+		546E8BEB44CD54E36C236328 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3DD1513D23DF2571991F38 /* MenuView.swift */; };
+		5D055FA6EA004BA8C0243DD3 /* ChatMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC2950BF1E5EFD619DF706AA /* ChatMessage.swift */; };
+		713D764FBC43893F9B40DA68 /* AmadeusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400363374EEE3AD9FE898C43 /* AmadeusApp.swift */; };
+		8330DACA84659086AE91B838 /* AIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F73F0A29F08BF361F7F7C2 /* AIService.swift */; };
+		84159F2BF136A3A0C5EE40EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3BA0B3A98EF98A699402D5E /* ContentView.swift */; };
+		8B8938DED7B1D19C94599B6F /* IntegrationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B27CFAB94C2EA8B099CB74 /* IntegrationTests.swift */; };
+		94054B5D7E21B8DF4A66E2AC /* MemoryManagerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DEC3C11451C9B3CF0A2241A /* MemoryManagerTests.swift */; };
+		9BE59B707AC8066CAE30070C /* Live2DView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F6B551C0749BB2CFF26A7B /* Live2DView.swift */; };
+		B9A698CAE803F66061246CEF /* BootSequenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B784BAD56AB682F93BCC42 /* BootSequenceView.swift */; };
+		BAC0ADD7E407061445C40BD9 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DA486881146EB9C07FAF71 /* AppState.swift */; };
+		BE95FF110F2B8BCB2B8A40E4 /* ConfigView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 803B9C67D7B3379C6084F95B /* ConfigView.swift */; };
+		CD8F3089F3D83D7F5F560461 /* MemoryManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A2A86B60C52CB7D0DC0595 /* MemoryManager.swift */; };
+		DF133D393DEC75D894C3EED6 /* HelpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA4FB944F02655B81EEBD05 /* HelpView.swift */; };
+		E0073B8EE724E83C3980B5DB /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B744083EC2FB990B3AD2BB33 /* StatusView.swift */; };
+		E01712B2541F2A4D7D631A3E /* AppStateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401A02FDDAC37C30FC490641 /* AppStateTests.swift */; };
+		E180A3FC84B0352075F7A00F /* ChangeLogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0035609D78D84CD521C279BD /* ChangeLogView.swift */; };
+		E5833B8B9BC3DCD2ABF3FD8B /* ChatMessageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333E7E843AE1CB2B659D9809 /* ChatMessageTests.swift */; };
+		F9FA9E1116E11690939F312F /* ConfirmationDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F217DEFA05C9808CFD83862 /* ConfirmationDialogView.swift */; };
+		FDBCDF3E50B8242899146022 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77555B40F72B0A27DB4E4F31 /* LoginView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6C63BA67264C83D28608D65E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FFE219A27786ADC9EBE97F77 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04DE14CF22EE09DADDE6E093;
+			remoteInfo = AmadeusApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0035609D78D84CD521C279BD /* ChangeLogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeLogView.swift; sourceTree = "<group>"; };
+		11A1D65DEC0A32DCF364C887 /* AIServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIServiceTests.swift; sourceTree = "<group>"; };
+		18F6B551C0749BB2CFF26A7B /* Live2DView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Live2DView.swift; sourceTree = "<group>"; };
+		333E7E843AE1CB2B659D9809 /* ChatMessageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessageTests.swift; sourceTree = "<group>"; };
+		400363374EEE3AD9FE898C43 /* AmadeusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmadeusApp.swift; sourceTree = "<group>"; };
+		401A02FDDAC37C30FC490641 /* AppStateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStateTests.swift; sourceTree = "<group>"; };
+		43F73F0A29F08BF361F7F7C2 /* AIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIService.swift; sourceTree = "<group>"; };
+		44B784BAD56AB682F93BCC42 /* BootSequenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BootSequenceView.swift; sourceTree = "<group>"; };
+		5A3DD1513D23DF2571991F38 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		5BA4FB944F02655B81EEBD05 /* HelpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpView.swift; sourceTree = "<group>"; };
+		6951766EAE5E7C9547E04630 /* AmadeusApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AmadeusApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DEC3C11451C9B3CF0A2241A /* MemoryManagerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryManagerTests.swift; sourceTree = "<group>"; };
+		77555B40F72B0A27DB4E4F31 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		7F217DEFA05C9808CFD83862 /* ConfirmationDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogView.swift; sourceTree = "<group>"; };
+		803B9C67D7B3379C6084F95B /* ConfigView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigView.swift; sourceTree = "<group>"; };
+		A34D91FDE74E08D8B47D1F59 /* AmadeusAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AmadeusAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4B27CFAB94C2EA8B099CB74 /* IntegrationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntegrationTests.swift; sourceTree = "<group>"; };
+		B1A2A86B60C52CB7D0DC0595 /* MemoryManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryManager.swift; sourceTree = "<group>"; };
+		B2F1200B84A50E6D1D4280E7 /* AmadeusApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AmadeusApp.entitlements; sourceTree = "<group>"; };
+		B4DA486881146EB9C07FAF71 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
+		B744083EC2FB990B3AD2BB33 /* StatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusView.swift; sourceTree = "<group>"; };
+		CB8DD8A788ADE68B3D3A824E /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		CC2950BF1E5EFD619DF706AA /* ChatMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatMessage.swift; sourceTree = "<group>"; };
+		D3DFF9DB81259F4ED0288E5C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		DF708F359CFAA824CD4AA2A5 /* BackLogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackLogView.swift; sourceTree = "<group>"; };
+		F3BA0B3A98EF98A699402D5E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		1E6E1DF6240ECA8D76098115 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B4DA486881146EB9C07FAF71 /* AppState.swift */,
+				CC2950BF1E5EFD619DF706AA /* ChatMessage.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		415211BEA4697280EE65A811 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DF708F359CFAA824CD4AA2A5 /* BackLogView.swift */,
+				44B784BAD56AB682F93BCC42 /* BootSequenceView.swift */,
+				0035609D78D84CD521C279BD /* ChangeLogView.swift */,
+				CB8DD8A788ADE68B3D3A824E /* ChatView.swift */,
+				803B9C67D7B3379C6084F95B /* ConfigView.swift */,
+				7F217DEFA05C9808CFD83862 /* ConfirmationDialogView.swift */,
+				F3BA0B3A98EF98A699402D5E /* ContentView.swift */,
+				5BA4FB944F02655B81EEBD05 /* HelpView.swift */,
+				18F6B551C0749BB2CFF26A7B /* Live2DView.swift */,
+				77555B40F72B0A27DB4E4F31 /* LoginView.swift */,
+				D3DFF9DB81259F4ED0288E5C /* MainView.swift */,
+				5A3DD1513D23DF2571991F38 /* MenuView.swift */,
+				B744083EC2FB990B3AD2BB33 /* StatusView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		42A5913D4508C14EEBF1FEB0 /* AmadeusAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				11A1D65DEC0A32DCF364C887 /* AIServiceTests.swift */,
+				401A02FDDAC37C30FC490641 /* AppStateTests.swift */,
+				333E7E843AE1CB2B659D9809 /* ChatMessageTests.swift */,
+				A4B27CFAB94C2EA8B099CB74 /* IntegrationTests.swift */,
+				6DEC3C11451C9B3CF0A2241A /* MemoryManagerTests.swift */,
+			);
+			path = AmadeusAppTests;
+			sourceTree = "<group>";
+		};
+		49BC417FCDFF21E3F20D413B /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				43F73F0A29F08BF361F7F7C2 /* AIService.swift */,
+				B1A2A86B60C52CB7D0DC0595 /* MemoryManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		7FCB29A0E9B18C8A2E4F68CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6951766EAE5E7C9547E04630 /* AmadeusApp.app */,
+				A34D91FDE74E08D8B47D1F59 /* AmadeusAppTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9C63E520D96DD6DA607F3FF5 = {
+			isa = PBXGroup;
+			children = (
+				FD44050705E6E3DE5CD5196E /* AmadeusApp */,
+				42A5913D4508C14EEBF1FEB0 /* AmadeusAppTests */,
+				7FCB29A0E9B18C8A2E4F68CB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BFB7484554530FE13F64A7F7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F14A07C2D3E6BD8F742A5670 /* Live2D */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Live2D;
+			sourceTree = "<group>";
+		};
+		FD44050705E6E3DE5CD5196E /* AmadeusApp */ = {
+			isa = PBXGroup;
+			children = (
+				B2F1200B84A50E6D1D4280E7 /* AmadeusApp.entitlements */,
+				400363374EEE3AD9FE898C43 /* AmadeusApp.swift */,
+				F14A07C2D3E6BD8F742A5670 /* Live2D */,
+				1E6E1DF6240ECA8D76098115 /* Models */,
+				BFB7484554530FE13F64A7F7 /* Resources */,
+				49BC417FCDFF21E3F20D413B /* Services */,
+				415211BEA4697280EE65A811 /* Views */,
+			);
+			path = AmadeusApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04DE14CF22EE09DADDE6E093 /* AmadeusApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D39D03ADA0A56FCCA2323FC0 /* Build configuration list for PBXNativeTarget "AmadeusApp" */;
+			buildPhases = (
+				7573D3AC48C0FA3F6D87AC22 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AmadeusApp;
+			packageProductDependencies = (
+			);
+			productName = AmadeusApp;
+			productReference = 6951766EAE5E7C9547E04630 /* AmadeusApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D5D67B02C7BD24D1BB0ED0C1 /* AmadeusAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4EE8A02C53F5AB626C99F1A /* Build configuration list for PBXNativeTarget "AmadeusAppTests" */;
+			buildPhases = (
+				E1271E1E6CB2D61FCDAC8BE3 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DC9C795EAA9E1A3130655045 /* PBXTargetDependency */,
+			);
+			name = AmadeusAppTests;
+			packageProductDependencies = (
+			);
+			productName = AmadeusAppTests;
+			productReference = A34D91FDE74E08D8B47D1F59 /* AmadeusAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FFE219A27786ADC9EBE97F77 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					04DE14CF22EE09DADDE6E093 = {
+						DevelopmentTeam = "";
+					};
+				};
+			};
+			buildConfigurationList = 6CDF53AD5565245292DC1F37 /* Build configuration list for PBXProject "AmadeusApp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 9C63E520D96DD6DA607F3FF5;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 7FCB29A0E9B18C8A2E4F68CB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04DE14CF22EE09DADDE6E093 /* AmadeusApp */,
+				D5D67B02C7BD24D1BB0ED0C1 /* AmadeusAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7573D3AC48C0FA3F6D87AC22 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8330DACA84659086AE91B838 /* AIService.swift in Sources */,
+				713D764FBC43893F9B40DA68 /* AmadeusApp.swift in Sources */,
+				BAC0ADD7E407061445C40BD9 /* AppState.swift in Sources */,
+				0536169BAFB0AD952B63456E /* BackLogView.swift in Sources */,
+				B9A698CAE803F66061246CEF /* BootSequenceView.swift in Sources */,
+				E180A3FC84B0352075F7A00F /* ChangeLogView.swift in Sources */,
+				5D055FA6EA004BA8C0243DD3 /* ChatMessage.swift in Sources */,
+				544B4A22681AAB3F65F64936 /* ChatView.swift in Sources */,
+				BE95FF110F2B8BCB2B8A40E4 /* ConfigView.swift in Sources */,
+				F9FA9E1116E11690939F312F /* ConfirmationDialogView.swift in Sources */,
+				84159F2BF136A3A0C5EE40EC /* ContentView.swift in Sources */,
+				DF133D393DEC75D894C3EED6 /* HelpView.swift in Sources */,
+				9BE59B707AC8066CAE30070C /* Live2DView.swift in Sources */,
+				FDBCDF3E50B8242899146022 /* LoginView.swift in Sources */,
+				10AAA321210B156AEF3078C3 /* MainView.swift in Sources */,
+				CD8F3089F3D83D7F5F560461 /* MemoryManager.swift in Sources */,
+				546E8BEB44CD54E36C236328 /* MenuView.swift in Sources */,
+				E0073B8EE724E83C3980B5DB /* StatusView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E1271E1E6CB2D61FCDAC8BE3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4EA49032EF8C57F766B5B86C /* AIServiceTests.swift in Sources */,
+				E01712B2541F2A4D7D631A3E /* AppStateTests.swift in Sources */,
+				E5833B8B9BC3DCD2ABF3FD8B /* ChatMessageTests.swift in Sources */,
+				8B8938DED7B1D19C94599B6F /* IntegrationTests.swift in Sources */,
+				94054B5D7E21B8DF4A66E2AC /* MemoryManagerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DC9C795EAA9E1A3130655045 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04DE14CF22EE09DADDE6E093 /* AmadeusApp */;
+			targetProxy = 6C63BA67264C83D28608D65E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1ADDFCD9840E9EAFF00CD484 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amadeus.AmadeusAppTests;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.9;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AmadeusApp.app/Contents/MacOS/AmadeusApp";
+			};
+			name = Debug;
+		};
+		1BF56BAF2D7BA78C327A3ED9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		7F0EEA0294258303FA82B427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amadeus.AmadeusAppTests;
+				SDKROOT = macosx;
+				SWIFT_VERSION = 5.9;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AmadeusApp.app/Contents/MacOS/AmadeusApp";
+			};
+			name = Release;
+		};
+		8177058FDD0B13EA1D8FC5F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		A06469324D8A7634C2F9FCB5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = AmadeusApp/AmadeusApp.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_KEY_NSMainNibFile = "";
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.5.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amadeus.AmadeusApp;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		DB327C61AC6590A681A37BC9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = AmadeusApp/AmadeusApp.entitlements;
+				CODE_SIGN_IDENTITY = "-";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_KEY_NSMainNibFile = "";
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.5.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amadeus.AmadeusApp;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6CDF53AD5565245292DC1F37 /* Build configuration list for PBXProject "AmadeusApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8177058FDD0B13EA1D8FC5F4 /* Debug */,
+				1BF56BAF2D7BA78C327A3ED9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		D39D03ADA0A56FCCA2323FC0 /* Build configuration list for PBXNativeTarget "AmadeusApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DB327C61AC6590A681A37BC9 /* Debug */,
+				A06469324D8A7634C2F9FCB5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		E4EE8A02C53F5AB626C99F1A /* Build configuration list for PBXNativeTarget "AmadeusAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1ADDFCD9840E9EAFF00CD484 /* Debug */,
+				7F0EEA0294258303FA82B427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FFE219A27786ADC9EBE97F77 /* Project object */;
+}

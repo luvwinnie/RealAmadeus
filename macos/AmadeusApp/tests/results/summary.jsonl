@@ -1,0 +1,5 @@
+{"model": "gemma3:270m", "total": 500, "success": 476, "fail": 24, "empty": 0, "emotion_ok": 19, "emotion_missing": 457, "emotion_rate": "4.0%", "avg_time_s": 0.81, "total_time_s": 406.51, "avg_chars": 21}
+{"model": "gemma3:1b", "total": 500, "success": 499, "fail": 1, "empty": 0, "emotion_ok": 353, "emotion_missing": 146, "emotion_rate": "70.7%", "avg_time_s": 1.25, "total_time_s": 626.46, "avg_chars": 83}
+{"model": "gemma3:4b", "total": 500, "success": 497, "fail": 3, "empty": 0, "emotion_ok": 497, "emotion_missing": 0, "emotion_rate": "100.0%", "avg_time_s": 1.51, "total_time_s": 757.29, "avg_chars": 124}
+{"model": "qwen2.5vl:latest", "total": 500, "success": 500, "fail": 0, "empty": 0, "emotion_ok": 479, "emotion_missing": 21, "emotion_rate": "95.8%", "avg_time_s": 1.17, "total_time_s": 584.99, "avg_chars": 54}
+{"model": "qwen3-vl:8b", "total": 500, "success": 334, "fail": 166, "empty": 0, "emotion_ok": 329, "emotion_missing": 5, "emotion_rate": "98.5%", "avg_time_s": 3.84, "total_time_s": 1920.28, "avg_chars": 65}

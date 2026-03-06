@@ -1,0 +1,51 @@
+name: AmadeusApp
+options:
+  bundleIdPrefix: com.amadeus
+  deploymentTarget:
+    macOS: "14.0"
+  xcodeVersion: "16.0"
+  generateEmptyDirectories: true
+
+targets:
+  AmadeusApp:
+    type: application
+    platform: macOS
+    sources:
+      - AmadeusApp
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.amadeus.AmadeusApp
+        MARKETING_VERSION: "1.5.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "5.9"
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        INFOPLIST_KEY_NSMainNibFile: ""
+        INFOPLIST_KEY_NSPrincipalClass: NSApplication
+        CODE_SIGN_ENTITLEMENTS: AmadeusApp/AmadeusApp.entitlements
+        DEVELOPMENT_TEAM: ""
+        CODE_SIGN_IDENTITY: "-"
+      configs:
+        Debug:
+          SWIFT_OPTIMIZATION_LEVEL: "-Onone"
+        Release:
+          SWIFT_OPTIMIZATION_LEVEL: "-O"
+    entitlements:
+      path: AmadeusApp/AmadeusApp.entitlements
+      properties:
+        com.apple.security.app-sandbox: false
+        com.apple.security.network.client: true
+
+  AmadeusAppTests:
+    type: bundle.unit-test
+    platform: macOS
+    sources:
+      - AmadeusAppTests
+    dependencies:
+      - target: AmadeusApp
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.amadeus.AmadeusAppTests
+        SWIFT_VERSION: "5.9"
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        TEST_HOST: "$(BUILT_PRODUCTS_DIR)/AmadeusApp.app/Contents/MacOS/AmadeusApp"
+        BUNDLE_LOADER: "$(TEST_HOST)"

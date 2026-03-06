@@ -1,0 +1,138 @@
+{
+  "": {
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/master.swiftdeps"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/AmadeusApp.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/AppState.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AppState.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AppState.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AppState~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AppState.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AppState.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/ChatMessage.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/AIService.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AIService.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AIService.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AIService~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AIService.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/AIService.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/MemoryManager.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BackLogView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BootSequenceView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChangeLogView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChatView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfigView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfirmationDialogView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ContentView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/HelpView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/Live2DView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/LoginView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MainView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MainView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MainView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MainView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MainView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MainView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MenuView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/StatusView.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView.dia"
+  },
+  "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor.d",
+    "object": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor.dia"
+  }
+}

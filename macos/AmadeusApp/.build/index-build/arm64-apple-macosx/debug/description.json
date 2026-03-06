@@ -1,0 +1,889 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.xctest/Contents/MacOS/AmadeusAppPackageTests",
+      "packagePath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp",
+      "productName" : "AmadeusAppPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp_AmadeusApp.bundle/Resources" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Resources"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp_AmadeusApp.bundle/Resources"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AmadeusApp-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/sources",
+      "importPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/AmadeusApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/ChatMessage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/AIService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/MemoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BackLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BootSequenceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChangeLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfigView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfirmationDialogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/HelpView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/Live2DView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/LoginView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MainView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MenuView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/StatusView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<AmadeusApp-arm64-apple-macosx26.0-debug.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AmadeusApp",
+      "moduleOutputPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusApp.swiftmodule",
+      "objects" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/AmadeusApp.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/AppState.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ChatMessage.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/AIService.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/MemoryManager.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/BackLogView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/BootSequenceView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ChangeLogView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ChatView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ConfigView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ConfirmationDialogView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/ContentView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/HelpView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/Live2DView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/LoginView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/MainView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/MenuView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/StatusView.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AmadeusApp_main",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "amadeusapp"
+      ],
+      "outputFileMapPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusApp.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/AmadeusApp.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/AppState.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/ChatMessage.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/AIService.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/MemoryManager.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BackLogView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BootSequenceView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChangeLogView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChatView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfigView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfirmationDialogView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ContentView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/HelpView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/Live2DView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/LoginView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MainView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MenuView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/StatusView.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AmadeusAppPackageTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/sources",
+      "importPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusAppTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AmadeusAppPackageTests",
+      "moduleOutputPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusAppPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/include/AmadeusAppPackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "amadeusapp"
+      ],
+      "outputFileMapPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusAppPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AmadeusAppTests-arm64-apple-macosx26.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/sources",
+      "importPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AIServiceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AppStateTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/ChatMessageTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/IntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/MemoryManagerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusApp.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AmadeusAppTests",
+      "moduleOutputPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusAppTests.swiftmodule",
+      "objects" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/AIServiceTests.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/AppStateTests.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/ChatMessageTests.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/IntegrationTests.swift.o",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/MemoryManagerTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "amadeusapp"
+      ],
+      "outputFileMapPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules/AmadeusAppTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AIServiceTests.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AppStateTests.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/ChatMessageTests.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/IntegrationTests.swift",
+        "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/MemoryManagerTests.swift"
+      ],
+      "tempsPath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AmadeusApp" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AmadeusApp",
+      "-package-name",
+      "amadeusapp",
+      "-c",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/AmadeusApp.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/AppState.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/ChatMessage.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/AIService.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/MemoryManager.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BackLogView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BootSequenceView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChangeLogView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChatView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfigView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfirmationDialogView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ContentView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/HelpView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/Live2DView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/LoginView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MainView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MenuView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/StatusView.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AmadeusApp_main",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "amadeusapp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AmadeusAppPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AmadeusAppPackageTests",
+      "-package-name",
+      "amadeusapp",
+      "-c",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/include/AmadeusAppPackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "amadeusapp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AmadeusAppTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AmadeusAppTests",
+      "-package-name",
+      "amadeusapp",
+      "-c",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AIServiceTests.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AppStateTests.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/ChatMessageTests.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/IntegrationTests.swift",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/MemoryManagerTests.swift",
+      "-I",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "amadeusapp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AmadeusApp" : [
+
+    ],
+    "AmadeusAppPackageTests" : [
+      "AmadeusAppTests",
+      "AmadeusApp"
+    ],
+    "AmadeusAppTests" : [
+      "AmadeusApp"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/AmadeusApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/AppState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Models/ChatMessage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/AIService.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Services/MemoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BackLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/BootSequenceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChangeLogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ChatView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfigView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ConfirmationDialogView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/HelpView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/Live2DView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/LoginView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MainView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/MenuView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusApp/Views/StatusView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusApp.build/sources"
+    },
+    "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppPackageTests.build/sources"
+    },
+    "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AIServiceTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/AppStateTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/ChatMessageTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/IntegrationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/AmadeusAppTests/MemoryManagerTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/AmadeusAppTests.build/sources"
+    },
+    "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/cheesiang_leow/research/amadeus_project/macos/AmadeusApp/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

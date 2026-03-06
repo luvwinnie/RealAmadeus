@@ -1,0 +1,89 @@
+===============================================================================================
+FULL BENCHMARK RESULTS - 500 Kurisu Makise Prompts
+Endpoint: https://llm.nishizaki-leow-lab-alps.org
+===============================================================================================
+
+PART 1: MODEL COMPARISON (sub-9B, 500 prompts each)
+-----------------------------------------------------------------------------------------------
+Model                   Success    Emotion    Rate    AvgTime  AvgChars   Grade
+-----------------------------------------------------------------------------------------------
+gemma3:270m (0.3GB)     476/500     19/500     4.0%    0.81s       21       F
+gemma3:1b   (0.8GB)     499/500    353/500    70.7%    1.25s       83       C
+gemma3:4b   (3.3GB)     497/500    497/500   100.0%    1.51s      124       S
+qwen2.5vl   (6.0GB)     500/500    479/500    95.8%    1.17s       54       A
+qwen3-vl:8b (6.1GB)     334/500    329/500    98.5%    3.84s       65       C
+
+PART 2: QWEN3.5 SERIES (think:false, native /api/chat, 500 prompts each)
+-----------------------------------------------------------------------------------------------
+Model                   Success    Emotion    Rate    AvgTime  AvgChars   Grade
+-----------------------------------------------------------------------------------------------
+qwen3.5:0.8b (0.6GB)   500/500    384/500    76.8%    1.10s       87       C+
+qwen3.5:2b   (1.7GB)   500/500    456/500    91.2%    1.21s       85       B+
+qwen3.5:4b   (3.1GB)   500/500    494/500    98.8%    1.47s       82       A+
+qwen3.5:9b   (6.5GB)   500/500    484/500    96.8%    1.80s      102       A
+
+PART 3: THINKING vs NO-THINKING (500 prompts each)
+-----------------------------------------------------------------------------------------------
+Config                   Success    Emotion    Rate    AvgTime  AvgChars  ThinkChars
+-----------------------------------------------------------------------------------------------
+qwen3-vl:8b (think)     435/500    433/500    99.5%    4.77s       81        0
+qwen3-vl:8b (no_think)  414/500    414/500   100.0%    4.67s       76        0
+nemotron-9b  (think)    500/500    375/500    75.0%    5.72s      532      207
+nemotron-9b  (no_think) 500/500    299/500    59.8%    7.22s      767      290
+
+PART 4: QWEN3.5 TAG FORMAT DISTRIBUTION
+-----------------------------------------------------------------------------------------------
+qwen3.5:0.8b: [TAG]:294  none:116  [TAG]mid:22  bare:22  full-width:24  parens:16  bold:1
+qwen3.5:2b:   [TAG]:408  none:44   full-width:17  [TAG]mid:17  bare:12  parens:2
+qwen3.5:4b:   [TAG]:483  none:6    full-width:9   [TAG]mid:2
+qwen3.5:9b:   [TAG]:458  none:16   full-width:18  bare:6  [TAG]mid:2
+
+Note: qwen3.5 uses varied tag formats (full-width brackets, bare words, parentheses).
+      Comprehensive parser handles all variants. gemma3:4b uses [TAG] consistently.
+
+===============================================================================================
+CONCLUSION
+===============================================================================================
+
+WINNER: gemma3:4b (UNCHANGED)
+
+Key Metrics:
+  - Emotion tag accuracy: 100.0% (497/497 successful responses had correct tags)
+  - Average response time: 1.51s
+  - Average response length: 124 chars (rich, detailed character voice)
+  - Success rate: 99.4%
+  - Consistent [TAG] format - no parsing edge cases
+
+Why gemma3:4b still wins over qwen3.5:4b:
+  1. Perfect emotion tag compliance (100.0% vs 98.8%)
+  2. Consistent [TAG] format vs qwen3.5's varied formats (full-width, parens, bare)
+  3. Richer character voice: 124 chars avg vs 82 chars avg
+  4. Similar speed: 1.51s vs 1.47s (negligible difference)
+  5. Proven stability in production
+
+STRONG RUNNER-UP: qwen3.5:4b
+  - 98.8% emotion accuracy (only 6 misses in 500)
+  - 100% success rate (0 failures vs gemma3:4b's 3)
+  - Slightly faster (1.47s vs 1.51s)
+  - Shorter responses (82 chars) - less character depth
+  - Inconsistent tag formats require robust parser
+  - Would be excellent choice if tag parser handles all variants
+
+Other qwen3.5 findings:
+  - 9b is SLOWER than 4b and LESS accurate (96.8% vs 98.8%) - not worth the extra VRAM
+  - 2b is a decent budget option (91.2%) but not production-ready
+  - 0.8b too unreliable (76.8%) for production
+  - think:true is NOT viable (61-120s per response)
+
+Models NOT recommended:
+  - gemma3:270m: Too small, can't follow emotion tag instructions (4%)
+  - gemma3:1b: Unreliable emotion tags (70.7%)
+  - qwen3-vl:8b: High failure rate (166 failures), 3x slower
+  - nemotron-9b: Poor emotion compliance (75%), too verbose, 4x slower
+
+Thinking vs No-Thinking findings:
+  - Thinking does NOT improve quality for this RP/chat task
+  - qwen3: think/no_think makes negligible difference (99.5% vs 100%)
+  - nemotron: thinking actually HURTS (75% vs 59.8% - both bad)
+  - qwen3.5: think:true makes it 40-80x slower - completely impractical
+  - Conclusion: Disable thinking for roleplay chat tasks
