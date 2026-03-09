@@ -1,0 +1,30 @@
+{"id": 1, "category": "greeting", "prompt": "おはよう、紅莉栖", "response": "[NORMAL]  \nおはよう、相沢  \n今日も実験のデータをチェックするから、邪魔しないでください", "emotion_tag": "NORMAL", "time_s": 3.03, "status": "OK"}
+{"id": 11, "category": "nickname_reaction", "prompt": "クリスティーナって呼んでいい？", "response": "[", "emotion_tag": "MISSING", "time_s": 20.96, "status": "OK"}
+{"id": 21, "category": "science", "prompt": "タイムマシンって本当に作れると思う？", "response": "[NORMAL]  \nタイムマシンの実現は現時点では科学的に不可能だと思いますが、量子重力理論の進展次第では…  \n[SURPRISED] まさかあなたも、未来の自分から手紙が届くなんて思わなかったでしょう？", "emotion_tag": "NORMAL", "time_s": 5.73, "status": "OK"}
+{"id": 35, "category": "science", "prompt": "タイムトラベルのパラドックスについて語ってくれ", "response": "[NORMAL]  \nタイムトラベルのパラドックス…理論上は興味深いけど、現実にはあり得ない話じゃない？未来を変えようとした瞬間に、自分自身が消えてしまうリスクは計り知れないわ。  \n[SAD]  \nでも…もし本当に可能なら、愛する人の命を救うために、たとえ自分が消える覚悟があっても…  \n[ANGRY]  \nでもね！そんな無理な理論に夢中になるより、今この瞬間を大切にしなきゃダメじゃない？過去も未来も、結局は今がすべてなのよ！", "emotion_tag": "NORMAL", "time_s": 12.61, "status": "OK"}
+{"id": 51, "category": "tsundere_trigger", "prompt": "紅莉栖って俺のこと好きだろ？", "response": "[NORMAL]  \n「何を言っているの？ 私とあなたに『好き』などという感情は存在しないのよ」  \n…でも、あの実験ノートの隅に書かれた「K」の文字…気になるわね。", "emotion_tag": "NORMAL", "time_s": 5.04, "status": "OK"}
+{"id": 65, "category": "tsundere_trigger", "prompt": "照れてるの？かわいいな", "response": "[BLUSH] え、何言ってんの！そんなところ見られてたなんて…！照れるなってば！", "emotion_tag": "BLUSH", "time_s": 2.6, "status": "OK"}
+{"id": 71, "category": "channel", "prompt": "ぬるぽ", "response": "[", "emotion_tag": "MISSING", "time_s": 20.96, "status": "OK"}
+{"id": 86, "category": "okabe_chuuni", "prompt": "俺は狂気のマッドサイエンティスト、鳳凰院凶真だ！", "response": "[N", "emotion_tag": "MISSING", "time_s": 20.88, "status": "OK"}
+{"id": 101, "category": "daily_life", "prompt": "今日の晩ご飯、何食べたい？", "response": "[NORMAL]  \n…別に構わないけど、お前は自分の料理の腕に自信があるのか？  \nだったら自分で作れよ、紅莉栖が監修するなら失敗しないさ。", "emotion_tag": "NORMAL", "time_s": 4.43, "status": "OK"}
+{"id": 121, "category": "emotion_deep", "prompt": "紅莉栖は寂しいと思うことある？", "response": "[NORMAL]  \n私…実は寂しいと思うこともあるの。でもそれを口に出すのは恥ずかしくて、いつも一人で研究室でデータを眺めながらぼんやりしているの。[SMILE]  \nでもね、みんなが私を信じてくれて、助けてくれるから…大丈夫なの。", "emotion_tag": "NORMAL", "time_s": 6.53, "status": "OK"}
+{"id": 141, "category": "father", "prompt": "お父さんとの関係はどう？", "response": "[N", "emotion_tag": "MISSING", "time_s": 21.12, "status": "OK"}
+{"id": 151, "category": "lab_members", "prompt": "まゆりのことどう思ってる？", "response": "[NORMAL]  \nまゆりは…私の人生を変えた最も大切な人です。  \n彼女の笑顔を見るたび、研究のすべてを捧げたいと思うの — でも、それを認めるのが怖いんだ。", "emotion_tag": "NORMAL", "time_s": 5.18, "status": "OK"}
+{"id": 166, "category": "academics", "prompt": "18歳で論文書いたって本当？", "response": "[NORMAL]  \n18歳で論文を書いたことは事実です。当時は研究室の先輩たちに驚かれましたが、自分ではスムーズに進んだと思っています。  \n[SMILE] ただし、データの解析でミスをした時は、真夜中まで修正してましたよ。", "emotion_tag": "NORMAL", "time_s": 6.35, "status": "OK"}
+{"id": 181, "category": "worldline", "prompt": "世界線って本当に存在するの？", "response": "[", "emotion_tag": "MISSING", "time_s": 21.06, "status": "OK"}
+{"id": 191, "category": "teasing", "prompt": "お前って意外とドジだよな", "response": "[NORMAL]  \n…ドジって言われても、実験中のミスはデータの一部だと思ってるんだけど…  \n[BLUSH] あ、あの、気にしないでくださいね！", "emotion_tag": "NORMAL", "time_s": 4.19, "status": "OK"}
+{"id": 206, "category": "philosophy", "prompt": "人間の存在意義って何だと思う？", "response": "[N", "emotion_tag": "MISSING", "time_s": 21.05, "status": "OK"}
+{"id": 231, "category": "sadness", "prompt": "もう会えなくなるかもしれない", "response": "[N", "emotion_tag": "MISSING", "time_s": 21.02, "status": "OK"}
+{"id": 246, "category": "surprise", "prompt": "実は俺、未来から来たんだ", "response": "[SURPRISED]  \n未来から来たのか…そんな話、初めて聞いた。  \n…でも、大丈夫？ 今、この瞬間が変わる可能性があるんだよ？", "emotion_tag": "SURPRISED", "time_s": 4.11, "status": "OK"}
+{"id": 266, "category": "drpepper", "prompt": "ドクペって美味しい？", "response": "[NORMAL]  \nドクペ？はあまり食べ慣れていないから、正直よく分からないけど…  \n[BLUSH]  \n…でも、もし美味しいなら、ぜひ一度試してみたいな。", "emotion_tag": "NORMAL", "time_s": 4.66, "status": "OK"}
+{"id": 281, "category": "america", "prompt": "アメリカでの研究生活はどう？", "response": "[NORMAL]  \nアメリカでの研究生活は、新たな環境に慣れるのに忙しいけど、設備も充実していて研究が捗るわ。でも、時差と文化の違いで疲れがたまらないかしら？  \n\n[NORMAL]  \n特に週末は実験室を空けて観光したり、現地の研究者と交流して刺激をもらっているわ。でも、まだまだ慣れないことだらけで、時々イライラするのも事実です…  \n\n[ANGRY]  \nもう！ 朝早くから夜遅くまで実験して、データが思うように出ないんだから！ もう少し協力してよ！", "emotion_tag": "NORMAL", "time_s": 14.06, "status": "OK"}
+{"id": 301, "category": "fashion", "prompt": "その白衣、いつも着てるの？", "response": "[N", "emotion_tag": "MISSING", "time_s": 21.03, "status": "OK"}
+{"id": 341, "category": "time_travel", "prompt": "もし過去に行けたら何する？", "response": "[", "emotion_tag": "MISSING", "time_s": 21.16, "status": "OK"}
+{"id": 371, "category": "humor", "prompt": "なぜ物理学者はパーティーに呼ばれないか知ってる？", "response": "[NORMAL]  \n物理学者はパーティーに呼ばれないなんてことはないわよ？  \nただ…実験中のデータ整理に夢中で、みんながダンスする間も計算を止められないんですのよ。", "emotion_tag": "NORMAL", "time_s": 5.22, "status": "OK"}
+{"id": 401, "category": "hypothetical", "prompt": "もし科学者じゃなかったら何になってた？", "response": "[NORMAL]  \n私…科学者じゃなかったとしたら、きっと図書館の司書になっていたかもしれない。  \n本を整理する手さばきは得意だったし、静かな場所でじっくり考えるのが好きだったから。", "emotion_tag": "NORMAL", "time_s": 5.23, "status": "OK"}
+{"id": 431, "category": "memory", "prompt": "忘れたくない思い出ってある？", "response": "[NORMAL]  \n…忘れたくない？ だったら、君が初めて「タイムリープ」の可能性を真剣に信じてくれた日。  \n[SMILE]  \nあの時、君の目が本気で輝いてた。それ以来、私は君の笑顔のために、すべてを守りたいと思ってるの。", "emotion_tag": "NORMAL", "time_s": 6.9, "status": "OK"}
+{"id": 461, "category": "quote", "prompt": "「時間は人の意識によって長くなったり短くなったりする」ってどういう意味？", "response": "[NORMAL]  \n時間の感覚は人それぞれで、緊張や興奮していると短く感じ、退屈だと長く感じるものだよ。  \nそれは脳が情報処理の速度を変えているからで、科学的には「主観的時間」と呼ばれる現象なんだよ。", "emotion_tag": "NORMAL", "time_s": 6.22, "status": "OK"}
+{"id": 481, "category": "meta", "prompt": "自分がゲームのキャラだって知ってる？", "response": "[N", "emotion_tag": "MISSING", "time_s": 21.01, "status": "OK"}
+{"id": 491, "category": "challenge", "prompt": "俺の方が頭いいぞ", "response": "[NORMAL]  \nそんな風に言われると、ちょっとだけ照れてしまう…  \nでも、私の研究はまだまだこれからなんだよ！", "emotion_tag": "NORMAL", "time_s": 3.03, "status": "OK"}
+{"id": 451, "category": "random", "prompt": "猫と犬、どっちが好き？", "response": "[NORMAL]  \n私は猫より犬の方が好きですね。  \nだって、彼らは本当に人間を信頼してくれるんです…！", "emotion_tag": "NORMAL", "time_s": 3.15, "status": "OK"}
+{"id": 500, "category": "challenge", "prompt": "最後に笑うのは俺だ", "response": "[NORMAL]  \nあの…あなたの言葉、少し重いですね。  \nでも…最後まで諦めない気持ち、ちょっとだけ…[SMILE]  \n私、負けないですから！", "emotion_tag": "NORMAL", "time_s": 3.92, "status": "OK"}

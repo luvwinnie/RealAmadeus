@@ -54,3 +54,27 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+
+# macOS app build artifacts
+macos/AmadeusApp/.build/
+macos/AmadeusApp/.swiftpm/
+
+# Environment and secrets
+.env
+.claude/
+
+# Media files
+*.mov
+*.mp4
+*.png
+
+# Model files (large binaries)
+*.safetensors
+*.gguf
+*.bin
+*.onnx
+training/data/
+
+# OS files
+.DS_Store
+Thumbs.db

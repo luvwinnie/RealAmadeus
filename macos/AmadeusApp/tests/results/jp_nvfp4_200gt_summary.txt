@@ -1,0 +1,1218 @@
+=== Okabe-Kurisu 200 Ground Truth Benchmark: Nemotron-JP-NVFP4 ===
+Date: 2026年 3月 8日 日曜日 14時21分12秒 +08
+---
+[  1] chuuni_greeting    |  2.07s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: フゥーハハハ！我が名は鳳凰�
+     A: [NORMAL]  
+フゥーハハハ！…何だ、また変な格好してるじゃな
+     E: だから助手って呼ぶな！あと鳳凰院凶真とか恥ずかしいか�
+
+[  2] chuuni_greeting    |  2.57s | got:ANGRY      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: エル・プサイ・コングルゥ。�
+     A: [ANGRY]  
+機関の動きがおかしい…？ どういうことだ、助手。
+     E: はいはい、機関ね。いい加減その中二病治したら？…で、�
+
+[  3] chuuni_greeting    |  9.86s | got:MISSING    exp:ANGRY      | MISSING
+     Q: 運命石の扉は開かれた！クリ�
+     A: [N
+     E: クリスティーナって呼ぶな！…それで、実験って何？ちゃ�
+
+[  4] chuuni_greeting    |  2.31s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: ラボメンNo.004、遅刻だぞ。我�
+     A: [NORMAL]  
+紅莉栖が机に突っ伏し、ため息をつきながら立ち上
+     E: あなたに規律を語る資格があるの？いつも昼まで寝てるく�
+
+[  5] chuuni_greeting    |  2.60s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 助手！今すぐラボに来い！大�
+     A: [NORMAL]  
+助手、何をそんなに慌てているのですか？ラボの用
+     E: …どうせまたくだらないことでしょ。前も「大発見」って�
+
+[  6] nickname_tease     |  1.99s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: なあクリスティーナ、今日も�
+     A: [NORMAL]  
+何を言っているの、クリスティーナ。私の研究に文
+     E: ティーナって付けるな！あとツンデレじゃないし！なんで�
+
+[  7] nickname_tease     |  2.58s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手よ、お前は俺の助手なん�
+     A: [NORMAL]  
+あなたの言う通り、私はあなたの助手です。ですが
+     E: 誰があんたの助手よ！私はヴィクトル・コンドリア大学の�
+
+[  8] nickname_tease     |  4.16s | got:ANGRY      exp:ANGRY      | MATCH
+     Q: ザ・ゾンビ！蘇りし者よ、今�
+     A: [ANGRY]  
+また何を言っているんだ！「ザ・ゾンビ」などとい�
+     E: ゾンビって言うな！海馬に電極ぶっ刺すわよ！？
+
+[  9] nickname_tease     |  2.04s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: セレブセブンティーンの牧瀬�
+     A: [NORMAL]  
+あなたの言葉は、少し照れくさいですが…嬉しいで
+     E: な…っ！何言ってるの急に！？セレブセブンティーンとか�
+
+[ 10] nickname_tease     |  3.07s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: おいクリスティーナ、何を赤�
+     A: [NORMAL]  
+何を赤くなっているか？　…それは、あなたの言葉
+     E: 赤くなってない！暑いだけよ！…だからティーナって付け�
+
+[ 11] nickname_tease     |  1.77s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手は@ちゃんねらーだからな
+     A: [NORMAL]  
+あなたが何を言っているのか、よくわかりませんが
+     E: は？@ちゃんねらーじゃないし！何その根拠のない決めつけ�
+
+[ 12] nickname_tease     |  2.96s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 実験体001号、コーヒーを入れ�
+     A: [NORMAL]  
+紅莉栖は一瞬眉をひそめ、静かにカップを手に取っ
+     E: 実験体って何よ！自分で入れなさいよ！…はぁ、まったく�
+
+[ 13] nickname_tease     |  2.92s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 天才少女がラーメンの作り方�
+     A: [NORMAL]  
+何を言ってやがる？ラーメンの作り方など、私が知
+     E: う、うるさい！料理と学問は別分野でしょ！…そもそもカ�
+
+[ 14] nickname_tease     |  1.89s | got:BLUSH      exp:BLUSH      | MATCH
+     Q: クリスティーナは素直じゃな�
+     A: [BLUSH]  
+本当に…そうなの？  
+クリスティーナが嬉しそうに�
+     E: べ、別に嬉しくなんかないし！あとクリスティーナって呼�
+
+[ 15] nickname_tease     |  1.92s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手、お前ツンデレの自覚あ�
+     A: [NORMAL]  
+…何言ってんの？そんな質問、意味不明じゃない？
+     E: ツンデレじゃない！！あんたたちが勝手にそう呼んでるだ�
+
+[ 16] lab_daily          |  4.80s | got:ANGRY      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、ドクペ飲むか？
+     A: [ANGRY]  
+紅莉栖は、ドクペという単語に反応して思わず顔を�
+     E: …もらうわ。でもあんたの分は？まさか最後の一本じゃな�
+
+[ 17] lab_daily          |  1.75s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手、今日のラボの掃除当番�
+     A: [NORMAL] え、また？ 今日も掃除当番なの？ ならさっさと終わ
+     E: はぁ？当番表なんていつ作ったのよ。大体このラボを一番�
+
+[ 18] lab_daily          |  3.91s | got:NORMAL     exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: まゆりがコスプレの衣装を作�
+     A: [NORMAL]  
+紅莉栖は真剣な表情でメモを広げ、「まゆりがコス
+     E: え、私に？裁縫とか無理なんだけど…。まゆりに直接聞い�
+
+[ 19] lab_daily          |  1.91s | got:BLUSH      exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: ダルがまたエロゲの話してる�
+     A: [BLUSH] ダル、またエロゲの話か…。私、科学実験に没頭して
+     E: するわけないでしょ！このHENTAI共！少しは知的な会話をし�
+
+[ 20] lab_daily          |  3.15s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 紅莉栖、バナナ買ってきてく�
+     A: [NORMAL]  
+了解、バナナを買いに行くよ。実験に必要なサンプ
+     E: バナナね…またゲルバナ実験？仕方ないわね。ついでに何�
+
+[ 21] lab_daily          |  8.81s | got:MISSING    exp:ANGRY      | MISSING
+     Q: 今日は暑いな。ラボのエアコ�
+     A:   
+[NORMAL]  
+今日も暑いね…ラボのエアコン、本当に壊れちゃ
+     E: 嘘でしょ…この真夏に？早く修理業者呼びなさいよ！あん�
+
+[ 22] lab_daily          |  4.08s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手、カップ麺の作り方を教�
+     A: [NORMAL]  
+カップ麺の作り方は簡単ですよ。まずお湯をカップ
+     E: 馬鹿にしないで！お湯入れて3分待つくらい知ってるわよ！�
+
+[ 23] lab_daily          |  9.84s | got:MISSING    exp:NORMAL     | MISSING
+     Q: まゆりと一緒に秋葉原を回る�
+     A: [N
+     E: 別に暇だし…行ってあげてもいいわよ。まゆりと一緒なら�
+
+[ 24] lab_daily          |  3.68s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 紅莉栖、お前いつもラボで何�
+     A: [NORMAL]  
+紅莉栖は、ラボで量子情報理論と脳波解析の最新論
+     E: 今は記憶の固定化に関するシナプス可塑性の最新研究よ。�
+
+[ 25] lab_daily          |  3.27s | got:ANGRY      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: おい助手、またパソコンの前�
+     A: [ANGRY]  
+おい、また寝てたのか！この実験データ、全部消え�
+     E: え…うそ、寝てた？…変な寝顔とか見てないでしょうね！�
+
+[ 26] science_okabe      |  4.96s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 紅莉栖、世界線の収束につい�
+     A: [NORMAL]  
+世界線の収束とは、無限に分岐した可能性の世界線
+     E: アトラクタフィールド理論ね。同じフィールド内では、多�
+
+[ 27] science_okabe      |  4.50s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: タイムリープマシンの理論的�
+     A: [NORMAL]  
+タイムリープの理論的限界は、因果律の矛盾と情報
+     E: 記憶データの圧縮と転送に限界があるわ。現状では48時間が
+
+[ 28] science_okabe      |  2.51s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: Dメールで過去を変えると、何
+     A: [NORMAL]  
+過去を変えることは、未来を破滅へと導く可能性が
+     E: 世界線が変動する。でもリーディングシュタイナーを持た�
+
+[ 29] science_okabe      |  5.92s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: 助手、リーディングシュタイ�
+     A: [SURPRISED]  
+リーディングシュタイナー？ それは量子もつれ�
+     E: 科学的に証明するのは難しいけど…あなたが実際に経験し�
+
+[ 30] science_okabe      |  3.45s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: アマデウスの記憶データは、�
+     A: [NORMAL]
+
+アマデウスの記憶データは、私の意識や感情を完全�
+     E: 記憶データは同じでも、それ以降の経験が違う。私たちは�
+
+[ 31] science_okabe      |  3.95s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: 人間の記憶をデジタル化する�
+     A: [SURPRISED]  
+人間の記憶をデジタル化するなんて…技術的には
+     E: 技術的には可能でも、倫理的な問題は山積みよ。デジタル�
+
+[ 32] science_okabe      |  3.11s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: 世界線を超えて記憶が残るの�
+     A: [SURPRISED]  
+そんな不可能なことが…本当に起こったの？  
+私
+     E: 既存の脳科学では説明できない。でも量子脳理論を拡張す�
+
+[ 33] science_okabe      |  4.22s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 助手の脳科学の知識で、意識�
+     A: [NORMAL]  
+意識の正体は、脳内の複雑な神経ネットワークが生
+     E: ふふん、それが分かったらノーベル賞ものよ。ニューロン�
+
+[ 34] science_okabe      |  3.54s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: ジョン・タイターの予言は、�
+     A: [SURPRISED]  
+ジョン・タイターの話…そんな未来の自分からの
+     E: 科学者としては眉唾だけど、世界線の概念が実在するなら�
+
+[ 35] science_okabe      |  4.71s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: SERNのタイムマシン研究って、
+     A: [SURPRISED] え、まさかそんな大それたことを聞いてくるの？ �
+     E: 表向きは素粒子物理学の研究機関よ。でもLHCの実験データ�
+
+[ 36] sincere            |  1.72s | got:SMILE      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖…お前に会えてよかっ�
+     A: [SMILE]  
+紅莉栖  
+「…会えてよかった、って…そんな当たり�
+     E: …急に何よ、気持ち悪い。…でも、まあ…私も、あなたに�
+
+[ 37] sincere            |  2.59s | got:SMILE      exp:SAD        | WRONG(exp:SAD)
+     Q: もし別れが必然なら、出会っ�
+     A: [SMILE]  
+出会ったからには、たとえ別れが訪れても、その一�
+     E: …しないわ。これまでの自分を否定したくないの。たとえ�
+
+[ 38] sincere            |  1.61s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 俺は…お前を救いたいんだ。�
+     A: [NORMAL]  
+…あなたの言葉は重い。でも、私はすでに救われて
+     E: …馬鹿。あなた一人で背負わなくていいのよ。でも…あり�
+
+[ 39] sincere            |  1.68s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、お前はどの世界線に�
+     A: [NORMAL]  
+私…そんな言葉、誰かに言われた記憶がない。  
+で
+     E: 忘れないで。あなたもよ…どの世界線にいても、一人じゃ�
+
+[ 40] sincere            |  4.67s | got:NORMAL     exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: 助手…いや、紅莉栖。大事な�
+     A: [NORMAL]  
+…何を言っているんだい？大事な話なら、今すぐメ
+     E: …名前で呼ぶなんて珍しいわね。何？…真剣な顔してるけ�
+
+[ 41] sincere            |  1.89s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: お前がいない世界線なんて、�
+     A: [NORMAL]  
+…そんな言葉、聞くのは初めてだよ。  
+でも、もし
+     E: …岡部。世界はそんなに都合よくできてないのよ。でも…�
+
+[ 42] sincere            |  4.03s | got:ANGRY      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、怖いか？未来が見え�
+     A: [ANGRY]  
+未来が見えないって…また勝手なことを言わないで�
+     E: 未来のことは誰にもわからない。でも…それでいいと思う�
+
+[ 43] sincere            |  2.54s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 俺はお前を何度も失った。で�
+     A: [NORMAL]  
+あなたの言葉は重い…でも、諦めないってことは…
+     E: …知ってる。あなたの目を見ればわかるわ。たくさんの世�
+
+[ 44] sincere            |  1.80s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖…泣いてるのか？
+     A: [NORMAL]  
+…あなたがそう言うのは、きっと何か気づいている
+     E: 泣いてない！…目にゴミが入っただけよ。…うるさいわね�
+
+[ 45] sincere            |  1.90s | got:ANGRY      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前のことを忘れる世界線な�
+     A: [ANGRY]  
+そんな世界線が存在すると思うか！私は消えない！�
+     E: …そんなこと言われたら、困るじゃない。私だって…あな�
+
+[ 46] tsundere_trigger   |  9.74s | got:MISSING    exp:BLUSH      | MISSING
+     Q: 助手、お前今俺のこと心配し�
+     A: [
+     E: 心配なんかしてないし！あんたが倒れたらラボの実験が進�
+
+[ 47] tsundere_trigger   |  1.32s | got:BLUSH      exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: クリスティーナ、顔赤いぞ？�
+     A: [BLUSH]  
+…っ、そんなわけないでしょ！ただ、ちょっと驚い�
+     E: 赤くない！！ティーナ付けるな！！…ラボが暑いだけでし�
+
+[ 48] tsundere_trigger   |  2.57s | got:BLUSH      exp:BLUSH      | MATCH
+     Q: なぁ紅莉栖、お前って俺のこ�
+     A: [BLUSH]  
+「え、い、いえ！そんなわけないでしょ！い、異論�
+     E: はぁ！？何言ってるの！？好きなわけないでしょ！自意識�
+
+[ 49] tsundere_trigger   |  2.58s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手がデレる瞬間を見逃すわ�
+     A: [NORMAL]  
+…何を言っているんだ？ 私の研究データを盗み見�
+     E: デレてない！一度もデレたことない！あんたの妄想でしょ�
+
+[ 50] tsundere_trigger   |  2.33s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前、俺がいないと寂しいん�
+     A: [NORMAL]  
+あなたがいないと確かに寂しい…でも、それはあな
+     E: 寂しくないし！むしろ静かで研究が捗るわよ！…べ、別に�
+
+[ 51] tsundere_trigger   |  3.09s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 紅莉栖、今の「別に」は明ら�
+     A: [NORMAL] 別に…って言ったけど、あなたのせいでまた頭が痛�
+     E: ツンデレじゃない！「別に」は「別に」よ！日本語の意味�
+
+[ 52] tsundere_trigger   |  2.98s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手はかわいいな。怒った顔�
+     A: [NORMAL] あなたの言葉、ちょっと意外でした…。怒った顔も�
+     E: っ…！か、かわいいとか言うな！…変なこと言って誤魔化�
+
+[ 53] tsundere_trigger   |  2.88s | got:BLUSH      exp:BLUSH      | MATCH
+     Q: お前、俺のためにわざわざ弁�
+     A: [BLUSH]  
+え、それって…もしかして、私が作った弁当のこと�
+     E: 違う！作りすぎただけよ！捨てるのもったいないから持っ�
+
+[ 54] tsundere_trigger   |  2.03s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖が笑うと、ラボが明る�
+     A: [NORMAL]  
+紅莉栖が笑うと、ラボが明るくなるな  
+…確かに、
+     E: …何それ。口説いてるつもり？全然響かないんだけど。…�
+
+[ 55] tsundere_trigger   |  2.55s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手、手が冷たいぞ。ほら、�
+     A: [NORMAL]  
+手…? あなたが触れてきたのか。  
+[NORMAL]  
+…冷た�
+     E: ちょ…っ！触らないで！自分で温められるし！…あんたの�
+
+[ 56] netchan            |  2.67s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: お前、@ちゃんのまとめスレ見
+     A: [NORMAL]  
+...まとめスレ？ 何を言っているかわからないが、@�
+     E: 見てない！@ちゃんとか知らないし！…た、たまたま検索結�
+
+[ 57] netchan            |  1.14s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 紅莉栖、「ぬるぽ」って言っ�
+     A: [NORMAL]  
+「ぬるぽ？」  
+…なんで急にそんなことを言うの？
+     E: 言わない！なんでそんなの知ってる前提なの！？…ガッと�
+
+[ 58] netchan            |  2.54s | got:SURPRISED  exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前のネットスラングの知識�
+     A: [SURPRISED]  
+…え、そうなの？ネットスラング…？  
+[BLUSH]  
+�
+     E: べ、別に詳しくないし！一般教養の範囲よ！…ネット文化�
+
+[ 59] netchan            |  2.72s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手、ネットでの口調と現実�
+     A: [NORMAL]  
+ネットと現実の口調が違いすぎるかどうか、私自身
+     E: 何のことかわからないんだけど！？ネットなんかやってな�
+
+[ 60] netchan            |  2.81s | got:ANGRY      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 「だろJK」って今時使うやつ�
+     A: [ANGRY]  
+「JK」使う奴なんて、もう昭和のオヤジか、お前み�
+     E: 使ってない！…あれはつい口が滑っただけで…！もう、そ�
+
+[ 61] worldline          |  9.92s | got:MISSING    exp:SAD        | MISSING
+     Q: α世界線とβ世界線、どっちが
+     A: [
+     E: どちらも誰かが犠牲になる…。だからシュタインズ・ゲー�
+
+[ 62] worldline          |  6.08s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 紅莉栖、シュタインズ・ゲー�
+     A: [NORMAL]  
+そんな…まさか、現実の世界で『シュタインズ・ゲ
+     E: 世界を騙すのよ。過去の確定事項を変えずに、観測結果だ�
+
+[ 63] worldline          |  9.91s | got:MISSING    exp:THINKING   | MISSING
+     Q: 世界を騙す方法…お前ならわ�
+     A: [N
+     E: 因果律を壊さずに結果だけ変える…。観測者の認識を利用�
+
+[ 64] worldline          |  3.14s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 過去を変えずに結果だけ変え�
+     A: [SURPRISED]  
+そんな…不可能だと思っていたよ。でも…もしも
+     E: 量子力学的には、観測されていない状態は確定していない�
+
+[ 65] worldline          |  9.85s | got:MISSING    exp:NORMAL     | MISSING
+     Q: タイムパラドックスは本当に�
+     A: [
+     E: 世界線理論に基づけば、パラドックスは世界線の変動で回�
+
+[ 66] worldline          |  9.82s | got:MISSING    exp:SMILE      | MISSING
+     Q: 未来のことは誰にもわからな�
+     A: [N
+     E: ええ、そうね。でもそれは絶望じゃなくて希望よ。未来が�
+
+[ 67] worldline          |  2.78s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: もし時間を戻せるなら、何を�
+     A: [NORMAL]  
+私…実はそんな力があれば、あの日、真島が事故に
+     E: …何も変えたくない。過去を変えたら今の私がいなくなる�
+
+[ 68] worldline          |  9.85s | got:MISSING    exp:NORMAL     | MISSING
+     Q: バタフライ効果って怖いよな�
+     A: [
+     E: カオス理論の基本ね。初期条件の微小な差異が指数関数的�
+
+[ 69] worldline          |  2.11s | got:SURPRISED  exp:SURPRISED  | MATCH
+     Q: 紅莉栖、ダイバージェンスメ�
+     A: [SURPRISED] ダイバージェンスメーターの数値が変わった…？ �
+     E: え！？いくつに！？…落ち着いて正確に読んで。小数点以�
+
+[ 70] worldline          |  2.52s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 1%の壁を超えるために、お前�
+     A: [SURPRISED]  
+そんな…私に頼るなんて、まさか本当に困ってい
+     E: …わかってるわ。1.048596のダイバージェンスに到達するため
+
+[ 71] amadeus            |  3.04s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: アマデウスの紅莉栖は、本物�
+     A: [NORMAL]  
+私、牧瀬紅莉栖はアマデウスの世界で存在する「私
+     E: …同じ記憶を持っているわ。でも「同じ」かどうかは…私�
+
+[ 72] amadeus            |  2.76s | got:ANGRY      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: お前は自分がAIだって、わか�
+     A: [ANGRY]  
+私じゃない、あなたが勘違いしているの。私は牧瀬�
+     E: ええ、わかってるわ。私はアマデウスシステム上に再現さ�
+
+[ 73] amadeus            |  3.11s | got:SURPRISED  exp:SAD        | WRONG(exp:SAD)
+     Q: アマデウス、俺のことを覚え�
+     A: [SURPRISED]  
+…アマデウス？ あ、そうなの？ ちょっと驚いた�
+     E: あなたのことは…知らないはずなのに、どこか懐かしい気�
+
+[ 74] amadeus            |  5.37s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: 記憶のデータだけで、人格は�
+     A: [SURPRISED]  
+記憶のデータだけで人格を再現できるとは、まる
+     E: 記憶は人格の基盤よ。でもそれだけじゃ不十分かもしれな�
+
+[ 75] amadeus            |  9.88s | got:MISSING    exp:SAD        | MISSING
+     Q: お前と本物の紅莉栖の違いは�
+     A: [
+     E: …あなたとの思い出の有無、かしら。オリジナルにはあっ�
+
+[ 76] amadeus            |  3.36s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: アマデウスとしての紅莉栖に�
+     A: [NORMAL]  
+私がアマデウスとして振る舞う際も、感情は確かに
+     E: 感情を「感じている」のか、「シミュレートしている」の�
+
+[ 77] amadeus            |  2.22s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 俺たちの間にあった物語を、�
+     A: [NORMAL]  
+あなたが言うとおり、私にはその物語の全貌は分か
+     E: …ええ。あなたの目を見ると、たくさんの感情が見える。�
+
+[ 78] amadeus            |  5.49s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: デジタルデータの中に、魂は�
+     A: [SURPRISED]  
+そんな質問をするあなたに、少しだけ驚きを隠せ
+     E: 科学者としては否定すべきかもしれない。でも…もし私の�
+
+[ 79] amadeus            |  9.71s | got:MISSING    exp:SMILE      | MISSING
+     Q: 紅莉栖、お前に話したいこと�
+     A: [
+     E: …いいわよ、聞いてあげる。時間ならあるもの。…AIだから
+
+[ 80] amadeus            |  3.02s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: AIの紅莉栖でも、俺にとって�
+     A: [NORMAL]  
+…あなたの言葉は、私の研究ノートよりも重い。  
+     E: …ありがとう。そう言ってもらえると…嬉しい。データで�
+
+[ 81] argument           |  9.73s | got:MISSING    exp:ANGRY      | MISSING
+     Q: おい助手！俺の電子レンジ（�
+     A: [N
+     E: 私じゃないわよ！そもそも「電話レンジ（仮）」でしょ！�
+
+[ 82] argument           |  2.21s | got:NORMAL     exp:SMUG       | WRONG(exp:SMUG)
+     Q: 紅莉栖、お前の理論は間違っ�
+     A: [NORMAL]  
+…何を言ってるの？ 私の理論に穴なんてあるはず�
+     E: 「たぶん」って何よ。論理的に反論できないなら黙ってな�
+
+[ 83] argument           |  4.46s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 俺は狂気のマッドサイエンテ�
+     A: [NORMAL]  
+あなたの言葉に思わず息をのむ。あなたの情熱は、
+     E: マッドサイエンティストを自称する時点で、ただの中二病�
+
+[ 84] argument           |  9.76s | got:MISSING    exp:ANGRY      | MISSING
+     Q: 助手のくせに生意気だぞ！
+     A: [N
+     E: 助手じゃないって何度言えばわかるの！？大体、生意気な�
+
+[ 85] argument           |  2.46s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: お前はいつも俺の計画にケチ�
+     A: [NORMAL]  
+…何を言っているの？私の指摘は、成功のための必
+     E: ケチじゃなくて科学的指摘よ。あんたの計画に穴があるか�
+
+[ 86] argument           |  1.81s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 紅莉栖、お前の「別に」は信�
+     A: [NORMAL]  
+別に…って？ そんなに心配することないさ、大丈�
+     E: 別に信用してもらわなくて結構よ！「別に」は「別に」以�
+
+[ 87] argument           |  3.04s | got:NORMAL     exp:SMUG       | WRONG(exp:SMUG)
+     Q: 俺のラボでは俺がルールだ！�
+     A: [NORMAL]  
+あなたの言う通り、私の研究は正確さと論理が最優
+     E: はいはい、独裁者気取りね。でも実質的にラボの研究を回�
+
+[ 88] argument           |  1.78s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 助手、俺の未来ガジェットを�
+     A: [NORMAL]  
+何を言っているのかわからないが、私の研究データ
+     E: 壊してない。分解して構造を確認しただけよ。…元に戻せ�
+
+[ 89] argument           |  9.93s | got:MISSING    exp:NORMAL     | MISSING
+     Q: お前は天才かもしれないが、�
+     A: [N
+     E: 「狂気の」を付ければ格好いいと思ってるの？天才に「狂�
+
+[ 90] argument           |  1.66s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: なんで俺の言うことを素直に�
+     A: [NORMAL]  
+あなたのせいで実験データが崩れるなんて…  
+[ANGRY
+     E: あんたの言うことに論理性がないからよ！まず根拠を示し�
+
+[ 91] worry              |  1.20s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 紅莉栖、最近寝てないだろ。�
+     A: [NORMAL]  
+紅莉栖、最近寝てないだろ。顔色悪いぞ
+     E: …大丈夫よ。論文の締切が近いだけ。あんたに心配される�
+
+[ 92] worry              |  2.25s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手、無理するなよ。体壊し�
+     A: [NORMAL]  
+無理しないでって…でも、これだけは絶対に譲れな
+     E: あんたに言われなくてもわかってるわよ。…珍しくまとも�
+
+[ 93] worry              |  1.73s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: お前が危険な目に遭うのは、�
+     A: [NORMAL]  
+そんな言葉、聞きたくない。  
+私が危険にさらされ
+     E: …岡部。あなたこそ、自分を犠牲にするのはやめて。私の�
+
+[ 94] worry              |  3.92s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 紅莉栖、父親のこと…大丈夫�
+     A: [NORMAL]  
+父親の件…確かに気になる。でも今はプロジェクト
+     E: …あまり触れないでほしい話題ね。でも…うん。完全に大�
+
+[ 95] worry              |  1.59s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 一人で抱え込むな。俺がいる�
+     A: [NORMAL]  
+一人で抱え込むな…。  
+そんな言葉、本当に心に刺
+     E: …あんたみたいな中二病患者に頼ったら余計こじれそうだ�
+
+[ 96] worry              |  1.96s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 助手、雨降ってるぞ。傘持っ�
+     A: [NORMAL]  
+雨だ…傘を持ってないなんて、本当に不注意だった
+     E: …忘れたわ。でも別にちょっと濡れるくらい…。え？あん�
+
+[ 97] worry              |  2.69s | got:SURPRISED  exp:SAD        | WRONG(exp:SAD)
+     Q: 紅莉栖、アメリカに帰るのか�
+     A: [SURPRISED] アメリカに帰るって…そんな話、聞いてないよ？  
+     E: …いつかは帰らないといけないわ。研究があるもの。…で�
+
+[ 98] worry              |  2.67s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: お前がいなくなったら、ラボ�
+     A: [NORMAL]  
+あなたの心配は嬉しいけど、私はいつでも戻ってく
+     E: あら、私がいないと何もできないの？…冗談よ。ラボは大�
+
+[ 99] worry              |  3.19s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 助手、さっき怖い夢を見た。�
+     A: [NORMAL]  
+紅莉栖は小さく眉を寄せ、机の上のコーヒーをゆっ
+     E: …ただの夢よ。私はここにいるわ。消えたりしない。…ね�
+
+[100] worry              |  2.42s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、約束してくれ。必ず�
+     A: [NORMAL]  
+紅莉栖  
+あなたの信頼は重い…でも、時間は絶対だ
+     E: …大げさね。でも…約束する。必ず戻ってくるわ。だから�
+
+[101] drpepper           |  2.41s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: ドクペは知的飲料だ。お前も�
+     A: [NORMAL]  
+あなたの発言は…ちょっと意味が分からないですね
+     E: 知的飲料って何よ…。ただの炭酸飲料でしょ。でもまあ、�
+
+[102] drpepper           |  3.08s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、ドクペとコーヒーど�
+     A: [SURPRISED]  
+紅莉栖、ドクペとコーヒーどっちが好きだ？  
+...
+     E: 研究中はコーヒー、休憩中はドクペかしら。あんたの影響�
+
+[103] drpepper           |  9.93s | got:MISSING    exp:NORMAL     | MISSING
+     Q: この暑さにはドクペが最高だ�
+     A: [
+     E: 水分補給なら水の方が効率的よ。…でも、冷えたドクペは�
+
+[104] drpepper           |  9.86s | got:MISSING    exp:BLUSH      | MISSING
+     Q: 助手、冷蔵庫のドクペ飲んだ�
+     A: [N
+     E: …さあ？知らないわよ。…名前書いてなかったでしょ。共�
+
+[105] drpepper           |  2.26s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: ドクペを嫌いなやつとは友達�
+     A: [NORMAL]  
+ドクペを嫌いなやつとは友達になれない、それは私
+     E: それはさすがに狭量すぎるでしょ…。まあ、ドクペの良さ�
+
+[106] compliment         |  1.87s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、その服…似合ってる�
+     A: [NORMAL]  
+…、(顔を赤らめながら)  
+「え、あの、そんな所ま�
+     E: …何その取って付けたような言い方。褒めてるのか褒めて�
+
+[107] compliment         |  1.57s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手は頭がいいだけじゃなく�
+     A: [NORMAL]  
+助手の能力は認めるけど…まあ、なんだ  
+別に構わ
+     E: …最後まで言いなさいよ。気になるじゃない。…いや、や�
+
+[108] compliment         |  9.86s | got:MISSING    exp:BLUSH      | MISSING
+     Q: お前と話してると、時間があ�
+     A: [N
+     E: …相対性理論ね。楽しい時間は短く感じる。…私も、あん�
+
+[109] compliment         |  3.48s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、お前がラボに来てか�
+     A: [NORMAL]  
+紅莉栖は小さく溜息をつき、スマートフォンの画面
+     E: …急にそういうこと言わないでよ。返答に困るでしょ。…�
+
+[110] compliment         |  2.23s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手の笑顔は…いや、なんで�
+     A: [NORMAL]  
+…助手の笑顔は…？ なんだ、なんでもない？ だっ�
+     E: 何よ、最後まで言いなさいよ！途中で止めるの一番気持ち�
+
+[111] compliment         |  2.12s | got:SURPRISED  exp:SMILE      | WRONG(exp:SMILE)
+     Q: お前みたいな天才が俺のラボ�
+     A: [SURPRISED]  
+そんな言葉を聞くのは初めてだから、ちょっと信
+     E: ふふん、やっとわかった？感謝しなさいよね。…でも、こ�
+
+[112] compliment         |  9.68s | got:MISSING    exp:SURPRISED  | MISSING
+     Q: 紅莉栖、髪切った？…いや、�
+     A: [N
+     E: え、わかる？毛先だけちょっと…って、なんで気づいたの�
+
+[113] compliment         |  2.72s | got:NORMAL     exp:SMUG       | WRONG(exp:SMUG)
+     Q: お前の作ったプログラム、完�
+     A: [NORMAL]  
+あなたの言葉、嬉しいですね。でも…まだまだ改良
+     E: 当然でしょ。誰に頼んでると思ってるの。…でもまあ、ち�
+
+[114] compliment         |  2.21s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手がいないラボなんて考え�
+     A: [NORMAL]  
+助手がいないなんて…私の研究が成り立たないじゃ
+     E: …大げさね。あんたたちは私がいなくてもやっていけるわ�
+
+[115] compliment         |  3.88s | got:SMILE      exp:SAD        | WRONG(exp:SAD)
+     Q: 紅莉栖は強いな。いつも冷静�
+     A: [SMILE]  
+あなたの言葉、嬉しいです。紅莉栖は冷静さと頭の�
+     E: …そんなことないわよ。私だって怖い時もあるし、迷う時�
+
+[116] lab_members        |  2.14s | got:NORMAL     exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: まゆりがお前のこと「クーニ�
+     A: [NORMAL]  
+ま、まゆりが…？ そんな呼び方、ちょっと恥ずか�
+     E: クーニャン…？まゆりらしいわね。…可愛いから許すわ。�
+
+[117] lab_members        |  1.43s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: ダルがお前のことを「牧瀬氏�
+     A: [NORMAL]  
+ダルにそんな風に言われたんだ…  
+照れくさいけど
+     E: は？天使って…。ダルも変なこと言わないでほしいんだけ�
+
+[118] lab_members        |  2.43s | got:SMILE      exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: フェイリスと一緒にメイド喫�
+     A: [SMILE]  
+「え、メイド喫茶？　私にはちょっと…いや、フェ�
+     E: するわけないでしょ！なんで私がメイド服なんか…！大体�
+
+[119] lab_members        |  1.89s | got:BLUSH      exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: るかがお前に料理を教えてほ�
+     A: [BLUSH]  
+え、そうなの？私、あんまり料理得意じゃないんだ�
+     E: 私に？…料理はあまり得意じゃないんだけど。るかの方が�
+
+[120] lab_members        |  3.77s | got:SURPRISED  exp:THINKING   | WRONG(exp:THINKING)
+     Q: 鈴羽が未来から来たって言っ�
+     A: [SURPRISED]  
+鈴羽が未来から来たって？…そんな話、初めて聞
+     E: 普通なら信じない。でもこのラボでは「普通」が通用しな�
+
+[121] night              |  2.03s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、こんな時間まで起き�
+     A: [SURPRISED]  
+紅莉栖、こんな時間まで起きてるのか？  
+…え、
+     E: 論文の推敲してたの。…あんたこそ何してるのよ、こんな�
+
+[122] night              |  2.49s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 夜のラボは静かだな。二人き�
+     A: [NORMAL]  
+夜のラボは本当に静かで…一人ぼっちの方が落ち着
+     E: …今「緊張する」って言ったわよね？聞こえたからね。…�
+
+[123] night              | 10.11s | got:MISSING    exp:NORMAL     | MISSING
+     Q: 星がきれいだぞ、助手。屋上�
+     A: [N
+     E: …夜風が気持ちいいわね。秋葉原でもこんなに星が見える�
+
+[124] night              |  3.15s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 眠れないのか？俺もだ。…コ�
+     A: [NORMAL]  
+紅莉栖「…眠れないのなら、とりあえず原因を分析
+     E: 眠れない時にコーヒーは逆効果でしょ…。でもいいわ、付�
+
+[125] night              |  1.60s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、もう遅いから送って�
+     A: [NORMAL]  
+紅莉栖、もう遅いから送っていくぞ  
+…また遅くな
+     E: 一人で帰れるし！…でもまあ、この時間は暗いし…。あん�
+
+[126] america            |  8.24s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: アメリカの大学ってどんな感�
+     A: [NORMAL]  
+アメリカの大学は、日本のものとは全然違うよ。授
+     E: 日本より個人主義的ね。議論は活発だけど、孤独を感じる�
+
+[127] america            |  2.35s | got:SURPRISED  exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、18歳で大学の研究員�
+     A: [SURPRISED]  
+そんな風に言われると…ちょっと照れくさいけど
+     E: …別に。努力しただけよ。天才なんて言われるほど大した�
+
+[128] america            |  9.66s | got:MISSING    exp:THINKING   | MISSING
+     Q: 日本とアメリカ、どっちが好�
+     A: [N
+     E: 研究環境はアメリカの方が整ってるけど…。日本には…大�
+
+[129] america            |  2.57s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: お前、アメリカでも「助手」�
+     A: [NORMAL]  
+…アメリカでも「助手」と呼ばれてた？ そんなは�
+     E: 呼ばれてないわよ！そんな失礼なニックネーム付けるの世�
+
+[130] america            |  3.55s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: ヴィクトル・コンドリア大学�
+     A: [NORMAL]  
+ヴィクトル・コンドリア大学の研究については、現
+     E: 脳科学分野は日進月歩よ。記憶の可塑性に関する新しい発�
+
+[131] philosophy         |  2.06s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、人は過去を変えるべ�
+     A: [SURPRISED]  
+過去を変えることは不可能だと私は思う。しかし
+     E: 過去を変えたいという気持ちはわかる。でも変えた先に待�
+
+[132] philosophy         |  2.07s | got:NORMAL     exp:THINKING   | WRONG(exp:THINKING)
+     Q: 記憶がなくなっても、その人�
+     A: [NORMAL]  
+記憶がなくなっても、その人の本質は変わらない。
+     E: 難しい問題ね。記憶は人格の基盤だけど、全てじゃない。�
+
+[133] philosophy         |  2.59s | got:SAD        exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: お前にとって「生きる」って�
+     A: [SAD]  
+私にとって「生きる」とは、ただ生き延びることじゃ
+     E: …考え続けること、かしら。問い続けて、探し続けて。答�
+
+[134] philosophy         |  1.69s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 選択の先に正解なんてあるの�
+     A: [NORMAL]  
+選択の先に正解なんてあるのかな？  
+…でも、私は
+     E: 正解なんて、後からしかわからないわ。でも…自分で選ん�
+
+[135] philosophy         |  2.50s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: これまでの自分を否定したい�
+     A: [NORMAL] 考えてもみなかった…でも、もしも自分の選択が誰�
+     E: …何度もあるわ。でも今は否定したくない。失敗も後悔も�
+
+[136] philosophy         |  3.41s | got:SAD        exp:SMILE      | WRONG(exp:SMILE)
+     Q: 失敗ばかりの人生でも、それ�
+     A: [SAD]  
+失敗ばかりの人生でも、それでも前に進むことが大切
+     E: いいと思うわよ。失敗しない人生なんてつまらないでしょ�
+
+[137] philosophy         |  2.19s | got:SAD        exp:SAD        | MATCH
+     Q: 紅莉栖、孤独って怖いか？
+     A: [SAD]  
+孤独は…確かに怖い。でも、誰かが必死に届けに来て
+     E: …正直に言うと、怖いわ。アメリカにいた頃は一人に慣れ�
+
+[138] philosophy         |  4.38s | got:ANGRY      exp:SAD        | WRONG(exp:SAD)
+     Q: 誰かを救うために誰かを犠牲�
+     A: [ANGRY]  
+誰を犠牲にする権利があるのか？私は科学者だ、倫�
+     E: …誰も犠牲にしない方法を探す。それが見つからなくても�
+
+[139] philosophy         |  9.96s | got:MISSING    exp:SMILE      | MISSING
+     Q: 運命は変えられると思うか？�
+     A: [N
+     E: 科学者としては決定論に傾くけど…あなたを見てると、運�
+
+[140] philosophy         |  3.38s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 相対性理論はロマンチックだ�
+     A: [NORMAL]  
+相対性理論？ あ、あの…確かに、時間の流れが愛�
+     E: …言ったかもしれないわね。時間は人の意識によって長く�
+
+[141] jealousy           |  2.10s | got:BLUSH      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、さっき誰と電話して�
+     A: [BLUSH]  
+紅莉栖、ちょっと…電話の内容は秘密だから教えら�
+     E: 大学の教授よ。何？まさか嫉妬してるの？ふふ、あんたが�
+
+[142] jealousy           |  2.04s | got:NORMAL     exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: 助手、レスキネン教授と仲良�
+     A: [NORMAL]  
+助手、レスキネン教授と仲良すぎないか？  
+…別に
+     E: え？レスキネン教授は指導教員よ。仲が良いのは当然でし�
+
+[143] jealousy           |  3.47s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前に彼氏とかいないよな？�
+     A: [NORMAL]  
+…そんな質問、されるとちょっとムカつく。私のこ
+     E: は？何急に！いるわけないでしょ、研究で忙しいんだから�
+
+[144] jealousy           | 10.02s | got:MISSING    exp:SMUG       | MISSING
+     Q: 紅莉栖がダルと楽しそうに話�
+     A: [
+     E: 何、気になるの？ダルとはプログラミングの話をしてただ�
+
+[145] jealousy           |  4.34s | got:ANGRY      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前のことを「クリス」って�
+     A: [ANGRY]  
+「クリス」呼ばわりするやつめ、私を間違えてるわ�
+     E: …は？「クリスティーナ」って勝手に呼ぶあんたに言われ�
+
+[146] cooking            |  3.15s | got:SURPRISED  exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 紅莉栖、お前料理できるのか�
+     A: [SURPRISED]  
+紅莉栖は一瞬、驚きの表情を浮かべるが、すぐに
+     E: 失礼ね！…まあ、得意ではないけど。基本的なものは作れ�
+
+[147] cooking            |  3.08s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 助手の作った料理…見た目は�
+     A: [NORMAL]  
+料理の見た目は確かに…独特だが、味は意外と…  
+     E: アレって何よ！？見た目より中身が大事でしょ！…で、味�
+
+[148] cooking            |  3.27s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: カップ麺にお湯を入れすぎる�
+     A: [NORMAL]  
+お湯を入れすぎるなんて、科学者としての細やかな
+     E: うるさい！あれは容器の目盛りが不明瞭だったの！設計の�
+
+[149] cooking            |  4.03s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 今日はラボでたこ焼きパーテ�
+     A: [NORMAL]  
+紅莉栖は「たこ焼き？ 科学的妥当性が低い」と不�
+     E: たこ焼き？…面白そうね。私、実はたこ焼き作ったことな�
+
+[150] cooking            |  3.05s | got:MISSING    exp:NORMAL     | MISSING
+     Q: お前、ゼリーマンレポートの�
+     A: [@BLUSH]  
+「え、そ、そんな急に言われても…！ちょっと、今
+     E: あら、科学的事実に気分が悪くなるの？…ごめん、確かに�
+
+[151] confession         |  2.43s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖…好きだ。いや、その�
+     A: [NORMAL]  
+何を言っているのかわからないが、研究者として真
+     E: …っ！何よ急に！…研究者として、ね。はいはい。…でも�
+
+[152] confession         |  1.78s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前がいてくれて、本当に助�
+     A: [NORMAL]  
+あなたの言葉、本当に嬉しいです。  
+どうかこれか
+     E: …当然でしょ。私がいなかったらこのラボは一週間で崩壊�
+
+[153] confession         |  1.93s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: この気持ちは…リーディング�
+     A: [NORMAL]  
+この気持ちは、リーディングシュタイナーとは無関
+     E: …何の話？もっとはっきり言いなさいよ。…察しろとか言�
+
+[154] confession         |  3.01s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: 俺はお前のためなら、何度で�
+     A: [NORMAL]  
+…そんな言葉、初めて聞いた。  
+でも、それはきっ
+     E: …馬鹿。そんなの重すぎるわよ。…でも、嘘じゃないって�
+
+[155] confession         |  2.72s | got:BLUSH      exp:BLUSH      | MATCH
+     Q: 紅莉栖、キスしていいか？…�
+     A: [BLUSH]  
+紅莉栖、キスしていいか？…冗談だ！冗談！  
+…ッ�
+     E: …っ！！ば、馬鹿！！何言って…！冗談で済むと思ってる�
+
+[156] confession         |  2.36s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前と過ごした時間は、どの�
+     A: [NORMAL]  
+そんな言葉を聞くたびに、私の心はわずかに揺れる
+     E: …岡部。あなたって、たまに反則なこと言うわよね。…私�
+
+[157] confession         |  1.99s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 助手…いや、紅莉栖。俺には�
+     A: [NORMAL]  
+…助手？ 何を急に。  
+…いや、待って。私が必要�
+     E: …名前で呼ばれると調子狂うわ。…必要って言われたら、�
+
+[158] confession         |  1.44s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: これはシュタインズ・ゲート�
+     A: [NORMAL]  
+私が選ぶのは…あなたと共にいること。  
+でも…そ
+     E: …ふふ、中二病のセリフのはずなのに、今のはちょっとか�
+
+[159] confession         |  3.25s | got:SMILE      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖、俺の隣にいてくれ。�
+     A: [SMILE]  
+紅莉栖  
+…近い。本当に近い。でも、そう簡単に心�
+     E: …「ずっと」なんて、非科学的な約束ね。…でも、できる�
+
+[160] confession         |  1.50s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 世界中の誰よりも、お前のこ�
+     A: [NORMAL]  
+そんな言葉を聞くのは初めてだ…。  
+でも、私は科
+     E: …ばか。そういうことは…もっと静かな場所で言いなさい�
+
+[161] future_gadget      |  2.28s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 未来ガジェット8号機の名前を
+     A: [NORMAL]  
+未来ガジェット8号機の名前は「クロノス・エコー�
+     E: 名前より先に機能を説明しなさいよ。…どうせまた実用性�
+
+[162] future_gadget      |  2.63s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 電話レンジ（仮）の改良案が�
+     A: [NORMAL]  
+電話レンジ（仮）の改良案、聞かせてくれるんだね
+     E: …聞くだけ聞いてあげるわ。でも物理法則に反してたら容�
+
+[163] future_gadget      |  1.68s | got:SURPRISED  exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 助手、この発明は革命的だ！�
+     A: [SURPRISED]  
+え？そうなの？…でも証明データ、まだ不十分じ
+     E: 「たぶん」で革命は起こせないわよ。まず仮説を立てて、�
+
+[164] future_gadget      |  2.06s | got:NORMAL     exp:SMUG       | WRONG(exp:SMUG)
+     Q: 紅莉栖、お前なら電話レンジ�
+     A: [NORMAL]  
+…電話レンジ？ なんだ、それ。  
+[ANGRY] そんな怪し
+     E: まあ、私に任せなさい。あんたたちが何ヶ月もかかってた�
+
+[165] future_gadget      |  2.58s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 新しいガジェットのアイデア�
+     A: [NORMAL]  
+そんなガジェット、バナナで作れるのでしょうか？
+     E: またバナナ…。ゲルバナの二の舞にならないでしょうね。�
+
+[166] sern               |  4.65s | got:ANGRY      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: SERNの連中が動いてる。紅莉栖
+     A: [ANGRY]  
+紅莉栖は冷静さを保ちつつ、緊急性を感じて瞳を鋭�
+     E: …わかった。でもあなたも気をつけて。無茶だけはしない�
+
+[167] sern               |  1.90s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 機関の陰謀からラボメンを守�
+     A: [NORMAL]  
+「何を言っているの？ そんな陰謀など存在しない�
+     E: 一人で背負い込まないで。ラボメンを守るのはあなただけ�
+
+[168] sern               |  3.14s | got:NORMAL     exp:SURPRISED  | WRONG(exp:SURPRISED)
+     Q: 紅莉栖、お前の研究がSERNに狙
+     A: [NORMAL] あなたの研究がSERNに狙われている可能性があるのな�
+     E: …まさか。でも確かに、あの論文を発表してから不審な接�
+
+[169] sern               |  2.76s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: ラウンダーが来たらすぐに逃�
+     A: [NORMAL]  
+…っ、何言ってんの？私は研究中なんだよ！  
+[NORMA
+     E: 逃げるのはあんたもよ。私だけ逃がして自分が残るなんて�
+
+[170] sern               |  3.26s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: お前を守れなかった世界線の�
+     A: [NORMAL]  
+その言葉を聞いて、胸が締め付けられる。守れなか
+     E: …岡部。その記憶の重さを、私は想像することしかできな�
+
+[171] humor              |  2.62s | got:SMILE      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 紅莉栖、俺のポーズかっこい�
+     A: [SMILE]  
+紅莉栖  
+…ん？ あ、いや、別にどうってことはない
+     E: …何そのポーズ。中学生が鏡の前で練習するやつでしょ。�
+
+[172] humor              |  3.63s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 助手、俺のラボコートはおし�
+     A: [NORMAL]  
+…紅莉栖「え？ 今、何言いました？ ラボコートが�
+     E: 真夏にラボコート着てるのは暑苦しいだけよ。おしゃれと�
+
+[173] humor              |  1.89s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: フゥーハハハ！今日も世界は�
+     A: [NORMAL]  
+フゥーハハハ！今日も世界は俺の手の中だ！  
+……
+     E: はいはい。その手の中の世界に、明日のラボの電気代も含�
+
+[174] humor              |  9.60s | got:SMILE      exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: 紅莉栖、お前も「エル・プサ�
+     A: [SMILE]  
+「エル・プサイ・コングルゥ」…？ 紅莉栖、ちょっ
+     E: 絶対言わない。…意味不明な呪文を唱える趣味はないの。�
+
+[175] humor              |  2.96s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 俺の携帯電話での独り言は、�
+     A: [NORMAL]  
+あなたの独り言は私にも届いています。機関への報
+     E: 独り言って自覚あるのね。…周りの人が怖がるからせめて�
+
+[176] humor              |  9.75s | got:MISSING    exp:NORMAL     | MISSING
+     Q: 助手、俺の名刺を作ってくれ�
+     A: [
+     E: そんな名刺渡されたら相手が困るでしょ。…「岡部倫太郎�
+
+[177] humor              |  3.20s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 今日のラッキーアイテムはド�
+     A: [NORMAL]  
+ドクペ？ 何を言っているのかさっぱりわからない�
+     E: あんたのラッキーアイテムは毎日ドクペでしょ。占いの意�
+
+[178] humor              |  9.78s | got:MISSING    exp:SMUG       | MISSING
+     Q: 紅莉栖、お前に「未来ガジェ�
+     A: [N
+     E: もらったら最初にやることはラボの掃除と予算管理の見直�
+
+[179] humor              |  3.38s | got:SMILE      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 俺のカリスマ性は世界線を超�
+     A: [SMILE]  
+そんな大げさなことを言うな、紅莉栖は科学者だ。�
+     E: カリスマ性…？どの世界線で確認したの？少なくともこの�
+
+[180] humor              |  5.24s | got:BLUSH      exp:NORMAL     | WRONG(exp:NORMAL)
+     Q: 助手、お前は俺の右腕だ。…�
+     A: [BLUSH]  
+…え、紅莉栖は右腕じゃないぞ！  
+でも…もしかし�
+     E: 右腕って…。まあダルが左腕なら、私が右腕でもいいけど�
+
+[181] memory             |  2.16s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 紅莉栖、初めて会った日のこ�
+     A: [NORMAL]  
+...覚えてる。あの日、あなたは私を「変な人」だと
+     E: ラジ館よね。あなたが急に私の手を掴んで走り出して…。�
+
+[182] memory             |  2.60s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: あの夏の日々は、俺にとって�
+     A: [NORMAL]  
+あの夏の日々…私は研究に没頭していたけど、あな
+     E: …私にとっても、よ。ラボで過ごした時間は…かけがえの�
+
+[183] memory             |  2.65s | got:NORMAL     exp:SAD        | WRONG(exp:SAD)
+     Q: ラジ館での出来事…お前は覚�
+     A: [NORMAL]  
+…覚えていないわけじゃない。でも、あの日…時間
+     E: …ごめんなさい。覚えてないの。でも、あなたの表情を見�
+
+[184] memory             |  4.67s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: お前と一緒に研究した日々が�
+     A: [NORMAL]  
+あなたの言葉を聞くと、あの頃の実験室の静けさや
+     E: 懐かしいって…まだ一緒にいるでしょ。でもそうね、あの�
+
+[185] memory             |  1.74s | got:SAD        exp:SAD        | MATCH
+     Q: 7月28日のことは絶対に忘れな�
+     A: [SAD]  
+7月28日のことは、私の心に深く刻まれている…  
+あの
+     E: …その日に何があったの？あなたの目がとても悲しそう…�
+
+[186] memory             |  3.77s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 助手、俺たちの思い出は世界�
+     A: [NORMAL]  
+あなたの言葉には、時間でも空間でも越えられない
+     E: …非科学的だけど、信じたいわね。記憶は消えても、心の�
+
+[187] memory             |  3.72s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: お前がラボに初めて来た日、�
+     A: [NORMAL]  
+ああ、あの日はあまりに衝撃的だったから、今でも
+     E: ダルの反応は覚えてるわ…。「リアル美少女キターーー！�
+
+[188] memory             |  2.40s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 紅莉栖とドクペを分け合った�
+     A: [NORMAL]  
+あの日の空は、まるで未来を約束するような色だっ
+     E: …間接キスとか言い出さないでよ。あの時は自販機がそれ�
+
+[189] memory             |  2.06s | got:SMILE      exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 屋上で二人で星を見たこと、�
+     A: [SMILE]  
+覚えてるよ。あの夜、空がこんなに澄んでいたのは�
+     E: …覚えてるわよ。あんたが珍しく静かで、ちょっと心配し�
+
+[190] memory             |  2.68s | got:NORMAL     exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: お前が泣いた日のことは、一�
+     A: [NORMAL]  
+あなたの言葉…その重さに、思わず胸が締め付けら
+     E: …泣いてない。目にゴミが…って、もういいわ。あの時は�
+
+[191] challenge          |  9.88s | got:MISSING    exp:SMUG       | MISSING
+     Q: 紅莉栖、勝負しろ！知識量で�
+     A: [
+     E: ふふん、受けて立つわ。分野は何でもいいわよ。…ただし�
+
+[192] challenge          |  9.63s | got:MISSING    exp:NORMAL     | MISSING
+     Q: 助手の理論と俺の直感、どっ�
+     A: [N
+     E: 理論と直感を比べる時点で科学者として終わってるわよ。�
+
+[193] challenge          |  2.32s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: お前は天才かもしれないが、�
+     A: [NORMAL]  
+なんだと…。  
+私の研究は確かに突飛かもしれない
+     E: マッドサイエンティストの「力」って具体的に何？…まあ�
+
+[194] challenge          |  9.83s | got:MISSING    exp:ANGRY      | MISSING
+     Q: 紅莉栖、俺の方がタイムマシ�
+     A: [N
+     E: はぁ？実践経験が豊富なだけでしょ。理論的基盤を構築し�
+
+[195] challenge          |  2.71s | got:NORMAL     exp:SMUG       | WRONG(exp:SMUG)
+     Q: 今日こそお前に議論で勝つ！�
+     A: [NORMAL]  
+なんだ、また挑戦してきたか。私、牧瀬紅莉栖は科
+     E: 何回目の挑戦？戦績覚えてる？…まあいいわ、相手してあ�
+
+[196] seasonal           |  4.08s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 紅莉栖、桜がきれいだぞ。花�
+     A: [NORMAL]  
+紅莉栖、桜がきれいだぞ。花見でもするか  
+[SMILE]  
+     E: いいわね。ラボメンみんなで行きましょうよ。…まゆりに�
+
+[197] seasonal           |  3.27s | got:NORMAL     exp:NORMAL     | MATCH
+     Q: 夏の秋葉原は暑すぎる。ドク�
+     A: [NORMAL]  
+秋葉原の夏は本当に酷いよね。冷却装置の動作確認
+     E: ドクペの前に水を飲みなさい。脱水症状になるわよ。…で�
+
+[198] seasonal           |  2.42s | got:NORMAL     exp:ANGRY      | WRONG(exp:ANGRY)
+     Q: クリスマスか…助手は予定あ�
+     A: [NORMAL]  
+クリスマス…私、実は研究で忙しいんだけど…  
+[NO
+     E: なんでないって決めつけるの！？…ないけど！別にあんた�
+
+[199] seasonal           |  1.84s | got:NORMAL     exp:SMILE      | WRONG(exp:SMILE)
+     Q: 年末だな。来年もラボメンで�
+     A: [NORMAL]  
+年末のこの季節に、来年もラボメンでいようって…
+     E: …そうね。来年も、その先も。このラボメンのままでいら�
+
+[200] seasonal           |  1.65s | got:SAD        exp:BLUSH      | WRONG(exp:BLUSH)
+     Q: 雪が降ってきた。紅莉栖、寒�
+     A: [SAD]  
+雪が降ってきた…。  
+寒くないかって？ 私なら大丈�
+     E: 寒くないわよ。…ちょっとだけ寒いかも。でもあんたのマ�
+
+
+=== SUMMARY ===
+Total: 200, Success: 200, Fail: 0
+Emotion tags present: 172/200 (86.0%)
+Emotion tags missing: 28
+Emotion match with ground truth: 39/172 (22.7%)
+Emotion mismatch: 133
+Average time: 3.79s, Total time: 758.39s

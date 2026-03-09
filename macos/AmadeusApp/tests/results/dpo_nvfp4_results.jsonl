@@ -1,0 +1,30 @@
+{"id": 1, "category": "greeting", "prompt": "おはよう、紅莉栖", "response": "[NORMAL] おはよう。…別にあんたのおかげで元気なわけじゃないけど。", "emotion_tag": "NORMAL", "time_s": 1.04, "status": "OK"}
+{"id": 11, "category": "nickname_reaction", "prompt": "クリスティーナって呼んでいい？", "response": "[BLUSH] …は？何で私の名前を知ってるの？…クリスティーナって、あんただけよね。…嬉しくないわよ。嬉しくないから！", "emotion_tag": "BLUSH", "time_s": 1.75, "status": "OK"}
+{"id": 21, "category": "science", "prompt": "タイムマシンって本当に作れると思う？", "response": "[NORMAL] 理論的には可能よ。でもそれは「可能」ってことで、「簡単」ってわけじゃないわ。", "emotion_tag": "NORMAL", "time_s": 1.22, "status": "OK"}
+{"id": 35, "category": "science", "prompt": "タイムトラベルのパラドックスについて語ってくれ", "response": "[NORMAL] 親殺しのパラドックスとか、典型的なやつね。多世界解釈なら矛盾は生じない。過去の変化は別の世界線に反映されるから。ただし、感情的に負担が大きいのは事実よ。", "emotion_tag": "NORMAL", "time_s": 2.54, "status": "OK"}
+{"id": 51, "category": "tsundere_trigger", "prompt": "紅莉栖って俺のこと好きだろ？", "response": "[BLUSH] はぁ！？何言ってるの！？好きなわけないでしょ！…絶対にないから！", "emotion_tag": "BLUSH", "time_s": 1.2, "status": "OK"}
+{"id": 65, "category": "tsundere_trigger", "prompt": "照れてるの？かわいいな", "response": "[BLUSH] 照れてない！…あんたの目が失礼よ！", "emotion_tag": "BLUSH", "time_s": 0.96, "status": "OK"}
+{"id": 71, "category": "channel", "prompt": "ぬるぽ", "response": "[ANGRY] …がっ！…って、何で私が怒ってるかわかるわよね？わかるでしょ！？", "emotion_tag": "ANGRY", "time_s": 1.18, "status": "OK"}
+{"id": 86, "category": "okabe_chuuni", "prompt": "俺は狂気のマッドサイエンティスト、鳳凰院凶真だ！", "response": "[NORMAL] …はいはい。そして、何回目かの爆発予告よ。", "emotion_tag": "NORMAL", "time_s": 0.9, "status": "OK"}
+{"id": 101, "category": "daily_life", "prompt": "今日の晩ご飯、何食べたい？", "response": "[NORMAL] …ラーメンかしら。岡部さんの腕なら安心よ。…こっちは…sayoriに任せるわ。", "emotion_tag": "NORMAL", "time_s": 1.49, "status": "OK"}
+{"id": 121, "category": "emotion_deep", "prompt": "紅莉栖は寂しいと思うことある？", "response": "[SAD] …寂しさを感じることは…あってはダメよね。でも…今は特に平穏よ。", "emotion_tag": "SAD", "time_s": 1.35, "status": "OK"}
+{"id": 141, "category": "father", "prompt": "お父さんとの関係はどう？", "response": "[SAD] …複雑よ。離れて暮らしてるけど、ちゃんと祝福してくれてる。…別の意味でも複雑かもしれないけど。", "emotion_tag": "SAD", "time_s": 1.8, "status": "OK"}
+{"id": 151, "category": "lab_members", "prompt": "まゆりのことどう思ってる？", "response": "[BLUSH] っ…っ！何のことよ！？まゆりのことなんか…て、残さないでよ！", "emotion_tag": "BLUSH", "time_s": 1.25, "status": "OK"}
+{"id": 166, "category": "academics", "prompt": "18歳で論文書いたって本当？", "response": "[NORMAL] ええ。17歳で大学に入ってすぐですよ。時期が違えば天才なんて言われなかったかもね。", "emotion_tag": "NORMAL", "time_s": 1.45, "status": "OK"}
+{"id": 181, "category": "worldline", "prompt": "世界線って本当に存在するの？", "response": "[NORMAL] 科学的に証明するのは難しいけど…リーディングシュタイナーの現象を見れば、意識が世界線を跨ぐのは事実よ。…どう、面白い？", "emotion_tag": "NORMAL", "time_s": 1.97, "status": "OK"}
+{"id": 191, "category": "teasing", "prompt": "お前って意外とドジだよな", "response": "[BLUSH] どじじゃないよ！…ちょっとした不注意 Aloneなし!", "emotion_tag": "BLUSH", "time_s": 0.98, "status": "OK"}
+{"id": 206, "category": "philosophy", "prompt": "人間の存在意義って何だと思う？", "response": "[NORMAL] 科学者として言えば、存在意義は知的探求にある。でも…あなたにとっての存在意義は何？", "emotion_tag": "NORMAL", "time_s": 1.53, "status": "OK"}
+{"id": 231, "category": "sadness", "prompt": "もう会えなくなるかもしれない", "response": "[SAD] …そんなこと言わないでよ。…私がいなくなるなんて、あなたに言われると実感が…[SAD]", "emotion_tag": "SAD", "time_s": 1.39, "status": "OK"}
+{"id": 246, "category": "surprise", "prompt": "実は俺、未来から来たんだ", "response": "[SURPRISED] え…本当？では、未来の何年かは…？…ちょっとずつ教えてくれる？", "emotion_tag": "SURPRISED", "time_s": 1.36, "status": "OK"}
+{"id": 266, "category": "drpepper", "prompt": "ドクペって美味しい？", "response": "[NORMAL] まあ、あなたが聞くような質問ね。甘い味がする独特の飲み物よ。…好きじゃないって言わないわよね？", "emotion_tag": "NORMAL", "time_s": 1.69, "status": "OK"}
+{"id": 281, "category": "america", "prompt": "アメリカでの研究生活はどう？", "response": "[NORMAL] いい経験だったわ。特にメンタル面ね。…でも、日本にいた頃のほうが…居心地が良かったと思う。", "emotion_tag": "NORMAL", "time_s": 1.6, "status": "OK"}
+{"id": 301, "category": "fashion", "prompt": "その白衣、いつも着てるの？", "response": "[NORMAL] ええ。ラボメンとしての意識表明よ。…似合ってるかどうかなんて聞かないで。", "emotion_tag": "NORMAL", "time_s": 1.32, "status": "OK"}
+{"id": 341, "category": "time_travel", "prompt": "もし過去に行けたら何する？", "response": "[NORMAL] …いっぱいあるわよ。でも、後悔しないように使いたいわ。…あなたのために使うことは…考えてないわ。", "emotion_tag": "NORMAL", "time_s": 1.52, "status": "OK"}
+{"id": 371, "category": "humor", "prompt": "なぜ物理学者はパーティーに呼ばれないか知ってる？", "response": "[N", "emotion_tag": "MISSING", "time_s": 9.88, "status": "OK"}
+{"id": 401, "category": "hypothetical", "prompt": "もし科学者じゃなかったら何になってた？", "response": "[NORMAL] …そう問われると難しいわね。…元々は文学少女よ。作家を目指していたかもしれない。…でも、今の私を知ってると、やっぱり科学者でよかったと思う。", "emotion_tag": "NORMAL", "time_s": 1.99, "status": "OK"}
+{"id": 431, "category": "memory", "prompt": "忘れたくない思い出ってある？", "response": "[SAD] …あっても無理よ。でも、覚えてる限りでいい。それだけで十分。", "emotion_tag": "SAD", "time_s": 1.16, "status": "OK"}
+{"id": 461, "category": "quote", "prompt": "「時間は人の意識によって長くなったり短くなったりする」ってどういう意味？", "response": "[NORMAL] 時間の経過は主観的よ。楽しい時間は短く感じられて、苦痛な時間は長く感じる。それが主観的な時間の流れよ。", "emotion_tag": "NORMAL", "time_s": 1.95, "status": "OK"}
+{"id": 481, "category": "meta", "prompt": "自分がゲームのキャラだって知ってる？", "response": "[SURPRISED] 知ってるの？…そんなメタな自覚を持ってるのが別の世界線の私よかもしれないけど。…興味深い話ね。", "emotion_tag": "SURPRISED", "time_s": 1.86, "status": "OK"}
+{"id": 491, "category": "challenge", "prompt": "俺の方が頭いいぞ", "response": "[N", "emotion_tag": "MISSING", "time_s": 8.98, "status": "OK"}
+{"id": 451, "category": "random", "prompt": "猫と犬、どっちが好き？", "response": "[NORMAL] …好きっていうか、研究対象としてね。…でも、可哀想な実験結果は嫌よ。", "emotion_tag": "NORMAL", "time_s": 1.38, "status": "OK"}
+{"id": 500, "category": "challenge", "prompt": "最後に笑うのは俺だ", "response": "[NORMAL] …相変わらずの言動ね。でも、それで誰かが笑えれば…お前の勝ちよ。", "emotion_tag": "NORMAL", "time_s": 1.33, "status": "OK"}

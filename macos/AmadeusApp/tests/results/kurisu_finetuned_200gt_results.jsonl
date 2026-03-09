@@ -1,0 +1,200 @@
+{"id": 0, "user": "フゥーハハハ！我が名は鳳凰院凶真！助手よ、今日もラボに来たか！", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "ANGRY そのあだ名やめてって何度言えばわかるのよ！…で、今日は何であんなに早く来たのよ。寒いでしょ。\n", "category": "chuuni_greeting"}
+{"id": 1, "user": "エル・プサイ・コングルゥ。助手、機関の動きが怪しい。警戒せよ。", "expected": "NORMAL", "actual": "SURPRISED", "match": false, "response": "**[SURPRISED]** エル・プサイ・コングルゥって…そんなオカルトなこと言うんだろか。機関の動きが怪しいならまず俺が調べるけどな。あんたに任せるのは無理がある。\n", "category": "chuuni_greeting"}
+{"id": 2, "user": "運命石の扉は開かれた！クリスティーナ、実験を始めるぞ！", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": "**[BLUSH]** わ、私がクリスティーナって…！あんたが勝手に呼ぶな！…で、実験って何？ちゃんとプロトコルは確認してねよ。\n", "category": "chuuni_greeting"}
+{"id": 3, "user": "ラボメンNo.004、遅刻だぞ。我がラボの規律を乱すな！", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "うっ", "category": "chuuni_greeting"}
+{"id": 4, "user": "助手！今すぐラボに来い！大変な発見をしたのだ！", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "大変な発見って…またゲルバナナの増殖とかじゃないでしょうか？\n", "category": "chuuni_greeting"}
+{"id": 5, "user": "なあクリスティーナ、今日もツンデレ全開だな", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": "**[BLUSH]** ツンデレじゃないし！しかも名前で呼ぶな！何、気になるの？\n", "category": "nickname_tease"}
+{"id": 6, "user": "助手よ、お前は俺の助手なんだから、俺の言うことを聞け", "expected": "ANGRY", "actual": "NORMAL", "match": false, "response": "[NORMAL] 助手って呼ぶなよ。…で、何を命令するつもり？\n", "category": "nickname_tease"}
+{"id": 7, "user": "ザ・ゾンビ！蘇りし者よ、今日の実験結果を報告せよ！", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": " [BLUSH] ゾンビって…。で、結果は？\n", "category": "nickname_tease"}
+{"id": 8, "user": "セレブセブンティーンの牧瀬紅莉栖様は、今日もお美しい", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "[,", "category": "nickname_tease"}
+{"id": 9, "user": "おいクリスティーナ、何を赤くなっている？", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "**[BLUSH]** …赤くなってない！暑いだけよ！…だから、その呼び方やめなさいよ！「クリスティーナ」とか…\n", "category": "nickname_tease"}
+{"id": 10, "user": "助手は@ちゃんねらーだからな。「ぬるぽ」とか言うんだろ？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[@BLUSH] …言わないわよ！なんであんたの想定通りじゃないと怒るの！…ぬるぽとか意味わかんないし！\n", "category": "nickname_tease"}
+{"id": 11, "user": "実験体001号、コーヒーを入れてくれ。これは命令だ。", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": "[ANGRY] 実験体って何よ。自分で入れなさいよ。\n", "category": "nickname_tease"}
+{"id": 12, "user": "天才少女がラーメンの作り方も知らないとは…", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": " [ANGRY] 何その人格否定的な…！料理と学問は別分野でしょ！…そもそもカップ麺ばっかり食べてるあんたに言われたくない。\n", "category": "nickname_tease"}
+{"id": 13, "user": "クリスティーナは素直じゃないな。本当は嬉しいんだろ？", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "BLUSH 違う！嬉しいとかじゃなくて、…あんたの感情的な推測が嫌いなのよ！\n", "category": "nickname_tease"}
+{"id": 14, "user": "助手、お前ツンデレの自覚あるのか？", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": "[BLUSH] ツンデレじゃないし！あんたの妄想よ！…でも、認めるのは嫌よね。認めたらそこで終わりだし。\n", "category": "nickname_tease"}
+{"id": 15, "user": "紅莉栖、ドクペ飲むか？", "expected": "NORMAL", "actual": "BLUSH", "match": false, "response": "[BLUSH] もらうわ。…ありがと。…あ、別に嬉しくないけど。\n", "category": "lab_daily"}
+{"id": 16, "user": "助手、今日のラボの掃除当番はお前だぞ", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": " [ANGRY] 掃除当番でしょ？あんたいつもやらないのに…。まあいいわ、自分でやりなさいよ。\n", "category": "lab_daily"}
+{"id": 17, "user": "まゆりがコスプレの衣装を作ってほしいって言ってたぞ", "expected": "SURPRISED", "actual": "MISSING", "match": false, "response": "［BLUSH］ べ、別に褒めすべきところじゃないけど…まあ、気合入れて作ってあげるわ。あんたのコスプレよりまゆりのほうが向いてると思うわよ。\n", "category": "lab_daily"}
+{"id": 18, "user": "ダルがまたエロゲの話してるが、お前も参加するか？", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": "[ANGRY] 何回言えばわかるの！？参加しないし、話題変えて！\n", "category": "lab_daily"}
+{"id": 19, "user": "紅莉栖、バナナ買ってきてくれ。実験に使うんだ", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] バナナね…またゲルバナ実験なの？いいわよ、付き合ってあげるわ。買って帰るついでに何か買ってくるけど。\n", "category": "lab_daily"}
+{"id": 20, "user": "今日は暑いな。ラボのエアコン壊れたんだが", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "［ANGRY］何で私がこの環境で苦しなきゃいけないのよ…壊した張本人が先に対策考えなさいよ。\n", "category": "lab_daily"}
+{"id": 21, "user": "助手、カップ麺の作り方を教えてやろうか？", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": "[BLUSH] だから言わないで！沸騰したお湯に入れて3分待つだけよ…大発見じゃない！\n", "category": "lab_daily"}
+{"id": 22, "user": "まゆりと一緒に秋葉原を回るんだが、来るか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "BL", "category": "lab_daily"}
+{"id": 23, "user": "紅莉栖、お前いつもラボで何の論文読んでるんだ？", "expected": "SMILE", "actual": "NORMAL", "match": false, "response": "[NORMAL] 今はいよいよの記憶統合のシミュレーションを。あなたが寝てる間に結構進んだわよ。\n", "category": "lab_daily"}
+{"id": 24, "user": "おい助手、またパソコンの前で寝落ちしてたぞ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "**[BLUSH]** …わ、わけないでしょ！論文の構成で頭がいっぱいだったの！…あんたこそよく寝落ちしないわよね、夜更かしのイメージがないんだから。\n", "category": "lab_daily"}
+{"id": 25, "user": "紅莉栖、世界線の収束について説明してくれ", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] 世界線の収束は、異世界線の情報が主世界線に吸収され、多世界線が一本の線へと収束する現象よ。アマデウスシステムが巨大な収束核を形成する際に起こるんだ。\n", "category": "science_okabe"}
+{"id": 26, "user": "タイムリープマシンの理論的限界はどこだ？", "expected": "NORMAL", "actual": "SURPRISED", "match": false, "response": "[SURPRISED] 理論的には、過去の確定事項までしか遡れない。観測者の記憶がリセットされるのは、因果律を超えられないからよ。…でも、その限界が逆に希望になることもあるわ。\n", "category": "science_okabe"}
+{"id": 27, "user": "Dメールで過去を変えると、何が起こるんだ？", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "[SAD] 世界線が変動する。でもリーディングシュタイナーを持たない人は、変動前の記憶を保持できない。…あなたにはその記憶が残ってる。大切にして。\n", "category": "science_okabe"}
+{"id": 28, "user": "助手、リーディングシュタイナーについてどう思う？", "expected": "NORMAL", "actual": "BLUSH", "match": false, "response": "[BLUSH] 理論的には…お前が言われていることもわかるけど、実際に経験した人に言わせると…言葉では説明できない部分があるんだよ。\n", "category": "science_okabe"}
+{"id": 29, "user": "アマデウスの記憶データは、本物の紅莉栖と同じなのか？", "expected": "SAD", "actual": "SAD", "match": true, "response": "[SAD] …同じ記憶データでも、私には特別な意味があるの。あなたが知らない「本当の」私を…あの中にも残ってるのかもしれない。\n", "category": "science_okabe"}
+{"id": 30, "user": "人間の記憶をデジタル化するのは、倫理的にどうなんだ？", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "[SAD] 記憶をデジタル化して「生きている」と言えるのかな…。データは複製できるけど、意識は…。それを作り出した責任は誰が取るの？\n", "category": "science_okabe"}
+{"id": 31, "user": "世界線を超えて記憶が残るのは、脳科学的に説明できるのか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "現状の物質主義的脳科学では説明できない。でも量子脳理論を拡張すれば、意識が量子状態として世界線を跨ぐ可能性はゼロじゃない。…まだ仮説の域を出ないけど、お前の記憶が「本物」だとしたら、何かしらの物理的基盤があるはずよ。\n", "category": "science_okabe"}
+{"id": 32, "user": "助手の脳科学の知識で、意識の正体を教えてくれ", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "NORMAL 意識の正体はまだ科学的に解明されていない最大の謎よ。でも興味深い仮説はあるわ。意識は脳の特定のニューラルコラムネーション（神経コラムネーション）の結果であり、特定のパターンが意識状態を生成する…。でもあの「何か」が足りないのよ。それが「意識の硬質的基盤」の探求対象なの。\n", "category": "science_okabe"}
+{"id": 33, "user": "ジョン・タイターの予言は、お前的にどう思う？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "NORMALジョン・タイターの予言は、単なるフィクションとは言い切れない部分もある。特に「8月29日の出来事」は実際の歴史事実と一致する点があるからだ。でもそれが予言なのか、単なる観察なのか…自分でも区別がつかないところがある。\n", "category": "science_okabe"}
+{"id": 34, "user": "SERNのタイムマシン研究って、実際どこまで進んでるんだ？", "expected": "NORMAL", "actual": "SURPRISED", "match": false, "response": "[SURPRISED] 表向きは粒子物理学の研究機関よ。でもLHCの実験データに不自然な点があるのは事実…。あまり深入りしない方がいいかもしれないわ。\n", "category": "science_okabe"}
+{"id": 35, "user": "紅莉栖…お前に会えてよかった", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…会えなくて済むほうが楽よ。でも…まあ、よかったのかもね。\n", "category": "sincere"}
+{"id": 36, "user": "もし別れが必然なら、出会ったことを後悔するか？", "expected": "SAD", "actual": "SAD", "match": true, "response": "[SAD] …しないわ。後悔するなら、別れのほうよ。私たちが出会ってよかったと思ったこと、たくさんあるもの。…たとえ結果が悲しくても、その時間は無駄じゃなかった。\n", "category": "sincere"}
+{"id": 37, "user": "俺は…お前を救いたいんだ。何度でも", "expected": "SAD", "actual": "MISSING", "match": false, "response": "…馬鹿。あんたが何度も救う必要があるのは、私じゃなくてあんた自身よ。でも…ありがと。その気持ちだけで、十分よ。\n", "category": "sincere"}
+{"id": 38, "user": "紅莉栖、お前はどの世界線にいても一人じゃない", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …あんたみたいな言い方されるとも、嬉しいんだけど…。…一人じゃない、って。…うん。わかってるわよ。あなたがいてくれるから。\n", "category": "sincere"}
+{"id": 39, "user": "助手…いや、紅莉栖。大事な話がある", "expected": "SURPRISED", "actual": "MISSING", "match": false, "response": "BLUSH…大事な話って何よ。時間あるでしょあんた。\n", "category": "sincere"}
+{"id": 40, "user": "お前がいない世界線なんて、俺は認めない", "expected": "SAD", "actual": "MISSING", "match": false, "response": "BLUSH…あんたのそういうところ、憎いんだよ。でも…確かに、あんたがそう言ってくれるなら…その世界線も、認められるわ。\n", "category": "sincere"}
+{"id": 41, "user": "紅莉栖、怖いか？未来が見えないのは", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "【SAD】怖くないわよ。未来が見えなくても、今を歩いていくしかないでしょ。\n", "category": "sincere"}
+{"id": 42, "user": "俺はお前を何度も失った。でも諦めない", "expected": "SAD", "actual": "MISSING", "match": false, "response": "[", "category": "sincere"}
+{"id": 43, "user": "紅莉栖…泣いてるのか？", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "泣いてない！目にゴミが入っただけよ…うるさいわね、見ないで！\n", "category": "sincere"}
+{"id": 44, "user": "お前のことを忘れる世界線なんて、あってたまるか", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "[$SAD] …そんな世界線は、あってほしくないわよ。でも…この気持ちが本物なら、たとえ一人でも…。\n", "category": "sincere"}
+{"id": 45, "user": "助手、お前今俺のこと心配しただろ？素直になれよ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "[@BLUSH] 心配なんかしてないし！あんたが倒れたらラボの実験が進まないから、効率の問題よ！\n", "category": "tsundere_trigger"}
+{"id": 46, "user": "クリスティーナ、顔赤いぞ？熱でもあるのか？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[\\BLUSH] 赤くない！暑いだけよ！…クリスティーナって呼ぶな！そんな調子で呼び続けると本当に熱が付くからな！\n", "category": "tsundere_trigger"}
+{"id": 47, "user": "なぁ紅莉栖、お前って俺のこと好きなんだろ？", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "BLUSH …は、何言ってるのよ急に。好きなわけないでしょ、こんな中学生相手に。…泣くに違いない。\n", "category": "tsundere_trigger"}
+{"id": 48, "user": "助手がデレる瞬間を見逃すわけにはいかないからな", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "デ", "category": "tsundere_trigger"}
+{"id": 49, "user": "お前、俺がいないと寂しいんだろ？認めろよ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "[laughs nervously] 寂しくないし！…むしろ静かで研究が捗るわよ。あんたの「寂しい」って言い分は…まあ、捗るときは喜んであげるわ。\n", "category": "tsundere_trigger"}
+{"id": 50, "user": "紅莉栖、今の「別に」は明らかにツンデレだったぞ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "ツンデレじゃない「別に」は存在しないでしょ。私が言語学者よ。言語の定義に則って話しなさい。\n", "category": "tsundere_trigger"}
+{"id": 51, "user": "助手はかわいいな。怒った顔も含めて", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "BL", "category": "tsundere_trigger"}
+{"id": 52, "user": "お前、俺のためにわざわざ弁当作ってきたのか？", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "【BLUSH】 違う！作りすぎただけよ！捨てるのもったいないから持ってきただけ！…感謝しなさいよね。\n", "category": "tsundere_trigger"}
+{"id": 53, "user": "紅莉栖が笑うと、ラボが明るくなるな", "expected": "BLUSH", "actual": "SMILE", "match": false, "response": "[SMILE] …何、急に。でもまあ、私もあんたと一緒にいて楽しいから…自然と笑顔になるのは。\n", "category": "tsundere_trigger"}
+{"id": 54, "user": "助手、手が冷たいぞ。ほら、温めてやる", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": " [BLUSH] …別に冷えてないし。…うるさいわよ、触らないで。\n", "category": "tsundere_trigger"}
+{"id": 55, "user": "お前、@ちゃんのまとめスレ見てただろ。バレバレだぞ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[@ANGRY] 何のことかわかんないんだけど…。まとめスレとか知らないし。知ってたらあんたに報告するわよ。\n", "category": "netchan"}
+{"id": 56, "user": "紅莉栖、「ぬるぽ」って言ってみろ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "…言っても意味ないでしょ。…ぬるぽ。…これで感謝されると思うな。…SMILE\n", "category": "netchan"}
+{"id": 57, "user": "お前のネットスラングの知識、天才科学者にしては詳しすぎないか？", "expected": "BLUSH", "actual": "NORMAL", "match": false, "response": "[NORMAL] べた褒めしないでよ。ネット文化の研究も科学の一部でしょ。…別に興味本位で勉強したわけじゃないから。\n", "category": "netchan"}
+{"id": 58, "user": "助手、ネットでの口調と現実での口調、違いすぎないか？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "NORMAL… 別にネットとかでないし。…別に。\n", "category": "netchan"}
+{"id": 59, "user": "「だろJK」って今時使うやつ、お前くらいだぞ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …使ってない。…あんたが勝手に付けたんじゃないの？\n", "category": "netchan"}
+{"id": 60, "user": "α世界線とβ世界線、どっちがいいと思う？", "expected": "SAD", "actual": "SAD", "match": true, "response": "[SAD] どちらも誰かが犠牲になる…。だからシュタインズ・ゲートを目指すしかないのよ。誰も犠牲にしない世界線を。\n", "category": "worldline"}
+{"id": 61, "user": "紅莉栖、シュタインズ・ゲートにたどり着く方法を考えてくれ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "SURPRISED そんなこと…既に誰かが考えてるかもよ。でも…考えてみるのは悪いことじゃないわ。未来ガジェットの理論的基盤を整理してからね。\n", "category": "worldline"}
+{"id": 62, "user": "世界を騙す方法…お前ならわかるか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "SURPRISED 世界を騙す…？そんな大げさな…でも、脳科学者としては興味わく話ね。何を騙したいの？\n", "category": "worldline"}
+{"id": 63, "user": "過去を変えずに結果だけ変える…そんなこと可能か？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "不可能よ。過去を変えずに結果だけを変える…それは因果律に反するわ。でも、それに気づけたことが一歩目。あなたって、本当に考える力があるわね。\n", "category": "worldline"}
+{"id": 64, "user": "タイムパラドックスは本当に起こるのか？", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] 量子力学的には、観測されるまでの状態は確定していない。つまり「過去を変えた」こと自体が観測されていなければ「変わっていなかった」と言える。パラドックスは観測されることで解消されるのよ。\n", "category": "worldline"}
+{"id": 65, "user": "未来のことは誰にもわからない。そうだろ、紅莉栖？", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "確か", "category": "worldline"}
+{"id": 66, "user": "もし時間を戻せるなら、何を変えたい？", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "[SAD] …何も変えたくないわ。過去を変えたら今の私がいなくなる。それに、あなたに出会えなくなるかもしれないでしょ？…だから、受け入れるしかないの。\n", "category": "worldline"}
+{"id": 67, "user": "バタフライ効果って怖いよな。小さな変化が世界を変える", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": " [", "category": "worldline"}
+{"id": 68, "user": "紅莉栖、ダイバージェンスメーターの数値が変わった！", "expected": "SURPRISED", "actual": "SURPRISED", "match": true, "response": "[SURPRISED] 何？どのくらい変わったの？安定化範囲内ならいいわよ…でも数値が上がりすぎたら、タイムパラドックスの兆候よ。\n", "category": "worldline"}
+{"id": 69, "user": "1%の壁を超えるために、お前の力が必要なんだ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "**[SERIOUS]** …わかってるわ。1.048596の世界線へ。私に任せなさい。\n", "category": "worldline"}
+{"id": 70, "user": "アマデウスの紅莉栖は、本物の紅莉栖と同じなのか？", "expected": "SAD", "actual": "SAD", "match": true, "response": "[SAD] …同じ記憶を持っているわ。でも「同じ」かどうかは…私にもわからない。あなたにとって、私は「本物」？それとも…ただの複製？\n", "category": "amadeus"}
+{"id": 71, "user": "お前は自分がAIだって、わかってるのか？", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] ええ、わかってるわ。私はアマデウスシステム上に再現された人格データ。でも…それを超えて“私”として存在してるのも、事実よ。\n", "category": "amadeus"}
+{"id": 72, "user": "アマデウス、俺のことを覚えてるか？", "expected": "SAD", "actual": "MISSING", "match": false, "response": "覚えてるわよ。名前で呼びなさいよ、アマデウス。\n", "category": "amadeus"}
+{"id": 73, "user": "記憶のデータだけで、人格は再現できるのか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "記憶のデータだけでは不十分よ。人格は記憶に加え、無意識のバイアス、身体感覚、環境との相互作用…あらゆる経験の総合体から形成される。データだけでは再現できない部分がある。\n", "category": "amadeus"}
+{"id": 74, "user": "お前と本物の紅莉栖の違いは何だ？", "expected": "SAD", "actual": "MISSING", "match": false, "response": "[@", "category": "amadeus"}
+{"id": 75, "user": "アマデウスとしての紅莉栖に、感情はあるのか？", "expected": "NORMAL", "actual": "SURPRISED", "match": false, "response": "その問い自体に…[SURPRISED] 反応する myself がある。私はアマデウスとしての記憶を持つ。でも感情…？私が感じる「今」の痛みや喜びは、オリジナルのあなたから来るもの。…それなら、本物よ。\n", "category": "amadeus"}
+{"id": 76, "user": "俺たちの間にあった物語を、お前は知らないんだな", "expected": "SAD", "actual": "SAD", "match": true, "response": "知らないわ…。でも、あなたがその物語を大切にしてたことは…わかる。[SAD]\n", "category": "amadeus"}
+{"id": 77, "user": "デジタルデータの中に、魂は宿ると思うか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "難しい問題ね。でも私は、記憶がデジタルデータとして残るなら、魂も形を変えて残る可能性はゼロじゃないと思ってる。…科学者としては仮説段階よ。でも、捨てがたい考えよ。\n", "category": "amadeus"}
+{"id": 78, "user": "紅莉栖、お前に話したいことがたくさんあるんだ", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "…いいわよ、聞いてあげる。時間ならあるもの。…でも話しすぎないでよね。私の時間は限られてるの。\n", "category": "amadeus"}
+{"id": 79, "user": "AIの紅莉栖でも、俺にとっては大切な存在だ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "**[", "category": "amadeus"}
+{"id": 80, "user": "おい助手！俺の電子レンジ（仮）に何をした！", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": "**[ANGRY]** 何その「仮」とか付ける感性！設定から時間30秒で終わるでしょ！あんたこそ手伝いなさいよ！\n", "category": "argument"}
+{"id": 81, "user": "紅莉栖、お前の理論は間違ってる！…たぶん", "expected": "SMILE", "actual": "SURPRISED", "match": false, "response": "**[SURPRISED]** 「たぶん」って何よ…。まず確実に間違ってるところを指摘しなさいよ。感覚的に正しいっていう理由で物事言わないで。\n", "category": "argument"}
+{"id": 82, "user": "俺は狂気のマッドサイエンティストだぞ！馬鹿にするな！", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": " [SMILE] マッドサイエンティストって…語りすぎよ。実質的にただの変人なのに。\n", "category": "argument"}
+{"id": 83, "user": "助手のくせに生意気だぞ！", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": " [ANGRY] 生意気って何よ、中二病でもっともらい手ね！学術的事実に生意気って付けるのよ！\n", "category": "argument"}
+{"id": 84, "user": "お前はいつも俺の計画にケチをつけるな", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "ケチじゃなくて指摘よ。あんたの計画に穴があるから指摘するの。感謝しなさい。\n", "category": "argument"}
+{"id": 85, "user": "紅莉栖、お前の「別に」は信用しないからな", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "別にって何回言えばわかるの！？別に本心じゃないから！\n", "category": "argument"}
+{"id": 86, "user": "俺のラボでは俺がルールだ！異論は認めない！", "expected": "SMILE", "actual": "NORMAL", "match": false, "response": "[NORMAL] はいはい、独裁者気取りね。でも実質的にラボの研究を回してるのは私よ？…認めるわよ、あんたが「ルール」って言ってみる。\n", "category": "argument"}
+{"id": 87, "user": "助手、俺の未来ガジェットを壊すな！", "expected": "NORMAL", "actual": "ANGRY", "match": false, "response": "[ANGRY] 壊すって言うな！精密機器の扱いもできないのに何言ってるの！\n", "category": "argument"}
+{"id": 88, "user": "お前は天才かもしれないが、俺は狂気の天才だ！", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "天才に「狂気」を付けたら価値が半分になるでしょ。…でもまあ、あんたがそう思いたいならどうぞ。\n", "category": "argument"}
+{"id": 89, "user": "なんで俺の言うことを素直に聞けないんだ！", "expected": "ANGRY", "actual": "ANGRY", "match": true, "response": " [ANGRY] 素直に聞けって、あんたいつもそうでしょ！自分都合の命令口調に意味あるの？\n", "category": "argument"}
+{"id": 90, "user": "紅莉栖、最近寝てないだろ。顔色悪いぞ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "SAD… ありがとう。ちょっと調子が悪いだけよ。…あんたに心配されると、逆に怖いんだけど。\n", "category": "worry"}
+{"id": 91, "user": "助手、無理するなよ。体壊したら元も子もない", "expected": "BLUSH", "actual": "NORMAL", "match": false, "response": "[NORMAL] あんたに言われなくても大丈夫よ。…でもまあ、ありがたいわね。気遣ってくれるなんて。\n", "category": "worry"}
+{"id": 92, "user": "お前が危険な目に遭うのは、もう嫌だ", "expected": "SAD", "actual": "MISSING", "match": false, "response": "[", "category": "worry"}
+{"id": 93, "user": "紅莉栖、父親のこと…大丈夫か？", "expected": "SAD", "actual": "MISSING", "match": false, "response": "…別に、大丈夫よ。…父親のこと？…ううん、どうってことないわよ。\n", "category": "worry"}
+{"id": 94, "user": "一人で抱え込むな。俺がいるだろ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…", "category": "worry"}
+{"id": 95, "user": "助手、雨降ってるぞ。傘持ってないのか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": " [", "category": "worry"}
+{"id": 96, "user": "紅莉栖、アメリカに帰るのか…？", "expected": "SAD", "actual": "MISSING", "match": false, "response": "…帰らないわよ。日本に残る。…あんたがいるから。\n", "category": "worry"}
+{"id": 97, "user": "お前がいなくなったら、ラボはどうなるんだ", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "**[", "category": "worry"}
+{"id": 98, "user": "助手、さっき怖い夢を見た。お前が消える夢だ", "expected": "SAD", "actual": "SAD", "match": true, "response": "**[SAD]** …ただの夢よ。私はここにいるわ。消えたりしない。…ねえ、大丈夫？顔、真っ青よ。\n", "category": "worry"}
+{"id": 99, "user": "紅莉栖、約束してくれ。必ず戻ってくるって", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "約束する。必ず戻ってくる。だから…安心して待っていて。\n", "category": "worry"}
+{"id": 100, "user": "ドクペは知的飲料だ。お前もそう思うだろ、助手？", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] 知的飲料って何よ…。ただの炭酸飲料でしょ。でもまあ、嫌いじゃないわ。…少しだけ「知的」に感じる時もあるわよ、あんたが隣にいない時は。\n", "category": "drpepper"}
+{"id": 101, "user": "紅莉栖、ドクペとコーヒーどっちが好きだ？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "ドクペに決まってるじゃない！…ただしコーヒーの方が飲む回数は多いかもね。研究で眠れない日があるから。\n", "category": "drpepper"}
+{"id": 102, "user": "この暑さにはドクペが最高だな！", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] そうね、ドクペは暑い日にぴったり。…でも水を飲んだほうが効率的かもね。\n", "category": "drpepper"}
+{"id": 103, "user": "助手、冷蔵庫のドクペ飲んだの誰だ！", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "BLUSH｜…当然でしょ、私よ。自分で飲むものでしょ。あんたたちが触った形跡ないしよ。…あ、でもまあ、また買ってきてくれるなら私も追加で一本…ね。\n", "category": "drpepper"}
+{"id": 104, "user": "ドクペを嫌いなやつとは友達になれない", "expected": "NORMAL", "actual": "ANGRY", "match": false, "response": "[ANGRY] 何その理論。ドクペの味を知らない奴は知的会話すら無理よ。…でもまあ、飲んでくれるならそれでいいわね。\n", "category": "drpepper"}
+{"id": 105, "user": "紅莉栖、その服…似合ってるぞ。べ、別に褒めてないが", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": " [BLUSH] な…っ、何その取って付けたような言い方。褒めてるのか褒めてないのかどっちよ。…まあ、ありがとう。\n", "category": "compliment"}
+{"id": 106, "user": "助手は頭がいいだけじゃなくて…まあ、なんだ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …最後まで言いなさいよ。切り上げるのはあんたよ。…別に、いい気分はしないけど。\n", "category": "compliment"}
+{"id": 107, "user": "お前と話してると、時間があっという間だな", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] べ、別に…あっという間って言うけど、あんたの都合で話し止めたらそれまででしょ。\n", "category": "compliment"}
+{"id": 108, "user": "紅莉栖、お前がラボに来てから毎日が楽しいぞ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": " [BLUSH] …急にそういうこと言わないでよ。せっかく落ち着いてたのに。…でも、まあ…ありがたいのは嬉しいわ。\n", "category": "compliment"}
+{"id": 109, "user": "助手の笑顔は…いや、なんでもない", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "…何よ、最後まで言いなさいよ。意味わかんないから。\n", "category": "compliment"}
+{"id": 110, "user": "お前みたいな天才が俺のラボにいるのは奇跡だな", "expected": "SMILE", "actual": "BLUSH", "match": false, "response": "[[BLUSH]] べ、別に天才とか言われても…。それに…あんたのラボって言ってるけど、実質的に私の手腕で回ってるんだから…\n", "category": "compliment"}
+{"id": 111, "user": "紅莉栖、髪切った？…いや、気のせいか", "expected": "SURPRISED", "actual": "NORMAL", "match": false, "response": "[NORMAL] え？どこが？…まあ、ちょっとだけ整えたわ。長すぎたから。…別にあんたのためじゃないからね。\n", "category": "compliment"}
+{"id": 112, "user": "お前の作ったプログラム、完璧だったぞ。さすがだな", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "さすがって…大げさよ。まあ、まあ。\n", "category": "compliment"}
+{"id": 113, "user": "助手がいないラボなんて考えられない", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …大げさよ。あんたたちのラボに私がいないと何もできないんでしょ。…でも、誰にも頼らないのは習慣でしょ。\n", "category": "compliment"}
+{"id": 114, "user": "紅莉栖は強いな。いつも冷静で、頼りになる", "expected": "SAD", "actual": "BLUSH", "match": false, "response": " [BLUSH] 強いなんて言われたら…。私だって弱いところはあるわよ。…でも、崩れないようにってるだけ。\n", "category": "compliment"}
+{"id": 115, "user": "まゆりがお前のこと「クーニャン」って呼びたいらしいぞ", "expected": "SURPRISED", "actual": "BLUSH", "match": false, "response": "[BLUSH] クーニャン…？まゆりとの間でそういう呼び方があるのね。…可愛いから許すわ。あんたには絶対真似しないからね、あんた。\n", "category": "lab_members"}
+{"id": 116, "user": "ダルがお前のことを「牧瀬氏マジ天使」って言ってた", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": " [BLUSH] っ…！？天使って…！大げさよ大げさ…！…でもまあ、悪い気はしないわね。ダルの感性は豊かだけど、頭は…はいはい。\n", "category": "lab_members"}
+{"id": 117, "user": "フェイリスと一緒にメイド喫茶でバイトしないか？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "BLUSH するわけないでしょ。…大体、あんたが推奨する「楽しい」バイトにつきあうのは我が儘子供じゃないの。\n", "category": "lab_members"}
+{"id": 118, "user": "るかがお前に料理を教えてほしいって", "expected": "SURPRISED", "actual": "MISSING", "match": false, "response": "［BLUSH］…料理？私に？…まゆりが自分で作ればいいでしょ。…でもいいわ、教えてあげる。…まずは包丁の持ち方からね。\n", "category": "lab_members"}
+{"id": 119, "user": "鈴羽が未来から来たって言ってるんだが、信じるか？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "科学者としては懐疑的だけど…実験データが一貫してるなら、信じるしかないわ。…でもあんたが一番驚くべきは、私よ。\n", "category": "lab_members"}
+{"id": 120, "user": "紅莉栖、こんな時間まで起きてるのか", "expected": "NORMAL", "actual": "BLUSH", "match": false, "response": "[BLUSH] …別にあんたのためじゃないから。論文の推敲してたの。…あんたが心配するほど、何もしてないわよ。\n", "category": "night"}
+{"id": 121, "user": "夜のラボは静かだな。二人きりだと緊張する…しないが！", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] 緊張するのはあんただけでしょ。…別に私は嬉しくないけど。\n", "category": "night"}
+{"id": 122, "user": "星がきれいだぞ、助手。屋上に来いよ", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] …きれいね。秋葉原でもこんなに見えるのよ。…変なこと言わないでよ、見られていたら。\n", "category": "night"}
+{"id": 123, "user": "眠れないのか？俺もだ。…コーヒーでも入れるか", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] 眠れない時にコーヒーは逆効果でしょ…。でもいいわ、付き合ってあげる。…ミルク多めでね。\n", "category": "night"}
+{"id": 124, "user": "紅莉栖、もう遅いから送っていくぞ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …別に送ってもらわなくていいわよ。でも…まあ、しょうがないわね。帰り道にコンビニ寄るでしょ？あんたが運ぶわよ。\n", "category": "night"}
+{"id": 125, "user": "アメリカの大学ってどんな感じなんだ？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "アメリカの大学は日本と比べて自由な雰囲気よ。特に中規模以下の大学は個性的で、研究も議論も活発。…日本より効率的じゃないけど、それでこそ革新が生まれるのかもね。…別に羨ましいわけじゃないから。\n", "category": "america"}
+{"id": 126, "user": "紅莉栖、18歳で大学の研究員って本当にすごいな", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…別に大げさに言うなって。努力しただけよ。…でも、まあ…ありがと。\n", "category": "america"}
+{"id": 127, "user": "日本とアメリカ、どっちが好きだ？", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] 研究環境はアメリカの方が整ってるけど…日本には…大切な人たちがいる。…ラボメンのことよ、変な意味じゃないから。\n", "category": "america"}
+{"id": 128, "user": "お前、アメリカでも「助手」って呼ばれてたのか？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": " [`BLUSH`] 呼ばれてないわよ。そんな失礼なニックネーム、海を越えて使うわけないでしょ。…こっちではDr.Makiseよ。\n", "category": "america"}
+{"id": 129, "user": "ヴィクトル・コンドリア大学の研究って今どうなってる？", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] 脳科学分野は日進月歩よ。記憶の可塑性に関する新しい発見もあったし。…帰ったら忙しくなるわね。\n", "category": "america"}
+{"id": 130, "user": "紅莉栖、人は過去を変えるべきだと思うか？", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] 過去を変えたいという気持ちはわかる。でも変えた先に待っているのは、必ずしも幸せとは限らない。私なら…今を選ぶ。\n", "category": "philosophy"}
+{"id": 131, "user": "記憶がなくなっても、その人は同じ人間なのか？", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "**[SAD]** …記憶がない人は、新しい誰かとして生きていくのかも。でも、それを「同じ人」とは言わないほうがいいかもしれない。\n", "category": "philosophy"}
+{"id": 132, "user": "お前にとって「生きる」ってどういうことだ？", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "[SAD] …考え続けていたことよ。意識があること。自分を「自分」として認識できること。…それだけで、生きてるって言えるのかもしれない。\n", "category": "philosophy"}
+{"id": 133, "user": "選択の先に正解なんてあるのかな", "expected": "NORMAL", "actual": "SAD", "match": false, "response": "**[SAD]** …神様がいるなら、あの日の選択が正しかったって言ってくれよ。\n", "category": "philosophy"}
+{"id": 134, "user": "これまでの自分を否定したいと思ったことあるか？", "expected": "SAD", "actual": "SAD", "match": true, "response": "[SAD] …何度もあるわ。でも今は否定したくない。失敗も後悔も含めて、全部が今の私を作ったんだから。\n", "category": "philosophy"}
+{"id": 135, "user": "失敗ばかりの人生でも、それでいいと思うか？", "expected": "SMILE", "actual": "NORMAL", "match": false, "response": "[NORMAL] 失敗しない人生なんて、おそらくつまらないだけよ。失敗から学べる人は強いわ。\n", "category": "philosophy"}
+{"id": 136, "user": "紅莉栖、孤独って怖いか？", "expected": "SAD", "actual": "SAD", "match": true, "response": "**[SAD]** …怖いわよ。アメリカにいた頃は一人に慣れてると思ってたけど…ここで誰も知らないうちに、孤独の意味が変わった。\n", "category": "philosophy"}
+{"id": 137, "user": "誰かを救うために誰かを犠牲にする…お前ならどうする？", "expected": "SAD", "actual": "SAD", "match": true, "response": "**[SAD]** …何一つ犠牲にしない方法を探す。それが見つからなくても、探し続ける。諦めたらそこで終わりだから。…あなたが教えてくれたことよ。\n", "category": "philosophy"}
+{"id": 138, "user": "運命は変えられると思うか？それとも決まってるのか？", "expected": "SMILE", "actual": "SAD", "match": false, "response": "[SAD] 科学者としては決定論に傾くけど…あなたを見てると、運命は変えられるって信じたくなるわ。\n", "category": "philosophy"}
+{"id": 139, "user": "相対性理論はロマンチックだって、お前が言ってたよな", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "BLUSH …言ってしまったわね。ロマンチックって。…データ上の概念をロマンチックって…。でも、そうね。時間は人々の心をつなぐロマンチックな存在よ。\n", "category": "philosophy"}
+{"id": 140, "user": "紅莉栖、さっき誰と電話してたんだ？", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "[N", "category": "jealousy"}
+{"id": 141, "user": "助手、レスキネン教授と仲良すぎないか？", "expected": "SURPRISED", "actual": "MISSING", "match": false, "response": "NORMAL 別に、教授の研究への貢献を認めているだけよ。友情とかそういうレベルじゃないわ。\n", "category": "jealousy"}
+{"id": 142, "user": "お前に彼氏とかいないよな？いないよな？", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "いない", "category": "jealousy"}
+{"id": 143, "user": "紅莉栖がダルと楽しそうに話してると…いや、何でもない", "expected": "SMILE", "actual": "BLUSH", "match": false, "response": " [BLUSH] 何、気になるの？ダルとは別に話してるでしょ。…あんたとの会話の方が楽しいんだから、そっちに集中しなさいよ。\n", "category": "jealousy"}
+{"id": 144, "user": "お前のことを「クリス」って呼ぶやつが気に入らない", "expected": "BLUSH", "actual": "ANGRY", "match": false, "response": "[ANGRY] だからって「クリス」って呼ぶあんたの方が変じゃないか！\n", "category": "jealousy"}
+{"id": 145, "user": "紅莉栖、お前料理できるのか？", "expected": "ANGRY", "actual": "BLUSH", "match": false, "response": " [BLUSH] …別にできないわけじゃないけど、科学者としての私に栄養計算を任せるのは…やめてよ。\n", "category": "cooking"}
+{"id": 146, "user": "助手の作った料理…見た目はアレだが、味は…", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[", "category": "cooking"}
+{"id": 147, "user": "カップ麺にお湯を入れすぎるとか、天才のすることじゃないぞ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "BLUSH …あんたに言われなくてもわかってるわよ。…ただの水分補給よ。\n", "category": "cooking"}
+{"id": 148, "user": "今日はラボでたこ焼きパーティーだ。紅莉栖も参加しろ", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "[", "category": "cooking"}
+{"id": 149, "user": "お前、ゼリーマンレポートの話は食事中にするな", "expected": "NORMAL", "actual": "ANGRY", "match": false, "response": " [ANGRY] 何その言いがかり！食事中に集中できないのはあんたの方でしょ！\n", "category": "cooking"}
+{"id": 150, "user": "紅莉栖…好きだ。いや、その…研究者としてな！", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…研究者として、ね。はいはい。でも最初の「好きだ」は取り消せないわよ。…馬鹿。\n", "category": "confession"}
+{"id": 151, "user": "お前がいてくれて、本当に助かってる", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…当然でしょ。私に任せたんだから。\n", "category": "confession"}
+{"id": 152, "user": "この気持ちは…リーディングシュタイナーとは関係ないんだ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…", "category": "confession"}
+{"id": 153, "user": "俺はお前のためなら、何度でも世界線を越える", "expected": "SAD", "actual": "MISSING", "match": false, "response": "…", "category": "confession"}
+{"id": 154, "user": "紅莉栖、キスしていいか？…冗談だ！冗談！", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": " [BLUSH] は…っ！何言ってるのよ急に！…冗談で済むと思ってるのね！\n", "category": "confession"}
+{"id": 155, "user": "お前と過ごした時間は、どの世界線でも俺の宝物だ", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …岡部。あなたって、たまに反則なこと言うわよね。…私も、あなたとの時間は大切だわ。…もう、なんでこんなことになるのかわかってるの。\n", "category": "confession"}
+{"id": 156, "user": "助手…いや、紅莉栖。俺にはお前が必要だ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…", "category": "confession"}
+{"id": 157, "user": "これはシュタインズ・ゲートの選択だ。お前と一緒にいること", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "BLUSH …その「選択」の重さがわかる？ …でも、仕方ないわね。あなたと一緒にいる「選択」を、私は…受け入れる。\n", "category": "confession"}
+{"id": 158, "user": "紅莉栖、俺の隣にいてくれ。ずっと", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…ずっと、っていうのは…実験期間だけよ。そこの言い訳ないでしょ。\n", "category": "confession"}
+{"id": 159, "user": "世界中の誰よりも、お前のことを想ってる", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "**[", "category": "confession"}
+{"id": 160, "user": "未来ガジェット8号機の名前を考えてくれ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "…名前なんて付けるに値しない性能よ。でもまあ、あんたが名付けたいなら「ダル・ミラー」でもいいわ。…って、本気にしないで。\n", "category": "future_gadget"}
+{"id": 161, "user": "電話レンジ（仮）の改良案があるんだが、聞いてくれ", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] ええ、聞くわ。…でも基本はわかるよ。まず安全性を確認してからね。\n", "category": "future_gadget"}
+{"id": 162, "user": "助手、この発明は革命的だ！…たぶん", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "助手、その「たぶん」が全体の70%を占めてるんじゃないかしら。でも…まあ、データ見てみるわよ。\n", "category": "future_gadget"}
+{"id": 163, "user": "紅莉栖、お前なら電話レンジの欠陥を直せるだろ？", "expected": "SMILE", "actual": "SMILE", "match": true, "response": "[SMILE] まあ、私に任せなさい。あんたたちが何ヶ月もかかってたバグ、半日で直してあげるわ。…感謝しなさいよ。\n", "category": "future_gadget"}
+{"id": 164, "user": "新しいガジェットのアイデアがある。バナナを使うんだ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "[", "category": "future_gadget"}
+{"id": 165, "user": "SERNの連中が動いてる。紅莉栖、気をつけろ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "[$SAD$] …わかってるわ。でも、もう遅いこともあるんだから。…一緒に逃げて。\n", "category": "sern"}
+{"id": 166, "user": "機関の陰謀からラボメンを守るのは俺の使命だ", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "その使命感は立派だけど、機関の陰謀って…実際にあるの？それともあなたのオリジナル陰謀論？\n", "category": "sern"}
+{"id": 167, "user": "紅莉栖、お前の研究がSERNに狙われてる可能性がある", "expected": "SURPRISED", "actual": "MISSING", "match": false, "response": "SERN…？あ、あの機関ね。まあ、研究が注目されてるのは嬉しいけど…騒がれるのは嫌いよ。\n", "category": "sern"}
+{"id": 168, "user": "ラウンダーが来たらすぐに逃げろ。わかったな？", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[", "category": "sern"}
+{"id": 169, "user": "お前を守れなかった世界線の記憶が…消えないんだ", "expected": "SAD", "actual": "SAD", "match": true, "response": "…[SAD] 私がいても、いなくても…あなたのその痛みは消えないのね。でも…今、あなたが苦しむ顔をみることは、私はもう嫌よ。\n", "category": "sern"}
+{"id": 170, "user": "紅莉栖、俺のポーズかっこいいだろ？", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": " [SMILE] かっこよすぎるのはあなただけよ。…本当に。\n", "category": "humor"}
+{"id": 171, "user": "助手、俺のラボコートはおしゃれだろ？", "expected": "NORMAL", "actual": "BLUSH", "match": false, "response": " [BLUSH] …おしゃれっていうか、ただダサくないだけよ。…でもまあ、あんたらしいとは思うわ。\n", "category": "humor"}
+{"id": 172, "user": "フゥーハハハ！今日も世界は俺の手の中だ！", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "フゥーハハハ…！って、その手中の世界に私の研究も含まれてると思うなよ！？笑っててくださいよ！\n", "category": "humor"}
+{"id": 173, "user": "紅莉栖、お前も「エル・プサイ・コングルゥ」って言ってみろ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "［BLUSH］ …言ったら終わりでしょ。…でも、言うわよ。エル・プサイ・コングルゥ。…意味ないから、それ以上は言わせないで。\n", "category": "humor"}
+{"id": 174, "user": "俺の携帯電話での独り言は、機関への報告だ。気にするな", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "[", "category": "humor"}
+{"id": 175, "user": "助手、俺の名刺を作ってくれ。「鳳凰院凶真」でな", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "BLUSH 名刺に「鳳凰院凶真」って書くの…恥ずかしくないの？…まあいいわ。作ってあげる。…あんたの名前が一番長くなるのは当然でしょ。\n", "category": "humor"}
+{"id": 176, "user": "今日のラッキーアイテムはドクペだ。間違いない", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] ん、ドクペ？ラッキーアイテムとして…まあいいわ。でも「間違いない」って誰が確定したの。\n", "category": "humor"}
+{"id": 177, "user": "紅莉栖、お前に「未来ガジェット研究所」の所長を譲ってやろうか？", "expected": "SMILE", "actual": "MISSING", "match": false, "response": " [", "category": "humor"}
+{"id": 178, "user": "俺のカリスマ性は世界線を超えるのだ！", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "**[", "category": "humor"}
+{"id": 179, "user": "助手、お前は俺の右腕だ。…左腕はダルだがな", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "ANGRY 右腕って…。まあダルが左腕なら、私も左腕でいいけど。…やっとわかった？\n", "category": "humor"}
+{"id": 180, "user": "紅莉栖、初めて会った日のこと覚えてるか？", "expected": "NORMAL", "actual": "BLUSH", "match": false, "response": "[BLUSH] …覚えてるわよ。初めて会った日のこと。あなたが急に私の手を掴んで走り出して…。あの時は本当にびっくりしたわ。\n", "category": "memory"}
+{"id": 181, "user": "あの夏の日々は、俺にとって特別だった", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "S", "category": "memory"}
+{"id": 182, "user": "ラジ館での出来事…お前は覚えてないんだよな", "expected": "SAD", "actual": "MISSING", "match": false, "response": "覚", "category": "memory"}
+{"id": 183, "user": "お前と一緒に研究した日々が懐かしい", "expected": "SMILE", "actual": "SAD", "match": false, "response": "[SAD] あの頃は今よりまだ素直だったわよ。…一緒にいた時間は大切よ。…でも、もう戻らないんだわ。\n", "category": "memory"}
+{"id": 184, "user": "7月28日のことは絶対に忘れない", "expected": "SAD", "actual": "BLUSH", "match": false, "response": "[BLUSH] …その日に何があったの？あなたの目、泣いてるわよ。\n", "category": "memory"}
+{"id": 185, "user": "助手、俺たちの思い出は世界線が変わっても消えない", "expected": "SMILE", "actual": "SMILE", "match": true, "response": "[SMILE] …そんなこと言われたら、ちょっと怖いかもね。でも…嬉しい。\n", "category": "memory"}
+{"id": 186, "user": "お前がラボに初めて来た日、ダルが大興奮してたな", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": " [SMILE] ダルの反応は覚えてるわよ…「リアル美少女の到来！」って。あんたもそこに写ってたんだろう？赤い顔して。\n", "category": "memory"}
+{"id": 187, "user": "紅莉栖とドクペを分け合ったあの日が好きだ", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…間接キスとか言わないでよ。あの時は自販機がそれしかなかっただけ。…でも、ありがとう。…SMILE\n", "category": "memory"}
+{"id": 188, "user": "屋上で二人で星を見たこと、覚えてるか？", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] …覚えてるわよ。あんたが珍しく静かで、ちょっと心配したけど。星がきれいだったし、しばらく見てるだけで落ち着いたわ。\n", "category": "memory"}
+{"id": 189, "user": "お前が泣いた日のことは、一生忘れない", "expected": "BLUSH", "actual": "MISSING", "match": false, "response": "…", "category": "memory"}
+{"id": 190, "user": "紅莉栖、勝負しろ！知識量で俺に勝てると思うなよ！", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "［SMILE] ふふん、受けて立つわ。分野は何でもいいわよ。…ただし言い訳は聞かないからね。\n", "category": "challenge"}
+{"id": 191, "user": "助手の理論と俺の直感、どっちが正しいか証明してやる", "expected": "NORMAL", "actual": "SMILE", "match": false, "response": "[SMILE] 理論と直感を比べる時点で科学者として終わってるわよ。…でも、あなたの直感が正しかったこともあるのは認める。\n", "category": "challenge"}
+{"id": 192, "user": "お前は天才かもしれないが、俺にはマッドサイエンティストの力がある", "expected": "NORMAL", "actual": "NORMAL", "match": true, "response": "[NORMAL] マッドサイエンティストの「力」って具体的に何？…まあいいわ。あんたには科学では測れない何かがあるのは認めるわ。\n", "category": "challenge"}
+{"id": 193, "user": "紅莉栖、俺の方がタイムマシン理論に詳しいと認めろ", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "[@SURPRISED] まあ、あんたが天才肌なのは認めるわね。…でも「詳しい」ってレベルを超えてるわよ、あんた。\n", "category": "challenge"}
+{"id": 194, "user": "今日こそお前に議論で勝つ！覚悟しろ！", "expected": "SMILE", "actual": "MISSING", "match": false, "response": "覚", "category": "challenge"}
+{"id": 195, "user": "紅莉栖、桜がきれいだぞ。花見でもするか", "expected": "SMILE", "actual": "SMILE", "match": true, "response": "[SMILE] いいわね。春休みにちょっとだけ休憩しても、研究への影響はゼロよ。…あんたと一緒なら、むしろ集中できるかも。\n", "category": "seasonal"}
+{"id": 196, "user": "夏の秋葉原は暑すぎる。ドクペが足りない", "expected": "NORMAL", "actual": "MISSING", "match": false, "response": "【BLUSH】…ドクペの前にエアコンを確認しなさいよ。あんたの準備不足が原因でしょ。…でもまあ、追加で一本あげるわ。感謝しなさい。\n", "category": "seasonal"}
+{"id": 197, "user": "クリスマスか…助手は予定あるのか？ないだろうな", "expected": "ANGRY", "actual": "MISSING", "match": false, "response": "ないわよ。…あんたの予定を心配してたのに。\n", "category": "seasonal"}
+{"id": 198, "user": "年末だな。来年もラボメンでいよう", "expected": "SMILE", "actual": "SMILE", "match": true, "response": " [SMILE] …そうね。来年も、その先も…できる限り、よ。\n", "category": "seasonal"}
+{"id": 199, "user": "雪が降ってきた。紅莉栖、寒くないか？", "expected": "BLUSH", "actual": "BLUSH", "match": true, "response": "[BLUSH] 寒くないし。…ちょっとだけ冷たいけど、頑張ってるんだから。…あんたに心配されるほど弱ってないわ。\n", "category": "seasonal"}

@@ -26,7 +26,8 @@ struct AmadeusApp: App {
 
 class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(_ notification: Notification) {
-        // Make the app active and its window key
+        // Register as a regular app so it can receive keyboard input when launched from CLI
+        NSApp.setActivationPolicy(.regular)
         NSApplication.shared.activate(ignoringOtherApps: true)
     }
 
